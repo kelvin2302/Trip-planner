@@ -1,0 +1,2630 @@
+state_code,State,District,City,Category,Sub-category,Micro-category,Product
+1,Andhra Pradesh,Guntur,Guntur,Fruits,All season,Banana,Rasthali Banana
+1,Andhra Pradesh,Kurnool,Kurnool,Fruits,All season,Banana,Sugandhalu Banana
+1,Andhra Pradesh,Chittoor,Chittoor,Bakery,Baked products,Bread,Bread
+1,Andhra Pradesh,Guntur,Guntur,Bakery,Baked products,Bread,Bread
+1,Andhra Pradesh,Kurnool,Kurnool,Bakery,Baked products,Bread,Bread
+1,Andhra Pradesh,Chittoor,Chittoor,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+1,Andhra Pradesh,Guntur,Guntur,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+1,Andhra Pradesh,Kurnool,Kurnool,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+1,Andhra Pradesh,Krishna,Vijayawada,Bakery,Baked products,Brownie,Brownie
+1,Andhra Pradesh,Guntur,Guntur,Bakery,Pastry products,Cakes,Cakes
+1,Andhra Pradesh,Krishna,Vijayawada,Meat,White Meat,Chicken,Chicken
+1,Andhra Pradesh,Krishna,Vijayawada,Meat,White Meat,Chicken,Chicken
+1,Andhra Pradesh,Kurnool,Kurnool,Meat,White Meat,Chicken,Chicken
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Meat,White Meat,Chicken,Chicken
+1,Andhra Pradesh,Chittoor,Chittoor,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+1,Andhra Pradesh,Guntur,Guntur,Vegetables,Nightshade vegetables,Chillies,Guntur Chilli
+1,Andhra Pradesh,Krishna,Vijayawada,Vegetables,Nightshade vegetables,Chillies,Andhra Jyoti Chilli
+1,Andhra Pradesh,Chittoor,Chittoor,Grocery,Beverages,Coffee,Coffee
+1,Andhra Pradesh,Chittoor,Chittoor,Bakery,Baked products,Cookies,Cookies
+1,Andhra Pradesh,Krishna,Vijayawada,Bakery,Baked products,Cookies,Cookies
+1,Andhra Pradesh,Kurnool,Kurnool,Bakery,Baked products,Cookies,Cookies
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Bakery,Baked products,Cookies,Cookies
+1,Andhra Pradesh,Krishna,Vijayawada,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Bakery,Pastry products,Cup-cakes,Cup-cakes
+1,Andhra Pradesh,Kurnool,Kurnool,Dairy products,Milk products,Curd,Dahi
+1,Andhra Pradesh,Chittoor,Chittoor,Grocery,Household items,Dal,Arhar Dal
+1,Andhra Pradesh,Krishna,Vijayawada,Grocery,Household items,Dal,Moong Dal
+1,Andhra Pradesh,Kurnool,Kurnool,Grocery,Household items,Dal,Chana Dal
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Grocery,Household items,Dal,Chana Dal
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+1,Andhra Pradesh,Chittoor,Chittoor,Dairy products,Milk products,Ghee,Pure Ghee
+1,Andhra Pradesh,Guntur,Guntur,Dairy products,Milk products,Ghee,Pure Ghee
+1,Andhra Pradesh,Kurnool,Kurnool,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+1,Andhra Pradesh,Chittoor,Chittoor,Flowers,White flowers,Jasmine,Crepe Jasmine
+1,Andhra Pradesh,Guntur,Guntur,Flowers,White flowers,Jasmine,Coral Jasmine
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Fruits,Citrus Fruits,Lemon,Kagzi Lemon
+1,Andhra Pradesh,Guntur,Guntur,Fruits,Seasonal,Mango,Banganapalli Mango
+1,Andhra Pradesh,Krishna,Vijayawada,Fruits,Seasonal,Mango,Banganapalli Mango
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Fruits,Seasonal,Mango,Banganapalli Mango
+1,Andhra Pradesh,Kurnool,Kurnool,Flowers,Yellow flowers,Marigold,African Marigold
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Flowers,Yellow flowers,Marigold,African Marigold
+1,Andhra Pradesh,Chittoor,Chittoor,Dairy products,Milk products,Milk,Liquid milk
+1,Andhra Pradesh,Guntur,Guntur,Dairy products,Milk products,Milk,Liquid milk
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Dairy products,Milk products,Milk,Liquid milk
+1,Andhra Pradesh,Krishna,Vijayawada,Fruits,Citrus Fruits,Mosambi,Mosambi
+1,Andhra Pradesh,Chittoor,Chittoor,Fish,Freshwater,Murrel,Snakehead Murrel
+1,Andhra Pradesh,Krishna,Vijayawada,Fish,Freshwater,Murrel,Snakehead Murrel
+1,Andhra Pradesh,Chittoor,Chittoor,Meat,Red Meat,Mutton,Mutton
+1,Andhra Pradesh,Guntur,Guntur,Meat,Red Meat,Mutton,Mutton
+1,Andhra Pradesh,Krishna,Vijayawada,Meat,Red Meat,Mutton,Mutton
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Meat,Red Meat,Mutton,Mutton
+1,Andhra Pradesh,Kurnool,Kurnool,Vegetables,Pods and Seeds,Okra,Lady finger
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Vegetables,Pods and Seeds,Okra,Lady finger
+1,Andhra Pradesh,Kurnool,Kurnool,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+1,Andhra Pradesh,Chittoor,Chittoor,Fruits,Citrus Fruits,Orange,Mandarin Orange
+1,Andhra Pradesh,Chittoor,Chittoor,Fruits,Citrus Fruits,Orange,Batavian Orange
+1,Andhra Pradesh,Guntur,Guntur,Fruits,Citrus Fruits,Orange,Mandarin Orange
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Fruits,Citrus Fruits,Orange,Batavian Orange
+1,Andhra Pradesh,Kurnool,Kurnool,Fruits,Seasonal,Orange,Batavian Orange
+1,Andhra Pradesh,Chittoor,Chittoor,Dairy products,Milk products,Paneer,Paneer
+1,Andhra Pradesh,Guntur,Guntur,Dairy products,Milk products,Paneer,Paneer
+1,Andhra Pradesh,Kurnool,Kurnool,Dairy products,Milk products,Paneer,Paneer
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Dairy products,Milk products,Paneer,Paneer
+1,Andhra Pradesh,Kurnool,Kurnool,Fruits,Tropical,Papaya,Honeydew Papaya
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+1,Andhra Pradesh,Guntur,Guntur,Fish,Seawater,Prawns,Prawns
+1,Andhra Pradesh,Krishna,Vijayawada,Fish,Seawater,Prawns,Prawns
+1,Andhra Pradesh,Kurnool,Kurnool,Fish,Seawater,Prawns,Prawns
+1,Andhra Pradesh,Chittoor,Chittoor,Grocery,Household items,Rice,Sona Masuri Rice
+1,Andhra Pradesh,Guntur,Guntur,Grocery,Household items,Rice,Sona Masuri Rice
+1,Andhra Pradesh,Krishna,Vijayawada,Grocery,Household items,Rice,Chitti Muthyalu Rice
+1,Andhra Pradesh,Kurnool,Kurnool,Grocery,Household items,Rice,Chitti Muthyalu Rice
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Grocery,Household items,Rice,Sona Masuri Rice
+1,Andhra Pradesh,Krishna,Vijayawada,Fish,Freshwater,Rohu,Rohu
+1,Andhra Pradesh,Chittoor,Chittoor,Fruits,Citrus Fruits,Sweet lime,Mosambi
+1,Andhra Pradesh,Guntur,Guntur,Grocery,Beverages,Tea,Tea
+1,Andhra Pradesh,Krishna,Vijayawada,Grocery,Beverages,Tea,Tea
+1,Andhra Pradesh,Kurnool,Kurnool,Grocery,Beverages,Tea,Tea
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Grocery,Beverages,Tea,Tea
+1,Andhra Pradesh,Chittoor,Chittoor,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+1,Andhra Pradesh,Guntur,Guntur,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+1,Andhra Pradesh,Krishna,Vijayawada,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+1,Andhra Pradesh,Krishna,Vijayawada,Fruits,Tropical,Water Apple,Rose Apple
+1,Andhra Pradesh,Vishakhapatnam,Vishakhapatnam,Flowers,Pink flowers,Water Lily,Pink water Lily
+1,Andhra Pradesh,Chittoor,Chittoor,Flowers,White flowers,Water Lily,White water Lily
+1,Andhra Pradesh,Guntur,Guntur,Flowers,White flowers,Water Lily,White water Lily
+1,Andhra Pradesh,Krishna,Vijayawada,Flowers,White flowers,Water Lily,White water Lily
+1,Andhra Pradesh,Kurnool,Kurnool,Flowers,White flowers,Water Lily,White water Lily
+1,Andhra Pradesh,Guntur,Guntur,Grocery,Household items,Wheat,Wheat
+2,Arunachal Pradesh,Papum Pare,Itanagar,Fruits,All season,Apple,Ben Davis Apple
+2,Arunachal Pradesh,Papum Pare,Itanagar,Vegetables,Bamboo,Bamboo shoot,Bamboo shoot
+2,Arunachal Pradesh,Siang,Siang,Vegetables,Bamboo,Bamboo shoot,Bamboo shoot
+2,Arunachal Pradesh,Siang,Siang,Fruits,All season,Banana,Cavendish Banana
+2,Arunachal Pradesh,Siang,Siang,Meat,Red Meat,Beef,Beef
+2,Arunachal Pradesh,Siang,Siang,Bakery,Baked products,Bread,Bread
+2,Arunachal Pradesh,Papum Pare,Itanagar,Bakery,Pastry products,Cakes,Cakes
+2,Arunachal Pradesh,Papum Pare,Itanagar,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+2,Arunachal Pradesh,Papum Pare,Itanagar,Meat,White Meat,Chicken,Chicken
+2,Arunachal Pradesh,Siang,Siang,Meat,White Meat,Chicken,Chicken
+2,Arunachal Pradesh,Siang,Siang,Vegetables,Nightshade vegetables,Chillies,Bhut Jolokia
+2,Arunachal Pradesh,Papum Pare,Itanagar,Bakery,Baked products,Cookies,Cookies
+2,Arunachal Pradesh,Siang,Siang,Bakery,Baked products,Cookies,Cookies
+2,Arunachal Pradesh,Papum Pare,Itanagar,Dairy products,Milk products,Curd,Dahi
+2,Arunachal Pradesh,Siang,Siang,Dairy products,Milk products,Curd,Dahi
+2,Arunachal Pradesh,Papum Pare,Itanagar,Grocery,Household items,Dal,Moong Dal
+2,Arunachal Pradesh,Siang,Siang,Grocery,Household items,Dal,Masoor Dal
+2,Arunachal Pradesh,Papum Pare,Itanagar,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+2,Arunachal Pradesh,Papum Pare,Itanagar,Fruits,All season,Grapes,Burmese Grape
+2,Arunachal Pradesh,Siang,Siang,Fruits,All season,Grapes,Gulabi Grape
+2,Arunachal Pradesh,Papum Pare,Itanagar,Vegetables,Greens,Green leafy,Spinach
+2,Arunachal Pradesh,Siang,Siang,Vegetables,Greens,Green leafy,Spinach
+2,Arunachal Pradesh,Papum Pare,Itanagar,Flowers,White flowers,Jasmine,Crepe Jasmine
+2,Arunachal Pradesh,Papum Pare,Itanagar,Fruits,Seasonal,Kiwi,Chinese Gooseberry Kiwi
+2,Arunachal Pradesh,Siang,Siang,Fruits,Seasonal,Kiwi,Chinese Gooseberry Kiwi
+2,Arunachal Pradesh,Papum Pare,Itanagar,Fish,Freshwater,Mahseer,Golden Mahseer
+2,Arunachal Pradesh,Siang,Siang,Fish,Freshwater,Mahseer,Golden Mahseer
+2,Arunachal Pradesh,Papum Pare,Itanagar,Dairy products,Milk products,Milk,Liquid milk
+2,Arunachal Pradesh,Siang,Siang,Dairy products,Milk products,Milk,Liquid milk
+2,Arunachal Pradesh,Papum Pare,Itanagar,Meat,Red Meat,Mutton,Mutton
+2,Arunachal Pradesh,Papum Pare,Itanagar,Fruits,Citrus Fruits,Orange,Mandarin Orange
+2,Arunachal Pradesh,Papum Pare,Itanagar,Flowers,Pink flowers,Orchid,Foxtail Orchid
+2,Arunachal Pradesh,Siang,Siang,Flowers,Pink flowers,Orchid,Foxtail Orchid
+2,Arunachal Pradesh,Siang,Siang,Dairy products,Milk products,Paneer,Paneer
+2,Arunachal Pradesh,Papum Pare,Itanagar,Meat,Red Meat,Pork,Pork
+2,Arunachal Pradesh,Siang,Siang,Meat,Red Meat,Pork,Pork
+2,Arunachal Pradesh,Papum Pare,Itanagar,Vegetables,Roots and Tubers,Potato,Kufri Chandramukhi Potato
+2,Arunachal Pradesh,Papum Pare,Itanagar,Grocery,Household items,Rice,Bao Dhaan Rice
+2,Arunachal Pradesh,Siang,Siang,Grocery,Household items,Rice,Black Rice
+2,Arunachal Pradesh,Papum Pare,Itanagar,Fish,Freshwater,Rohu,Rohu
+2,Arunachal Pradesh,Papum Pare,Itanagar,Grocery,Beverages,Tea,Tea
+2,Arunachal Pradesh,Siang,Siang,Grocery,Beverages,Tea,Tea
+2,Arunachal Pradesh,Papum Pare,Itanagar,Grocery,Household items,Wheat,Wheat
+3,Assam,Dibrugarh,Dibrugarh,Fruits,All season,Apple,Indian crab Apple
+3,Assam,Jorhat,Jorhat,Fruits,All season,Apple,Indian crab Apple
+3,Assam,Kamrup Metropolitan,Guwahati,Fruits,All season,Banana,Cheeni Champa Banana
+3,Assam,Cachar,Silchar,Fruits,All season,Banana,Malbhog Banana
+3,Assam,Tezpur,Tezpur,Fruits,All season,Banana,Jahaji Banana
+3,Assam,Dibrugarh,Dibrugarh,Bakery,Baked products,Bread,Bread
+3,Assam,Kamrup Metropolitan,Guwahati,Bakery,Baked products,Bread,Bread
+3,Assam,Jorhat,Jorhat,Bakery,Baked products,Bread,Bread
+3,Assam,Cachar,Silchar,Bakery,Baked products,Brownie,Brownie
+3,Assam,Kamrup Metropolitan,Guwahati,Dairy products,Milk products,Butter,Butter
+3,Assam,Cachar,Silchar,Dairy products,Milk products,Butter,Butter
+3,Assam,Kamrup Metropolitan,Guwahati,Bakery,Pastry products,Cakes,Cakes
+3,Assam,Tezpur,Tezpur,Bakery,Pastry products,Cakes,Cakes
+3,Assam,Dibrugarh,Dibrugarh,Fish,Seawater,Catfish,Catfish
+3,Assam,Jorhat,Jorhat,Fish,Seawater,Catfish,Catfish
+3,Assam,Cachar,Silchar,Fish,Seawater,Catfish,Catfish
+3,Assam,Cachar,Silchar,Fish,Freshwater,Catla,Catla
+3,Assam,Jorhat,Jorhat,Dairy products,Milk products,Cheese,Cheese
+3,Assam,Kamrup Metropolitan,Guwahati,Meat,White Meat,Chicken,Chicken
+3,Assam,Jorhat,Jorhat,Meat,White Meat,Chicken,Chicken
+3,Assam,Kamrup Metropolitan,Guwahati,Grocery,Beverages,Coffee,Coffee
+3,Assam,Dibrugarh,Dibrugarh,Bakery,Baked products,Cookies,Cookies
+3,Assam,Cachar,Silchar,Bakery,Baked products,Cookies,Cookies
+3,Assam,Tezpur,Tezpur,Bakery,Baked products,Cookies,Cookies
+3,Assam,Cachar,Silchar,Vegetables,Melons and Squash,Cucumber,Chandrasankar Cucumber
+3,Assam,Tezpur,Tezpur,Vegetables,Melons and Squash,Cucumber,Straight Eight Cucumber
+3,Assam,Jorhat,Jorhat,Bakery,Pastry products,Cup-cakes,Cup-cakes
+3,Assam,Dibrugarh,Dibrugarh,Dairy products,Milk products,Curd,Dahi
+3,Assam,Kamrup Metropolitan,Guwahati,Dairy products,Milk products,Curd,Dahi
+3,Assam,Tezpur,Tezpur,Dairy products,Milk products,Curd,Dahi
+3,Assam,Dibrugarh,Dibrugarh,Grocery,Household items,Dal,Moong Dal
+3,Assam,Kamrup Metropolitan,Guwahati,Grocery,Household items,Dal,Masoor Dal
+3,Assam,Cachar,Silchar,Grocery,Household items,Dal,Urad Dal
+3,Assam,Tezpur,Tezpur,Grocery,Household items,Dal,Masoor Dal
+3,Assam,Dibrugarh,Dibrugarh,Meat,White Meat,Duck,Duck
+3,Assam,Jorhat,Jorhat,Meat,White Meat,Duck,Duck
+3,Assam,Tezpur,Tezpur,Meat,White Meat,Duck,Duck
+3,Assam,Dibrugarh,Dibrugarh,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+3,Assam,Tezpur,Tezpur,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+3,Assam,Kamrup Metropolitan,Guwahati,Vegetables,All season,Garlic,Garlic
+3,Assam,Cachar,Silchar,Vegetables,All season,Garlic,Garlic
+3,Assam,Jorhat,Jorhat,Dairy products,Milk products,Ghee,Pure Ghee
+3,Assam,Jorhat,Jorhat,Vegetables,Melons and Squash,Gourd,Ash Gourd
+3,Assam,Dibrugarh,Dibrugarh,Vegetables,Greens,Green leafy,Spinach
+3,Assam,Kamrup Metropolitan,Guwahati,Vegetables,Greens,Green leafy,Spinach
+3,Assam,Cachar,Silchar,Vegetables,Greens,Green leafy,Spinach
+3,Assam,Tezpur,Tezpur,Vegetables,Greens,Green leafy,Spinach
+3,Assam,Dibrugarh,Dibrugarh,Fish,Freshwater,Hilsa,Ilish
+3,Assam,Kamrup Metropolitan,Guwahati,Fish,Freshwater,Hilsa,Ilish
+3,Assam,Jorhat,Jorhat,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+3,Assam,Cachar,Silchar,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+3,Assam,Kamrup Metropolitan,Guwahati,Fruits,Seasonal,Jackfruit,Lemon Gold Jackfruit
+3,Assam,Cachar,Silchar,Fruits,Seasonal,Jackfruit,Lemon Gold Jackfruit
+3,Assam,Jorhat,Jorhat,Flowers,White flowers,Jasmine,Crepe Jasmine
+3,Assam,Dibrugarh,Dibrugarh,Fruits,Citrus Fruits,Lemon,Assam Lemon
+3,Assam,Kamrup Metropolitan,Guwahati,Fruits,Citrus Fruits,Lemon,Assam Lemon
+3,Assam,Tezpur,Tezpur,Fruits,Citrus Fruits,Lemon,Sweet Lemon
+3,Assam,Jorhat,Jorhat,Fruits,Tropical,Litchi,Bombaiya Litchi
+3,Assam,Tezpur,Tezpur,Fruits,Tropical,Litchi,Bombaiya Litchi
+3,Assam,Cachar,Silchar,Flowers,Pink flowers,Lotus,Indian Lotus
+3,Assam,Kamrup Metropolitan,Guwahati,Flowers,Yellow flowers,Marigold,African Marigold
+3,Assam,Dibrugarh,Dibrugarh,Dairy products,Milk products,Milk,Liquid milk
+3,Assam,Kamrup Metropolitan,Guwahati,Dairy products,Milk products,Milk,Liquid milk
+3,Assam,Tezpur,Tezpur,Dairy products,Milk products,Milk,Liquid milk
+3,Assam,Kamrup Metropolitan,Guwahati,Meat,Red Meat,Mutton,Mutton
+3,Assam,Cachar,Silchar,Meat,Red Meat,Mutton,Mutton
+3,Assam,Tezpur,Tezpur,Meat,Red Meat,Mutton,Mutton
+3,Assam,Dibrugarh,Dibrugarh,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+3,Assam,Kamrup Metropolitan,Guwahati,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+3,Assam,Dibrugarh,Dibrugarh,Fruits,Citrus Fruits,Orange,Mandarin Orange
+3,Assam,Jorhat,Jorhat,Fruits,Citrus Fruits,Orange,Mandarin Orange
+3,Assam,Dibrugarh,Dibrugarh,Flowers,Purple flowers,Orchid,Foxtail Orchid
+3,Assam,Kamrup Metropolitan,Guwahati,Flowers,Purple flowers,Orchid,Foxtail Orchid
+3,Assam,Tezpur,Tezpur,Flowers,Purple flowers,Orchid,Foxtail Orchid
+3,Assam,Cachar,Silchar,Dairy products,Milk products,Paneer,Paneer
+3,Assam,Cachar,Silchar,Fruits,Tropical,Pineapple,Queen Pineapple
+3,Assam,Dibrugarh,Dibrugarh,Meat,Red Meat,Pork,Pork
+3,Assam,Cachar,Silchar,Meat,Red Meat,Pork,Pork
+3,Assam,Dibrugarh,Dibrugarh,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+3,Assam,Tezpur,Tezpur,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+3,Assam,Jorhat,Jorhat,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+3,Assam,Dibrugarh,Dibrugarh,Grocery,Household items,Rice,Bora Saul Rice
+3,Assam,Kamrup Metropolitan,Guwahati,Grocery,Household items,Rice,Joha Rice
+3,Assam,Jorhat,Jorhat,Grocery,Household items,Rice,Bao Dhaan Rice
+3,Assam,Tezpur,Tezpur,Grocery,Household items,Rice,Joha Rice
+3,Assam,Jorhat,Jorhat,Fish,Freshwater,Rohu,Rohu
+3,Assam,Tezpur,Tezpur,Fish,Freshwater,Rohu,Rohu
+3,Assam,Dibrugarh,Dibrugarh,Flowers,Red flowers,Rose,Red Rose
+3,Assam,Kamrup Metropolitan,Guwahati,Fish,Seawater,Salmon,Indian Salmon
+3,Assam,Tezpur,Tezpur,Fish,Seawater,Salmon,Indian Salmon
+3,Assam,Dibrugarh,Dibrugarh,Grocery,Beverages,Tea,Tea
+3,Assam,Jorhat,Jorhat,Grocery,Beverages,Tea,Tea
+3,Assam,Cachar,Silchar,Grocery,Beverages,Tea,Tea
+3,Assam,Tezpur,Tezpur,Grocery,Beverages,Tea,Tea
+3,Assam,Jorhat,Jorhat,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+3,Assam,Kamrup Metropolitan,Guwahati,Grocery,Household items,Wheat,Wheat
+3,Assam,Jorhat,Jorhat,Grocery,Household items,Wheat,Wheat
+3,Assam,Cachar,Silchar,Grocery,Household items,Wheat,Wheat
+4,Bihar,Bhagalpur,Bhagalpur,Fruits,All season,Banana,Cheeni Champa Banana
+4,Bihar,Patna,Patna,Fruits,All season,Banana,Cavendish Banana
+4,Bihar,Bhagalpur,Bhagalpur,Bakery,Baked products,Bread,Bread
+4,Bihar,Gaya,Gaya,Bakery,Baked products,Bread,Bread
+4,Bihar,Patna,Patna,Bakery,Baked products,Bread,Bread
+4,Bihar,Darbhanga,Darbhanga,Bakery,Baked products,Bread,Bread
+4,Bihar,Bhagalpur,Bhagalpur,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+4,Bihar,Gaya,Gaya,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+4,Bihar,Patna,Patna,Vegetables,Fruit-vegetables,Brinjal,Pusa Anmol Brinjal
+4,Bihar,Darbhanga,Darbhanga,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+4,Bihar,Gaya,Gaya,Bakery,Baked products,Brownie,Brownie
+4,Bihar,Bhagalpur,Bhagalpur,Dairy products,Milk products,Butter,Butter
+4,Bihar,Muzaffarpur,Muzaffarpur,Dairy products,Milk products,Butter,Butter
+4,Bihar,Darbhanga,Darbhanga,Dairy products,Milk products,Butter,Butter
+4,Bihar,Patna,Patna,Bakery,Pastry products,Cakes,Cakes
+4,Bihar,Bhagalpur,Bhagalpur,Fish,Seawater,Catfish,Catfish
+4,Bihar,Gaya,Gaya,Fish,Seawater,Catfish,Catfish
+4,Bihar,Muzaffarpur,Muzaffarpur,Fish,Seawater,Catfish,Catfish
+4,Bihar,Patna,Patna,Fish,Seawater,Catfish,Catfish
+4,Bihar,Darbhanga,Darbhanga,Fish,Seawater,Catfish,Catfish
+4,Bihar,Patna,Patna,Fish,Freshwater,Catla,Catla
+4,Bihar,Bhagalpur,Bhagalpur,Meat,White Meat,Chicken,Chicken
+4,Bihar,Gaya,Gaya,Meat,White Meat,Chicken,Chicken
+4,Bihar,Muzaffarpur,Muzaffarpur,Meat,White Meat,Chicken,Chicken
+4,Bihar,Patna,Patna,Meat,White Meat,Chicken,Chicken
+4,Bihar,Darbhanga,Darbhanga,Meat,White Meat,Chicken,Chicken
+4,Bihar,Bhagalpur,Bhagalpur,Bakery,Baked products,Cookies,Cookies
+4,Bihar,Gaya,Gaya,Bakery,Baked products,Cookies,Cookies
+4,Bihar,Muzaffarpur,Muzaffarpur,Bakery,Baked products,Cookies,Cookies
+4,Bihar,Patna,Patna,Bakery,Baked products,Cookies,Cookies
+4,Bihar,Darbhanga,Darbhanga,Bakery,Baked products,Cookies,Cookies
+4,Bihar,Gaya,Gaya,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+4,Bihar,Muzaffarpur,Muzaffarpur,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+4,Bihar,Darbhanga,Darbhanga,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+4,Bihar,Muzaffarpur,Muzaffarpur,Bakery,Pastry products,Cup-cakes,Cup-cakes
+4,Bihar,Muzaffarpur,Muzaffarpur,Dairy products,Milk products,Curd,Dahi
+4,Bihar,Patna,Patna,Dairy products,Milk products,Curd,Dahi
+4,Bihar,Bhagalpur,Bhagalpur,Grocery,Household items,Dal,Chana Dal
+4,Bihar,Gaya,Gaya,Grocery,Household items,Dal,Moong Dal
+4,Bihar,Muzaffarpur,Muzaffarpur,Grocery,Household items,Dal,Moong Dal
+4,Bihar,Patna,Patna,Grocery,Household items,Dal,Masoor Dal
+4,Bihar,Darbhanga,Darbhanga,Grocery,Household items,Dal,Urad Dal
+4,Bihar,Bhagalpur,Bhagalpur,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+4,Bihar,Patna,Patna,Dairy products,Milk products,Ghee,Pure Ghee
+4,Bihar,Gaya,Gaya,Fruits,All season,Guava,Allahabad Safeda Guava
+4,Bihar,Muzaffarpur,Muzaffarpur,Fruits,All season,Guava,Sardar Guava
+4,Bihar,Darbhanga,Darbhanga,Fruits,All season,Guava,Sardar Guava
+4,Bihar,Gaya,Gaya,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+4,Bihar,Bhagalpur,Bhagalpur,Dairy products,Milk products,Lassi,Lassi
+4,Bihar,Darbhanga,Darbhanga,Dairy products,Milk products,Lassi,Lassi
+4,Bihar,Bhagalpur,Bhagalpur,Fruits,Tropical,Litchi,Shahi Litchi
+4,Bihar,Gaya,Gaya,Fruits,Tropical,Litchi,China Litchi
+4,Bihar,Muzaffarpur,Muzaffarpur,Fruits,Tropical,Litchi,Shahi Litchi
+4,Bihar,Patna,Patna,Fruits,Tropical,Litchi,Shahi Litchi
+4,Bihar,Darbhanga,Darbhanga,Fruits,Tropical,Litchi,Shahi Litchi
+4,Bihar,Bhagalpur,Bhagalpur,Fruits,Seasonal,Mango,Malda Mango
+4,Bihar,Gaya,Gaya,Fruits,Seasonal,Mango,Gulab Khas Mango
+4,Bihar,Patna,Patna,Fruits,Seasonal,Mango,Malda Mango
+4,Bihar,Darbhanga,Darbhanga,Flowers,Orange flowers,Marigold,French Marigold
+4,Bihar,Muzaffarpur,Muzaffarpur,Flowers,Yellow flowers,Marigold,African Marigold
+4,Bihar,Patna,Patna,Flowers,Yellow flowers,Marigold,African Marigold
+4,Bihar,Gaya,Gaya,Dairy products,Milk products,Milk,Liquid milk
+4,Bihar,Patna,Patna,Dairy products,Milk products,Milk,Liquid milk
+4,Bihar,Gaya,Gaya,Meat,Red Meat,Mutton,Mutton
+4,Bihar,Muzaffarpur,Muzaffarpur,Meat,Red Meat,Mutton,Mutton
+4,Bihar,Patna,Patna,Meat,Red Meat,Mutton,Mutton
+4,Bihar,Darbhanga,Darbhanga,Meat,Red Meat,Mutton,Mutton
+4,Bihar,Bhagalpur,Bhagalpur,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+4,Bihar,Muzaffarpur,Muzaffarpur,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+4,Bihar,Patna,Patna,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+4,Bihar,Darbhanga,Darbhanga,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+4,Bihar,Bhagalpur,Bhagalpur,Flowers,Purple flowers,Orchid,Kachnar
+4,Bihar,Gaya,Gaya,Flowers,Purple flowers,Orchid,Kachnar
+4,Bihar,Patna,Patna,Flowers,Purple flowers,Orchid,Kachnar
+4,Bihar,Gaya,Gaya,Dairy products,Milk products,Paneer,Paneer
+4,Bihar,Muzaffarpur,Muzaffarpur,Dairy products,Milk products,Paneer,Paneer
+4,Bihar,Patna,Patna,Dairy products,Milk products,Paneer,Paneer
+4,Bihar,Darbhanga,Darbhanga,Dairy products,Milk products,Paneer,Paneer
+4,Bihar,Bhagalpur,Bhagalpur,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+4,Bihar,Gaya,Gaya,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+4,Bihar,Muzaffarpur,Muzaffarpur,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+4,Bihar,Patna,Patna,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+4,Bihar,Darbhanga,Darbhanga,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+4,Bihar,Bhagalpur,Bhagalpur,Grocery,Household items,Rice,Basmati Rice
+4,Bihar,Gaya,Gaya,Grocery,Household items,Rice,Basmati Rice
+4,Bihar,Patna,Patna,Grocery,Household items,Rice,Pusa Rice
+4,Bihar,Bhagalpur,Bhagalpur,Fish,Freshwater,Rohu,Rohu
+4,Bihar,Gaya,Gaya,Fish,Seawater,Salmon,Indian Salmon
+4,Bihar,Muzaffarpur,Muzaffarpur,Fruits,Seasonal,Sugarcane,Sugarcane
+4,Bihar,Darbhanga,Darbhanga,Fruits,Seasonal,Sugarcane,Sugarcane
+4,Bihar,Muzaffarpur,Muzaffarpur,Grocery,Beverages,Tea,Tea
+4,Bihar,Patna,Patna,Grocery,Beverages,Tea,Tea
+4,Bihar,Darbhanga,Darbhanga,Grocery,Beverages,Tea,Tea
+4,Bihar,Bhagalpur,Bhagalpur,Grocery,Household items,Wheat,Wheat
+4,Bihar,Gaya,Gaya,Grocery,Household items,Wheat,Wheat
+4,Bihar,Muzaffarpur,Muzaffarpur,Grocery,Household items,Wheat,Wheat
+4,Bihar,Patna,Patna,Grocery,Household items,Wheat,Wheat
+4,Bihar,Darbhanga,Darbhanga,Grocery,Household items,Wheat,Wheat
+5,Chhattisgarh,Morena,Bhilai,Fruits,All season,Apple,Kashmiri Apple
+5,Chhattisgarh,Morena,Bhilai,Fruits,All season,Banana,Cheeni Champa Banana
+5,Chhattisgarh,Raipur,Raipur,Fruits,All season,Banana,Cavendish Banana
+5,Chhattisgarh,Morena,Bhilai,Bakery,Baked products,Bread,Bread
+5,Chhattisgarh,Surguja,Ambikapur,Bakery,Baked products,Bread,Bread
+5,Chhattisgarh,Korba,Korba,Bakery,Baked products,Bread,Bread
+5,Chhattisgarh,Bilaspur,Bilaspur,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+5,Chhattisgarh,Surguja,Ambikapur,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+5,Chhattisgarh,Raipur,Raipur,Vegetables,Fruit-vegetables,Brinjal,Pusa Anmol Brinjal
+5,Chhattisgarh,Raipur,Raipur,Bakery,Baked products,Brownie,Brownie
+5,Chhattisgarh,Morena,Bhilai,Dairy products,Milk products,Butter,Butter
+5,Chhattisgarh,Korba,Korba,Dairy products,Milk products,Butter,Butter
+5,Chhattisgarh,Bilaspur,Bilaspur,Bakery,Pastry products,Cakes,Cakes
+5,Chhattisgarh,Morena,Bhilai,Flowers,Pink flowers,Carnation,Carnation
+5,Chhattisgarh,Morena,Bhilai,Fish,Freshwater,Carp,Mrigal Carp
+5,Chhattisgarh,Bilaspur,Bilaspur,Fish,Freshwater,Carp,Mrigal Carp
+5,Chhattisgarh,Surguja,Ambikapur,Fish,Freshwater,Carp,Grass Carp
+5,Chhattisgarh,Korba,Korba,Fish,Freshwater,Carp,Common Carp
+5,Chhattisgarh,Raipur,Raipur,Fish,Freshwater,Carp,Mrigal Carp
+5,Chhattisgarh,Bilaspur,Bilaspur,Fish,Freshwater,Catla,Catla
+5,Chhattisgarh,Surguja,Ambikapur,Fish,Freshwater,Catla,Catla
+5,Chhattisgarh,Raipur,Raipur,Fish,Freshwater,Catla,Catla
+5,Chhattisgarh,Surguja,Ambikapur,Dairy products,Milk products,Cheese,Cheese
+5,Chhattisgarh,Morena,Bhilai,Meat,White Meat,Chicken,Chicken
+5,Chhattisgarh,Bilaspur,Bilaspur,Grocery,Beverages,Coffee,Coffee
+5,Chhattisgarh,Surguja,Ambikapur,Grocery,Beverages,Coffee,Coffee
+5,Chhattisgarh,Korba,Korba,Grocery,Beverages,Coffee,Coffee
+5,Chhattisgarh,Raipur,Raipur,Grocery,Beverages,Coffee,Coffee
+5,Chhattisgarh,Morena,Bhilai,Bakery,Baked products,Cookies,Cookies
+5,Chhattisgarh,Bilaspur,Bilaspur,Bakery,Baked products,Cookies,Cookies
+5,Chhattisgarh,Surguja,Ambikapur,Bakery,Baked products,Cookies,Cookies
+5,Chhattisgarh,Raipur,Raipur,Bakery,Baked products,Cookies,Cookies
+5,Chhattisgarh,Morena,Bhilai,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+5,Chhattisgarh,Bilaspur,Bilaspur,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+5,Chhattisgarh,Surguja,Ambikapur,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+5,Chhattisgarh,Raipur,Raipur,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+5,Chhattisgarh,Korba,Korba,Bakery,Pastry products,Cup-cakes,Cup-cakes
+5,Chhattisgarh,Raipur,Raipur,Dairy products,Milk products,Curd,Dahi
+5,Chhattisgarh,Morena,Bhilai,Grocery,Household items,Dal,Moong Dal
+5,Chhattisgarh,Korba,Korba,Grocery,Household items,Dal,Chana Dal
+5,Chhattisgarh,Morena,Bhilai,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+5,Chhattisgarh,Morena,Bhilai,Dairy products,Milk products,Ghee,Pure Ghee
+5,Chhattisgarh,Bilaspur,Bilaspur,Dairy products,Milk products,Ghee,Pure Ghee
+5,Chhattisgarh,Surguja,Ambikapur,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+5,Chhattisgarh,Korba,Korba,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+5,Chhattisgarh,Morena,Bhilai,Fruits,Citrus Fruits,Lemon,Italian Lemon
+5,Chhattisgarh,Korba,Korba,Fruits,Citrus Fruits,Lemon,Italian Lemon
+5,Chhattisgarh,Raipur,Raipur,Fruits,Citrus Fruits,Lemon,Sweet Lemon
+5,Chhattisgarh,Bilaspur,Bilaspur,Fruits,Tropical,Litchi,Shahi Litchi
+5,Chhattisgarh,Surguja,Ambikapur,Fruits,Tropical,Litchi,Shahi Litchi
+5,Chhattisgarh,Bilaspur,Bilaspur,Fruits,Seasonal,Mango,Kesar Mango
+5,Chhattisgarh,Surguja,Ambikapur,Fruits,Seasonal,Mango,Kesar Mango
+5,Chhattisgarh,Korba,Korba,Fruits,Seasonal,Mango,Kesar Mango
+5,Chhattisgarh,Raipur,Raipur,Fruits,Seasonal,Mango,Alphonso Mango
+5,Chhattisgarh,Surguja,Ambikapur,Flowers,Orange flowers,Marigold,French Marigold
+5,Chhattisgarh,Bilaspur,Bilaspur,Flowers,Yellow flowers,Marigold,African Marigold
+5,Chhattisgarh,Raipur,Raipur,Flowers,Yellow flowers,Marigold,African Marigold
+5,Chhattisgarh,Bilaspur,Bilaspur,Dairy products,Milk products,Milk,Liquid milk
+5,Chhattisgarh,Raipur,Raipur,Dairy products,Milk products,Milk,Liquid milk
+5,Chhattisgarh,Morena,Bhilai,Meat,Red Meat,Mutton,Mutton
+5,Chhattisgarh,Surguja,Ambikapur,Meat,Red Meat,Mutton,Mutton
+5,Chhattisgarh,Raipur,Raipur,Meat,Red Meat,Mutton,Mutton
+5,Chhattisgarh,Morena,Bhilai,Vegetables,Pods and Seeds,Okra,Lady finger
+5,Chhattisgarh,Korba,Korba,Vegetables,Pods and Seeds,Okra,Lady finger
+5,Chhattisgarh,Morena,Bhilai,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+5,Chhattisgarh,Bilaspur,Bilaspur,Dairy products,Milk products,Paneer,Paneer
+5,Chhattisgarh,Surguja,Ambikapur,Dairy products,Milk products,Paneer,Paneer
+5,Chhattisgarh,Korba,Korba,Dairy products,Milk products,Paneer,Paneer
+5,Chhattisgarh,Raipur,Raipur,Dairy products,Milk products,Paneer,Paneer
+5,Chhattisgarh,Bilaspur,Bilaspur,Fruits,Tropical,Papaya,Washington Papaya
+5,Chhattisgarh,Surguja,Ambikapur,Fruits,Tropical,Papaya,Washington Papaya
+5,Chhattisgarh,Korba,Korba,Fruits,Tropical,Papaya,Honeydew Papaya
+5,Chhattisgarh,Bilaspur,Bilaspur,Meat,Red Meat,Pork,Pork
+5,Chhattisgarh,Korba,Korba,Meat,Red Meat,Pork,Pork
+5,Chhattisgarh,Raipur,Raipur,Meat,Red Meat,Pork,Pork
+5,Chhattisgarh,Bilaspur,Bilaspur,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+5,Chhattisgarh,Surguja,Ambikapur,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+5,Chhattisgarh,Korba,Korba,Vegetables,Roots and Tubers,Potato,Kufri Pakhraj Potato
+5,Chhattisgarh,Raipur,Raipur,Vegetables,Roots and Tubers,Potato,Kufri Pakhraj Potato
+5,Chhattisgarh,Bilaspur,Bilaspur,Grocery,Household items,Rice,Lal Dhan Rice
+5,Chhattisgarh,Surguja,Ambikapur,Grocery,Household items,Rice,Lal Dhan Rice
+5,Chhattisgarh,Raipur,Raipur,Grocery,Household items,Rice,Lal Dhan Rice
+5,Chhattisgarh,Morena,Bhilai,Fish,Freshwater,Rohu,Rohu
+5,Chhattisgarh,Raipur,Raipur,Fish,Freshwater,Rohu,Rohu
+5,Chhattisgarh,Korba,Korba,Flowers,Red flowers,Rose,Red Rose
+5,Chhattisgarh,Raipur,Raipur,Flowers,White flowers,Rose,Tuberose
+5,Chhattisgarh,Morena,Bhilai,Grocery,Beverages,Tea,Tea
+5,Chhattisgarh,Morena,Bhilai,Grocery,Household items,Wheat,Wheat
+5,Chhattisgarh,Bilaspur,Bilaspur,Grocery,Household items,Wheat,Wheat
+5,Chhattisgarh,Korba,Korba,Grocery,Household items,Wheat,Wheat
+5,Chhattisgarh,Korba,Korba,Grocery,Household items,Wheat,Wheat
+5,Chhattisgarh,Raipur,Raipur,Grocery,Household items,Wheat,Wheat
+6,Delhi,South Delhi,Mehrauli,Flowers,Purple flowers,Alfafa,Alfafa
+6,Delhi,New Delhi,New Delhi,Flowers,Purple flowers,Alfafa,Alfafa
+6,Delhi,North East Delhi,Karawal Nagar,Flowers,Purple flowers,Alfafa,Alfafa
+6,Delhi,South West Delhi,Delhi Cantonment ,Fruits,All season,Apple,Indian crab Apple
+6,Delhi,New Delhi,New Delhi,Fruits,All season,Apple,Kashmiri Apple
+6,Delhi,North East Delhi,Karawal Nagar,Fruits,All season,Apple,Sunehari Apple
+6,Delhi,South West Delhi,Vasant Kunj,Fruits,All season,Apple,Indian crab Apple
+6,Delhi,North East Delhi,Karawal Nagar,Vegetables,Pods and Seeds,Beans,French Beans
+6,Delhi,South Delhi,Mehrauli,Fruits,Seasonal,Berry,Strawberry
+6,Delhi,South West Delhi,Delhi Cantonment ,Bakery,Baked products,Bread,Bread
+6,Delhi,North East Delhi,Karawal Nagar,Bakery,Baked products,Bread,Bread
+6,Delhi,New Delhi,New Delhi,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+6,Delhi,South West Delhi,Vasant Kunj,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+6,Delhi,South West Delhi,Vasant Kunj,Bakery,Baked products,Brownie,Brownie
+6,Delhi,South West Delhi,Delhi Cantonment ,Meat,Red Meat,Buffalo,Buffalo
+6,Delhi,South West Delhi,Delhi Cantonment ,Dairy products,Milk products,Butter,Butter
+6,Delhi,North East Delhi,Karawal Nagar,Dairy products,Milk products,Butter,Butter
+6,Delhi,South Delhi,Mehrauli,Bakery,Pastry products,Cakes,Cakes
+6,Delhi,South West Delhi,Vasant Kunj,Bakery,Pastry products,Cakes,Cakes
+6,Delhi,New Delhi,New Delhi,Fish,Freshwater,Catla,Catla
+6,Delhi,South West Delhi,Vasant Kunj,Dairy products,Milk products,Cheese,Cheese
+6,Delhi,South West Delhi,Delhi Cantonment ,Meat,White Meat,Chicken,Chicken
+6,Delhi,South Delhi,Mehrauli,Meat,White Meat,Chicken,Chicken
+6,Delhi,New Delhi,New Delhi,Meat,White Meat,Chicken,Chicken
+6,Delhi,North East Delhi,Karawal Nagar,Meat,White Meat,Chicken,Chicken
+6,Delhi,South West Delhi,Vasant Kunj,Meat,White Meat,Chicken,Chicken
+6,Delhi,South West Delhi,Delhi Cantonment ,Vegetables,Nightshade vegetables,Chillies,Red Chilli
+6,Delhi,South Delhi,Mehrauli,Vegetables,Nightshade vegetables,Chillies,Capsicum
+6,Delhi,North East Delhi,Karawal Nagar,Vegetables,Nightshade vegetables,Chillies,Bhut Jolokia
+6,Delhi,North East Delhi,Karawal Nagar,Grocery,Beverages,Coffee,Coffee
+6,Delhi,South West Delhi,Vasant Kunj,Grocery,Beverages,Coffee,Coffee
+6,Delhi,South West Delhi,Delhi Cantonment ,Bakery,Baked products,Cookies,Cookies
+6,Delhi,New Delhi,New Delhi,Bakery,Baked products,Cookies,Cookies
+6,Delhi,North East Delhi,Karawal Nagar,Bakery,Baked products,Cookies,Cookies
+6,Delhi,South West Delhi,Delhi Cantonment ,Vegetables,Melons and Squash,Cucumber,Straight Eight Cucumber
+6,Delhi,New Delhi,New Delhi,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+6,Delhi,South Delhi,Mehrauli,Bakery,Pastry products,Cup-cakes,Cup-cakes
+6,Delhi,New Delhi,New Delhi,Bakery,Pastry products,Cup-cakes,Cup-cakes
+6,Delhi,South West Delhi,Vasant Kunj,Dairy products,Milk products,Curd,Dahi
+6,Delhi,South Delhi,Mehrauli,Grocery,Household items,Dal,Arhar Dal
+6,Delhi,New Delhi,New Delhi,Grocery,Household items,Dal,Urad Dal
+6,Delhi,South Delhi,Mehrauli,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+6,Delhi,South West Delhi,Delhi Cantonment ,Dairy products,Milk products,Ghee,Pure Ghee
+6,Delhi,South West Delhi,Delhi Cantonment ,Fruits,All season,Guava,Allahabad Safeda Guava
+6,Delhi,South West Delhi,Vasant Kunj,Fruits,All season,Guava,Lalit Guava
+6,Delhi,New Delhi,New Delhi,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+6,Delhi,North East Delhi,Karawal Nagar,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+6,Delhi,North East Delhi,Karawal Nagar,Fruits,Tropical,Litchi,Shahi Litchi
+6,Delhi,South West Delhi,Vasant Kunj,Fruits,Tropical,Litchi,China Litchi
+6,Delhi,New Delhi,New Delhi,Fruits,Seasonal,Mango,Alphonso Mango
+6,Delhi,South Delhi,Mehrauli,Dairy products,Milk products,Milk,Liquid milk
+6,Delhi,New Delhi,New Delhi,Dairy products,Milk products,Milk,Liquid milk
+6,Delhi,South Delhi,Mehrauli,Meat,Red Meat,Mutton,Mutton
+6,Delhi,North East Delhi,Karawal Nagar,Meat,Red Meat,Mutton,Mutton
+6,Delhi,South West Delhi,Vasant Kunj,Meat,Red Meat,Mutton,Mutton
+6,Delhi,South West Delhi,Delhi Cantonment ,Dairy products,Milk products,Paneer,Paneer
+6,Delhi,South Delhi,Mehrauli,Dairy products,Milk products,Paneer,Paneer
+6,Delhi,New Delhi,New Delhi,Dairy products,Milk products,Paneer,Paneer
+6,Delhi,North East Delhi,Karawal Nagar,Dairy products,Milk products,Paneer,Paneer
+6,Delhi,South West Delhi,Vasant Kunj,Dairy products,Milk products,Paneer,Paneer
+6,Delhi,South West Delhi,Delhi Cantonment ,Fruits,Seasonal,Pear,Bartlett Pear
+6,Delhi,New Delhi,New Delhi,Fruits,Seasonal,Pear,Asian Pear
+6,Delhi,South Delhi,Mehrauli,Fruits,Tropical,Pomegranate,Pomegranate
+6,Delhi,New Delhi,New Delhi,Fish,Seawater,Pomfret,Pomfret
+6,Delhi,South West Delhi,Vasant Kunj,Fish,Seawater,Pomfret,Pomfret
+6,Delhi,New Delhi,New Delhi,Meat,Red Meat,Pork,Pork
+6,Delhi,South Delhi,Mehrauli,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+6,Delhi,South West Delhi,Vasant Kunj,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+6,Delhi,South West Delhi,Delhi Cantonment ,Grocery,Household items,Rice,Basmati Rice
+6,Delhi,South Delhi,Mehrauli,Grocery,Household items,Rice,Pusa Rice
+6,Delhi,South West Delhi,Delhi Cantonment ,Fish,Freshwater,Rohu,Rohu
+6,Delhi,North East Delhi,Karawal Nagar,Fish,Freshwater,Rohu,Rohu
+6,Delhi,South West Delhi,Delhi Cantonment ,Flowers,Red flowers,Rose,Red Rose
+6,Delhi,New Delhi,New Delhi,Flowers,Red flowers,Rose,Red Rose
+6,Delhi,South Delhi,Mehrauli,Fish,Seawater,Salmon,Indian Salmon
+6,Delhi,North East Delhi,Karawal Nagar,Fish,Seawater,Salmon,Indian Salmon
+6,Delhi,South West Delhi,Vasant Kunj,Fish,Seawater,Salmon,Indian Salmon
+6,Delhi,South West Delhi,Vasant Kunj,Flowers,Yellow flowers,Sunflower,Sunflower
+6,Delhi,South West Delhi,Delhi Cantonment ,Grocery,Beverages,Tea,Tea
+6,Delhi,South Delhi,Mehrauli,Grocery,Beverages,Tea,Tea
+6,Delhi,New Delhi,New Delhi,Grocery,Beverages,Tea,Tea
+6,Delhi,North East Delhi,Karawal Nagar,Grocery,Beverages,Tea,Tea
+6,Delhi,South West Delhi,Vasant Kunj,Grocery,Beverages,Tea,Tea
+6,Delhi,South West Delhi,Delhi Cantonment ,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+6,Delhi,South Delhi,Mehrauli,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+6,Delhi,New Delhi,New Delhi,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+6,Delhi,North East Delhi,Karawal Nagar,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+6,Delhi,South West Delhi,Vasant Kunj,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+6,Delhi,South West Delhi,Delhi Cantonment ,Fish,Seawater,Tuna,Tuna
+6,Delhi,South Delhi,Mehrauli,Fish,Seawater,Tuna,Tuna
+6,Delhi,South Delhi,Mehrauli,Fruits,Melons,Water melon,Water melon
+6,Delhi,North East Delhi,Karawal Nagar,Fruits,Melons,Water melon,Water melon
+6,Delhi,South West Delhi,Delhi Cantonment ,Grocery,Household items,Wheat,Wheat
+6,Delhi,New Delhi,New Delhi,Grocery,Household items,Wheat,Wheat
+6,Delhi,North East Delhi,Karawal Nagar,Grocery,Household items,Wheat,Wheat
+6,Delhi,South West Delhi,Vasant Kunj,Grocery,Household items,Wheat,Wheat
+7,Goa,South Goa,Margao,Fruits,All season,Banana,Sugandhi Banana
+7,Goa,South Goa,Margao,Vegetables,Pods and Seeds,Beans,French Beans
+7,Goa,South Goa,Margao,Meat,Red Meat,Beef,Beef
+7,Goa,North Goa,Panaji,Meat,Red Meat,Beef,Beef
+7,Goa,North Goa,Panaji,Bakery,Baked products,Bread,Bread
+7,Goa,South Goa,Margao,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+7,Goa,North Goa,Panaji,Vegetables,Fruit-vegetables,Brinjal,Pusa Anmol Brinjal
+7,Goa,South Goa,Margao,Bakery,Baked products,Brownie,Brownie
+7,Goa,South Goa,Margao,Dairy products,Milk products,Butter,Butter
+7,Goa,North Goa,Panaji,Bakery,Pastry products,Cakes,Cakes
+7,Goa,South Goa,Margao,Meat,White Meat,Chicken,Chicken
+7,Goa,North Goa,Panaji,Vegetables,Nightshade vegetables,Chillies,Capsicum
+7,Goa,South Goa,Margao,Fruits,All season,Coconut,Indian Coconut
+7,Goa,North Goa,Panaji,Fruits,All season,Coconut,Indian Coconut
+7,Goa,South Goa,Margao,Grocery,Beverages,Coffee,Coffee
+7,Goa,South Goa,Margao,Bakery,Baked products,Cookies,Cookies
+7,Goa,North Goa,Panaji,Bakery,Baked products,Cookies,Cookies
+7,Goa,North Goa,Panaji,Vegetables,Melons and Squash,Cucumber,Chandrasankar Cucumber
+7,Goa,South Goa,Margao,Bakery,Pastry products,Cup-cakes,Cup-cakes
+7,Goa,North Goa,Panaji,Dairy products,Milk products,Curd,Dahi
+7,Goa,North Goa,Panaji,Grocery,Household items,Dal,Masoor Dal
+7,Goa,South Goa,Margao,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+7,Goa,South Goa,Margao,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+7,Goa,North Goa,Panaji,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+7,Goa,North Goa,Panaji,Fruits,Seasonal,Jackfruit,Honey Gold Jackfruit
+7,Goa,South Goa,Margao,Flowers,White flowers,Jasmine,Night-blooming Jasmine
+7,Goa,North Goa,Panaji,Flowers,White flowers,Jasmine,Crepe Jasmine
+7,Goa,South Goa,Margao,Fish,Seawater,Lobster,Lobster
+7,Goa,South Goa,Margao,Fish,Seawater,Mackerel,King Mackerel
+7,Goa,North Goa,Panaji,Fish,Seawater,Mackerel,King Mackerel
+7,Goa,South Goa,Margao,Fruits,Seasonal,Mango,Alphonso Mango
+7,Goa,North Goa,Panaji,Flowers,Orange flowers,Marigold,French Marigold
+7,Goa,South Goa,Margao,Dairy products,Milk products,Milk,Liquid milk
+7,Goa,North Goa,Panaji,Dairy products,Milk products,Milk,Liquid milk
+7,Goa,North Goa,Panaji,Meat,Red Meat,Mutton,Mutton
+7,Goa,South Goa,Margao,Vegetables,Pods and Seeds,Okra,Lady finger
+7,Goa,North Goa,Panaji,Vegetables,Pods and Seeds,Okra,Lady finger
+7,Goa,South Goa,Margao,Flowers,Purple flowers,Orchid,Foxtail Orchid
+7,Goa,North Goa,Panaji,Dairy products,Milk products,Paneer,Paneer
+7,Goa,North Goa,Panaji,Fruits,Tropical,Pomegranate,Pomegranate
+7,Goa,North Goa,Panaji,Fish,Seawater,Pomfret,Pomfret
+7,Goa,North Goa,Panaji,Fish,Seawater,Prawns,Prawns
+7,Goa,South Goa,Margao,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+7,Goa,South Goa,Margao,Grocery,Household items,Rice,Jyoti Rice
+7,Goa,North Goa,Panaji,Grocery,Household items,Rice,Basmati Rice
+7,Goa,South Goa,Margao,Fruits,Tropical,Tamarind,Sweet tamarind
+7,Goa,North Goa,Panaji,Fruits,Tropical,Tamarind,Sweet tamarind
+7,Goa,North Goa,Panaji,Grocery,Beverages,Tea,Tea
+7,Goa,South Goa,Margao,Grocery,Household items,Wheat,Wheat
+8,Gujarat,Ahmedabad,Ahmedabad,Fruits,All season,Banana,Cavendish Banana
+8,Gujarat,Rajkot,Rajkot,Fruits,All season,Banana,Cavendish Banana
+8,Gujarat,Surat,Surat,Fruits,All season,Banana,Cheeni Champa Banana
+8,Gujarat,Ahmedabad,Ahmedabad,Vegetables,Pods and Seeds,Beans,French Beans
+8,Gujarat,Rajkot,Rajkot,Vegetables,Pods and Seeds,Beans,French Beans
+8,Gujarat,Surat,Surat,Vegetables,Pods and Seeds,Beans,French Beans
+8,Gujarat,Vadodara,Vadodara,Vegetables,Pods and Seeds,Beans,French Beans
+8,Gujarat,Ahmedabad,Ahmedabad,Bakery,Baked products,Bread,Bread
+8,Gujarat,Gandhinagar,Gandhinagar,Bakery,Baked products,Bread,Bread
+8,Gujarat,Ahmedabad,Ahmedabad,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+8,Gujarat,Vadodara,Vadodara,Bakery,Baked products,Brownie,Brownie
+8,Gujarat,Gandhinagar,Gandhinagar,Dairy products,Milk products,Butter,Butter
+8,Gujarat,Gandhinagar,Gandhinagar,Bakery,Pastry products,Cakes,Cakes
+8,Gujarat,Surat,Surat,Fish,Seawater,Catfish,Catfish
+8,Gujarat,Gandhinagar,Gandhinagar,Meat,White Meat,Chicken,Chicken
+8,Gujarat,Surat,Surat,Meat,White Meat,Chicken,Chicken
+8,Gujarat,Vadodara,Vadodara,Fruits,Seasonal,Chikoo,Chikoo
+8,Gujarat,Rajkot,Rajkot,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+8,Gujarat,Gandhinagar,Gandhinagar,Fruits,All season,Coconut,Indian Coconut
+8,Gujarat,Surat,Surat,Fruits,All season,Coconut,Indian Coconut
+8,Gujarat,Vadodara,Vadodara,Grocery,Beverages,Coffee,Coffee
+8,Gujarat,Ahmedabad,Ahmedabad,Bakery,Baked products,Cookies,Cookies
+8,Gujarat,Rajkot,Rajkot,Bakery,Baked products,Cookies,Cookies
+8,Gujarat,Surat,Surat,Bakery,Baked products,Cookies,Cookies
+8,Gujarat,Surat,Surat,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+8,Gujarat,Vadodara,Vadodara,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+8,Gujarat,Surat,Surat,Bakery,Pastry products,Cup-cakes,Cup-cakes
+8,Gujarat,Ahmedabad,Ahmedabad,Dairy products,Milk products,Curd,Dahi
+8,Gujarat,Ahmedabad,Ahmedabad,Grocery,Household items,Dal,Masoor Dal
+8,Gujarat,Gandhinagar,Gandhinagar,Grocery,Household items,Dal,Moong Dal
+8,Gujarat,Rajkot,Rajkot,Grocery,Household items,Dal,Urad Dal
+8,Gujarat,Surat,Surat,Grocery,Household items,Dal,Chana Dal
+8,Gujarat,Ahmedabad,Ahmedabad,Fruits,Seasonal,Dragon Fruit,Kamalam
+8,Gujarat,Vadodara,Vadodara,Fruits,Seasonal,Dragon Fruit,Kamalam
+8,Gujarat,Gandhinagar,Gandhinagar,Meat,White Meat,Duck,Duck
+8,Gujarat,Vadodara,Vadodara,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+8,Gujarat,Ahmedabad,Ahmedabad,Dairy products,Milk products,Ghee,Pure Ghee
+8,Gujarat,Rajkot,Rajkot,Dairy products,Milk products,Ghee,Pure Ghee
+8,Gujarat,Surat,Surat,Dairy products,Milk products,Ghee,Pure Ghee
+8,Gujarat,Gandhinagar,Gandhinagar,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+8,Gujarat,Surat,Surat,Flowers,White flowers,Jasmine,Crepe Jasmine
+8,Gujarat,Ahmedabad,Ahmedabad,Fish,Seawater,Lobster,Lobster
+8,Gujarat,Ahmedabad,Ahmedabad,Flowers,Pink flowers,Lotus,Indian Lotus
+8,Gujarat,Vadodara,Vadodara,Flowers,Pink flowers,Lotus,Indian Lotus
+8,Gujarat,Ahmedabad,Ahmedabad,Fruits,Seasonal,Mango,Alphonso Mango
+8,Gujarat,Gandhinagar,Gandhinagar,Fruits,Seasonal,Mango,Kesar Mango
+8,Gujarat,Rajkot,Rajkot,Fruits,Seasonal,Mango,Kesar Mango
+8,Gujarat,Gandhinagar,Gandhinagar,Dairy products,Milk products,Milk,Liquid milk
+8,Gujarat,Rajkot,Rajkot,Dairy products,Milk products,Milk,Liquid milk
+8,Gujarat,Surat,Surat,Dairy products,Milk products,Milk,Liquid milk
+8,Gujarat,Vadodara,Vadodara,Dairy products,Milk products,Milk,Liquid milk
+8,Gujarat,Rajkot,Rajkot,Meat,Red Meat,Mutton,Mutton
+8,Gujarat,Vadodara,Vadodara,Meat,Red Meat,Mutton,Mutton
+8,Gujarat,Surat,Surat,Vegetables,Pods and Seeds,Okra,Lady finger
+8,Gujarat,Gandhinagar,Gandhinagar,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+8,Gujarat,Ahmedabad,Ahmedabad,Dairy products,Milk products,Paneer,Paneer
+8,Gujarat,Rajkot,Rajkot,Dairy products,Milk products,Paneer,Paneer
+8,Gujarat,Surat,Surat,Dairy products,Milk products,Paneer,Paneer
+8,Gujarat,Vadodara,Vadodara,Dairy products,Milk products,Paneer,Paneer
+8,Gujarat,Gandhinagar,Gandhinagar,Fruits,Tropical,Papaya,Pusa Delicious Papaya
+8,Gujarat,Rajkot,Rajkot,Fruits,Tropical,Papaya,Pusa Nanha Papaya
+8,Gujarat,Surat,Surat,Fruits,Tropical,Papaya,Pusa Delicious Papaya
+8,Gujarat,Vadodara,Vadodara,Fruits,Tropical,Papaya,Honeydew Papaya
+8,Gujarat,Vadodara,Vadodara,Fish,Seawater,Pomfret,Pomfret
+8,Gujarat,Ahmedabad,Ahmedabad,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+8,Gujarat,Gandhinagar,Gandhinagar,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+8,Gujarat,Rajkot,Rajkot,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+8,Gujarat,Vadodara,Vadodara,Vegetables,Roots and Tubers,Potato,Kufri Chandramukhi Potato
+8,Gujarat,Gandhinagar,Gandhinagar,Grocery,Household items,Rice,Basmati Rice
+8,Gujarat,Surat,Surat,Grocery,Household items,Rice,Pusa Rice
+8,Gujarat,Rajkot,Rajkot,Flowers,White flowers,Rose,Tuberose
+8,Gujarat,Gandhinagar,Gandhinagar,Fish,Seawater,Shrimp,Shrimp
+8,Gujarat,Rajkot,Rajkot,Fish,Seawater,Shrimp,Shrimp
+8,Gujarat,Ahmedabad,Ahmedabad,Grocery,Beverages,Tea,Tea
+8,Gujarat,Gandhinagar,Gandhinagar,Grocery,Beverages,Tea,Tea
+8,Gujarat,Rajkot,Rajkot,Grocery,Beverages,Tea,Tea
+8,Gujarat,Surat,Surat,Grocery,Beverages,Tea,Tea
+8,Gujarat,Vadodara,Vadodara,Grocery,Beverages,Tea,Tea
+8,Gujarat,Gandhinagar,Gandhinagar,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+8,Gujarat,Gandhinagar,Gandhinagar,Flowers,Pink flowers,Water Lily,Pink water Lily
+8,Gujarat,Ahmedabad,Ahmedabad,Grocery,Household items,Wheat,Wheat
+8,Gujarat,Rajkot,Rajkot,Grocery,Household items,Wheat,Wheat
+8,Gujarat,Vadodara,Vadodara,Grocery,Household items,Wheat,Wheat
+9,Haryana,Ambala,Ambala,Fruits,All season,Apple,Honeycrisp Apple
+9,Haryana,Faridabad,Faridabad,Fruits,All season,Banana,Cheeni Champa Banana
+9,Haryana,Gurgaon,Gurugram,Fruits,All season,Banana,Cavendish Banana
+9,Haryana,Gurgaon,Gurugram,Fruits,Seasonal,Berry,Strawberry
+9,Haryana,Ambala,Ambala,Bakery,Baked products,Bread,Bread
+9,Haryana,Chandigarh,Chandigarh,Bakery,Baked products,Bread,Bread
+9,Haryana,Gurgaon,Gurugram,Bakery,Baked products,Bread,Bread
+9,Haryana,Ambala,Ambala,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+9,Haryana,Gurgaon,Gurugram,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+9,Haryana,Chandigarh,Chandigarh,Bakery,Baked products,Brownie,Brownie
+9,Haryana,Chandigarh,Chandigarh,Dairy products,Milk products,Butter,Butter
+9,Haryana,Gurgaon,Gurugram,Bakery,Pastry products,Cakes,Cakes
+9,Haryana,Hisar,Hisar,Bakery,Pastry products,Cakes,Cakes
+9,Haryana,Faridabad,Faridabad,Fish,Freshwater,Carp,Common Carp
+9,Haryana,Gurgaon,Gurugram,Fish,Freshwater,Carp,Mrigal Carp
+9,Haryana,Faridabad,Faridabad,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+9,Haryana,Gurgaon,Gurugram,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+9,Haryana,Hisar,Hisar,Vegetables,Roots and Tubers,Carrot,Red Carrot
+9,Haryana,Hisar,Hisar,Fish,Freshwater,Catla,Catla
+9,Haryana,Chandigarh,Chandigarh,Meat,White Meat,Chicken,Chicken
+9,Haryana,Gurgaon,Gurugram,Meat,White Meat,Chicken,Chicken
+9,Haryana,Hisar,Hisar,Fruits,Seasonal,Chikoo,Chikoo
+9,Haryana,Hisar,Hisar,Grocery,Beverages,Coffee,Coffee
+9,Haryana,Ambala,Ambala,Bakery,Baked products,Cookies,Cookies
+9,Haryana,Faridabad,Faridabad,Bakery,Baked products,Cookies,Cookies
+9,Haryana,Hisar,Hisar,Bakery,Baked products,Cookies,Cookies
+9,Haryana,Ambala,Ambala,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+9,Haryana,Ambala,Ambala,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+9,Haryana,Chandigarh,Chandigarh,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+9,Haryana,Faridabad,Faridabad,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+9,Haryana,Chandigarh,Chandigarh,Vegetables,Melons and Squash,Cucumber,Straight Eight Cucumber
+9,Haryana,Faridabad,Faridabad,Bakery,Pastry products,Cup-cakes,Cup-cakes
+9,Haryana,Ambala,Ambala,Dairy products,Milk products,Curd,Dahi
+9,Haryana,Ambala,Ambala,Grocery,Household items,Dal,Chana Dal
+9,Haryana,Hisar,Hisar,Grocery,Household items,Dal,Masoor Dal
+9,Haryana,Ambala,Ambala,Fruits,Seasonal,Dragon Fruit,Kamalam
+9,Haryana,Chandigarh,Chandigarh,Fruits,Seasonal,Dragon Fruit,Kamalam
+9,Haryana,Hisar,Hisar,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+9,Haryana,Chandigarh,Chandigarh,Dairy products,Milk products,Ghee,Pure Ghee
+9,Haryana,Hisar,Hisar,Dairy products,Milk products,Ghee,Pure Ghee
+9,Haryana,Chandigarh,Chandigarh,Fruits,All season,Grapes,Black Grape
+9,Haryana,Ambala,Ambala,Fish,Freshwater,Hilsa,Ilish
+9,Haryana,Faridabad,Faridabad,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+9,Haryana,Gurgaon,Gurugram,Dairy products,Milk products,Lassi,Lassi
+9,Haryana,Faridabad,Faridabad,Fruits,Tropical,Litchi,China Litchi
+9,Haryana,Hisar,Hisar,Fruits,Tropical,Litchi,Shahi Litchi
+9,Haryana,Chandigarh,Chandigarh,Flowers,Pink flowers,Lotus,Indian Lotus
+9,Haryana,Faridabad,Faridabad,Flowers,Pink flowers,Lotus,Indian Lotus
+9,Haryana,Gurgaon,Gurugram,Flowers,Pink flowers,Lotus,Indian Lotus
+9,Haryana,Ambala,Ambala,Fruits,Seasonal,Mango,Langra Mango
+9,Haryana,Chandigarh,Chandigarh,Fruits,Seasonal,Mango,Chausa Mango
+9,Haryana,Ambala,Ambala,Dairy products,Milk products,Milk,Liquid milk
+9,Haryana,Faridabad,Faridabad,Dairy products,Milk products,Milk,Liquid milk
+9,Haryana,Gurgaon,Gurugram,Dairy products,Milk products,Milk,Liquid milk
+9,Haryana,Hisar,Hisar,Fruits,Citrus Fruits,Mosambi,Mosambi
+9,Haryana,Ambala,Ambala,Meat,Red Meat,Mutton,Mutton
+9,Haryana,Hisar,Hisar,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+9,Haryana,Faridabad,Faridabad,Fruits,Citrus Fruits,Orange,Mandarin Orange
+9,Haryana,Gurgaon,Gurugram,Fruits,Citrus Fruits,Orange,Navel Orange
+9,Haryana,Ambala,Ambala,Dairy products,Milk products,Paneer,Paneer
+9,Haryana,Chandigarh,Chandigarh,Dairy products,Milk products,Paneer,Paneer
+9,Haryana,Faridabad,Faridabad,Dairy products,Milk products,Paneer,Paneer
+9,Haryana,Gurgaon,Gurugram,Dairy products,Milk products,Paneer,Paneer
+9,Haryana,Hisar,Hisar,Dairy products,Milk products,Paneer,Paneer
+9,Haryana,Faridabad,Faridabad,Vegetables,Roots and Tubers,Potato,Kufri Pakhraj Potato
+9,Haryana,Gurgaon,Gurugram,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+9,Haryana,Hisar,Hisar,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+9,Haryana,Chandigarh,Chandigarh,Grocery,Household items,Rice,Sugandha Rice
+9,Haryana,Faridabad,Faridabad,Grocery,Household items,Rice,Basmati Rice
+9,Haryana,Gurgaon,Gurugram,Grocery,Household items,Rice,Basmati Rice
+9,Haryana,Hisar,Hisar,Flowers,Red flowers,Rose,Red Rose
+9,Haryana,Ambala,Ambala,Grocery,Beverages,Tea,Tea
+9,Haryana,Chandigarh,Chandigarh,Grocery,Beverages,Tea,Tea
+9,Haryana,Faridabad,Faridabad,Grocery,Beverages,Tea,Tea
+9,Haryana,Gurgaon,Gurugram,Grocery,Beverages,Tea,Tea
+9,Haryana,Chandigarh,Chandigarh,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+9,Haryana,Ambala,Ambala,Flowers,Pink flowers,Water Lily,Pink water Lily
+9,Haryana,Ambala,Ambala,Grocery,Household items,Wheat,Wheat
+9,Haryana,Chandigarh,Chandigarh,Grocery,Household items,Wheat,Wheat
+9,Haryana,Faridabad,Faridabad,Grocery,Household items,Wheat,Wheat
+9,Haryana,Gurgaon,Gurugram,Grocery,Household items,Wheat,Wheat
+9,Haryana,Hisar,Hisar,Grocery,Household items,Wheat,Wheat
+10,Punjab,Ludhiana,Ludhiana,Fruits,Seasonal,Berry,Strawberry
+10,Punjab,Amritsar,Amritsar,Bakery,Baked products,Bread,Bread
+10,Punjab,Jalandhar,Jalandhar,Bakery,Baked products,Bread,Bread
+10,Punjab,Ludhiana,Ludhiana,Bakery,Baked products,Bread,Bread
+10,Punjab,Jalandhar,Jalandhar,Bakery,Baked products,Brownie,Brownie
+10,Punjab,Jalandhar,Jalandhar,Dairy products,Milk products,Butter,Butter
+10,Punjab,Bathinda,Bathinda,Bakery,Pastry products,Cakes,Cakes
+10,Punjab,Patiala,Patiala,Bakery,Pastry products,Cakes,Cakes
+10,Punjab,Patiala,Patiala,Flowers,Pink flowers,Carnation,Carnation
+10,Punjab,Bathinda,Bathinda,Fish,Freshwater,Carp,Marigal Carp
+10,Punjab,Jalandhar,Jalandhar,Fish,Freshwater,Carp,Silver Carp
+10,Punjab,Ludhiana,Ludhiana,Vegetables,Roots and Tubers,Carrot,Red Carrot
+10,Punjab,Patiala,Patiala,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+10,Punjab,Jalandhar,Jalandhar,Meat,White Meat,Chicken,Chicken
+10,Punjab,Jalandhar,Jalandhar,Grocery,Beverages,Coffee,Coffee
+10,Punjab,Patiala,Patiala,Grocery,Beverages,Coffee,Coffee
+10,Punjab,Amritsar,Amritsar,Bakery,Baked products,Cookies,Cookies
+10,Punjab,Bathinda,Bathinda,Bakery,Baked products,Cookies,Cookies
+10,Punjab,Patiala,Patiala,Bakery,Baked products,Cookies,Cookies
+10,Punjab,Amritsar,Amritsar,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+10,Punjab,Jalandhar,Jalandhar,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+10,Punjab,Ludhiana,Ludhiana,Bakery,Pastry products,Cup-cakes,Cup-cakes
+10,Punjab,Jalandhar,Jalandhar,Dairy products,Milk products,Curd,Dahi
+10,Punjab,Patiala,Patiala,Dairy products,Milk products,Curd,Dahi
+10,Punjab,Amritsar,Amritsar,Grocery,Household items,Dal,Masoor Dal
+10,Punjab,Bathinda,Bathinda,Grocery,Household items,Dal,Chana Dal
+10,Punjab,Ludhiana,Ludhiana,Grocery,Household items,Dal,Arhar Dal
+10,Punjab,Patiala,Patiala,Grocery,Household items,Dal,Moong Dal
+10,Punjab,Patiala,Patiala,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+10,Punjab,Jalandhar,Jalandhar,Vegetables,All season,Garlic,Garlic
+10,Punjab,Amritsar,Amritsar,Dairy products,Milk products,Ghee,Pure Ghee
+10,Punjab,Bathinda,Bathinda,Fruits,All season,Grapes,Sonaka Grape
+10,Punjab,Patiala,Patiala,Fruits,All season,Grapes,Black Grape
+10,Punjab,Amritsar,Amritsar,Fruits,All season,Guava,Allahabad Safeda Guava
+10,Punjab,Jalandhar,Jalandhar,Fruits,All season,Guava,Sardar Guava
+10,Punjab,Bathinda,Bathinda,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+10,Punjab,Bathinda,Bathinda,Flowers,White flowers,Jasmine,Mogra
+10,Punjab,Amritsar,Amritsar,Fruits,Citrus Fruits,Kinnow,Kinnow Mandarin
+10,Punjab,Patiala,Patiala,Fruits,Citrus Fruits,Kinnow,Kinnow Mandarin
+10,Punjab,Bathinda,Bathinda,Dairy products,Milk products,Lassi,Lassi
+10,Punjab,Ludhiana,Ludhiana,Dairy products,Milk products,Lassi,Lassi
+10,Punjab,Amritsar,Amritsar,Flowers,White flowers,Lily,Madonna Lily
+10,Punjab,Jalandhar,Jalandhar,Flowers,White flowers,Lily,Madonna Lily
+10,Punjab,Jalandhar,Jalandhar,Fruits,Tropical,Litchi,Shahi Litchi
+10,Punjab,Amritsar,Amritsar,Fruits,Seasonal,Mango,Chausa Mango
+10,Punjab,Bathinda,Bathinda,Fruits,Seasonal,Mango,Chausa Mango
+10,Punjab,Amritsar,Amritsar,Dairy products,Milk products,Milk,Liquid milk
+10,Punjab,Jalandhar,Jalandhar,Dairy products,Milk products,Milk,Liquid milk
+10,Punjab,Ludhiana,Ludhiana,Dairy products,Milk products,Milk,Liquid milk
+10,Punjab,Bathinda,Bathinda,Fruits,Citrus Fruits,Mosambi,Mosambi
+10,Punjab,Patiala,Patiala,Vegetables,Pods and Seeds,Okra,Lady finger
+10,Punjab,Amritsar,Amritsar,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+10,Punjab,Ludhiana,Ludhiana,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+10,Punjab,Ludhiana,Ludhiana,Fruits,Citrus Fruits,Orange,Navel Orange
+10,Punjab,Amritsar,Amritsar,Dairy products,Milk products,Paneer,Paneer
+10,Punjab,Bathinda,Bathinda,Dairy products,Milk products,Paneer,Paneer
+10,Punjab,Ludhiana,Ludhiana,Dairy products,Milk products,Paneer,Paneer
+10,Punjab,Patiala,Patiala,Dairy products,Milk products,Paneer,Paneer
+10,Punjab,Jalandhar,Jalandhar,Fruits,Stone Fruits,Peach,Peach
+10,Punjab,Ludhiana,Ludhiana,Fruits,Seasonal,Pear,Comice Pear
+10,Punjab,Patiala,Patiala,Fruits,Seasonal,Pear,Asian Pear
+10,Punjab,Bathinda,Bathinda,Vegetables,Pods and Seeds,Peas,Green Peas
+10,Punjab,Ludhiana,Ludhiana,Vegetables,Pods and Seeds,Peas,Green Peas
+10,Punjab,Amritsar,Amritsar,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+10,Punjab,Bathinda,Bathinda,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+10,Punjab,Jalandhar,Jalandhar,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+10,Punjab,Ludhiana,Ludhiana,Grocery,Household items,Rice,Basmati Rice
+10,Punjab,Ludhiana,Ludhiana,Fish,Freshwater,Rohu,Rohu
+10,Punjab,Ludhiana,Ludhiana,Flowers,Yellow flowers,Sunflower,Sunflower
+10,Punjab,Amritsar,Amritsar,Grocery,Beverages,Tea,Tea
+10,Punjab,Bathinda,Bathinda,Grocery,Beverages,Tea,Tea
+10,Punjab,Jalandhar,Jalandhar,Grocery,Beverages,Tea,Tea
+10,Punjab,Bathinda,Bathinda,Vegetables,Fruit-vegetables,Tomato,Sona Cherry Tomato
+10,Punjab,Patiala,Patiala,Vegetables,Fruit-vegetables,Tomato,Sona Cherry Tomato
+10,Punjab,Amritsar,Amritsar,Grocery,Household items,Wheat,Wheat
+10,Punjab,Bathinda,Bathinda,Grocery,Household items,Wheat,Wheat
+10,Punjab,Jalandhar,Jalandhar,Grocery,Household items,Wheat,Wheat
+10,Punjab,Ludhiana,Ludhiana,Grocery,Household items,Wheat,Wheat
+10,Punjab,Patiala,Patiala,Grocery,Household items,Wheat,Wheat
+11,Sikkim,North District,Lachung,Fruits,All season,Apple,Sunehari Apple
+11,Sikkim,East District,Gangtok,Fruits,All season,Banana,Sugandhi Banana
+11,Sikkim,North District,Lachung,Fruits,All season,Banana,Cavendish Banana
+11,Sikkim,East District,Gangtok,Meat,Red Meat,Beef,Beef
+11,Sikkim,North District,Lachung,Meat,Red Meat,Beef,Beef
+11,Sikkim,East District,Gangtok,Bakery,Baked products,Bread,Bread
+11,Sikkim,North District,Lachung,Bakery,Baked products,Brownie,Brownie
+11,Sikkim,East District,Gangtok,Dairy products,Milk products,Butter,Butter
+11,Sikkim,East District,Gangtok,Bakery,Pastry products,Cakes,Cakes
+11,Sikkim,North District,Lachung,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+11,Sikkim,East District,Gangtok,Fish,Seawater,Catfish,Catfish
+11,Sikkim,North District,Lachung,Fish,Freshwater,Catla,Catla
+11,Sikkim,East District,Gangtok,Meat,White Meat,Chicken,Chicken
+11,Sikkim,North District,Lachung,Grocery,Beverages,Coffee,Coffee
+11,Sikkim,East District,Gangtok,Bakery,Baked products,Cookies,Cookies
+11,Sikkim,North District,Lachung,Bakery,Baked products,Cookies,Cookies
+11,Sikkim,East District,Gangtok,Vegetables,Brassica,Cruciferous vegetables,Broccoli
+11,Sikkim,East District,Gangtok,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+11,Sikkim,North District,Lachung,Vegetables,Brassica,Cruciferous vegetables,Broccoli
+11,Sikkim,North District,Lachung,Bakery,Pastry products,Cup-cakes,Cup-cakes
+11,Sikkim,East District,Gangtok,Dairy products,Milk products,Curd,Dahi
+11,Sikkim,East District,Gangtok,Grocery,Household items,Dal,Masoor Dal
+11,Sikkim,North District,Lachung,Grocery,Household items,Dal,Chana Dal
+11,Sikkim,North District,Lachung,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+11,Sikkim,East District,Gangtok,Fruits,All season,Guava,Lalit Guava
+11,Sikkim,East District,Gangtok,Fish,Freshwater,Katley,Katley
+11,Sikkim,North District,Lachung,Fish,Freshwater,Katley,Katley
+11,Sikkim,North District,Lachung,Dairy products,Milk products,Lassi,Lassi
+11,Sikkim,East District,Gangtok,Fruits,Citrus Fruits,Mandarin,Mandarin
+11,Sikkim,North District,Lachung,Fruits,Citrus Fruits,Mandarin,Mandarin
+11,Sikkim,East District,Gangtok,Dairy products,Milk products,Milk,Liquid milk
+11,Sikkim,North District,Lachung,Dairy products,Milk products,Milk,Liquid milk
+11,Sikkim,East District,Gangtok,Meat,Red Meat,Mutton,Mutton
+11,Sikkim,North District,Lachung,Meat,Red Meat,Mutton,Mutton
+11,Sikkim,North District,Lachung,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+11,Sikkim,North District,Lachung,Fruits,Citrus Fruits,Orange,Mandarin Orange
+11,Sikkim,East District,Gangtok,Flowers,Purple flowers,Orchid,Dendrobium Orchid
+11,Sikkim,North District,Lachung,Flowers,Purple flowers,Orchid,Dendrobium Orchid
+11,Sikkim,East District,Gangtok,Flowers,White flowers,Orchid,Cymbidium Orchid
+11,Sikkim,East District,Gangtok,Dairy products,Milk products,Paneer,Paneer
+11,Sikkim,North District,Lachung,Dairy products,Milk products,Paneer,Paneer
+11,Sikkim,East District,Gangtok,Fruits,Tropical,Papaya,Pusa Delicious Papaya
+11,Sikkim,East District,Gangtok,Meat,Red Meat,Pork,Pork
+11,Sikkim,North District,Lachung,Meat,Red Meat,Pork,Pork
+11,Sikkim,East District,Gangtok,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+11,Sikkim,North District,Lachung,Flowers,Pink flowers,Rhododendron,Rhododendron
+11,Sikkim,East District,Gangtok,Flowers,Purple flowers,Rhododendron,Rhododendron
+11,Sikkim,East District,Gangtok,Grocery,Household items,Rice,Basmati Rice
+11,Sikkim,North District,Lachung,Grocery,Household items,Rice,Lal Dhan Rice
+11,Sikkim,East District,Gangtok,Grocery,Beverages,Tea,Tea
+11,Sikkim,North District,Lachung,Grocery,Beverages,Tea,Tea
+11,Sikkim,East District,Gangtok,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+11,Sikkim,North District,Lachung,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+11,Sikkim,East District,Gangtok,Fish,Freshwater,Trout,Snow Trout
+11,Sikkim,North District,Lachung,Fish,Freshwater,Trout,Snow Trout
+11,Sikkim,East District,Gangtok,Grocery,Household items,Wheat,Wheat
+12,Rajasthan,Jaipur,Jaipur,Fruits,Seasonal,Apple,Custard Apple
+12,Rajasthan,Jodhpur,Jodhpur,Fruits,Seasonal,Apple,Custard Apple
+12,Rajasthan,Jaipur,Jaipur,Fruits,All season,Banana,Cavendish Banana
+12,Rajasthan,Jaisalmer,Jaisalmer,Fruits,All season,Banana,Cavendish Banana
+12,Rajasthan,Udaipur,Udaipur,Fruits,All season,Banana,Cheeni Champa Banana
+12,Rajasthan,Ajmer,Ajmer,Fruits,Seasonal,Berry,Strawberry
+12,Rajasthan,Udaipur,Udaipur,Fruits,Seasonal,Berry,Blackberry
+12,Rajasthan,Jaipur,Jaipur,Bakery,Baked products,Bread,Bread
+12,Rajasthan,Jaisalmer,Jaisalmer,Bakery,Baked products,Bread,Bread
+12,Rajasthan,Udaipur,Udaipur,Bakery,Baked products,Bread,Bread
+12,Rajasthan,Jaipur,Jaipur,Vegetables,Fruit-vegetables,Brinjal,Pusa Anmol Brinjal
+12,Rajasthan,Udaipur,Udaipur,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+12,Rajasthan,Ajmer,Ajmer,Bakery,Baked products,Brownie,Brownie
+12,Rajasthan,Jodhpur,Jodhpur,Dairy products,Milk products,Butter,Butter
+12,Rajasthan,Kota,Kota,Dairy products,Milk products,Butter,Butter
+12,Rajasthan,Jodhpur,Jodhpur,Bakery,Pastry products,Cakes,Cakes
+12,Rajasthan,Ajmer,Ajmer,Fish,Freshwater,Catla,Catla
+12,Rajasthan,Jaipur,Jaipur,Dairy products,Milk products,Cheese,Cheese
+12,Rajasthan,Jaipur,Jaipur,Meat,White Meat,Chicken,Chicken
+12,Rajasthan,Jaisalmer,Jaisalmer,Vegetables,Nightshade vegetables,Chillies,Kashmiri Chilli
+12,Rajasthan,Kota,Kota,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+12,Rajasthan,Jodhpur,Jodhpur,Grocery,Beverages,Coffee,Coffee
+12,Rajasthan,Kota,Kota,Grocery,Beverages,Coffee,Coffee
+12,Rajasthan,Ajmer,Ajmer,Bakery,Baked products,Cookies,Cookies
+12,Rajasthan,Jaipur,Jaipur,Bakery,Baked products,Cookies,Cookies
+12,Rajasthan,Jodhpur,Jodhpur,Bakery,Baked products,Cookies,Cookies
+12,Rajasthan,Kota,Kota,Bakery,Baked products,Cookies,Cookies
+12,Rajasthan,Udaipur,Udaipur,Bakery,Baked products,Cookies,Cookies
+12,Rajasthan,Jaisalmer,Jaisalmer,Bakery,Pastry products,Cup-cakes,Cup-cakes
+12,Rajasthan,Kota,Kota,Bakery,Pastry products,Cup-cakes,Cup-cakes
+12,Rajasthan,Udaipur,Udaipur,Dairy products,Milk products,Curd,Dahi
+12,Rajasthan,Ajmer,Ajmer,Grocery,Household items,Dal,Moong Dal
+12,Rajasthan,Jaipur,Jaipur,Grocery,Household items,Dal,Urad Dal
+12,Rajasthan,Jaisalmer,Jaisalmer,Grocery,Household items,Dal,Masoor Dal
+12,Rajasthan,Kota,Kota,Grocery,Household items,Dal,Chana Dal
+12,Rajasthan,Udaipur,Udaipur,Grocery,Household items,Dal,Chana Dal
+12,Rajasthan,Jaisalmer,Jaisalmer,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+12,Rajasthan,Udaipur,Udaipur,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+12,Rajasthan,Jaisalmer,Jaisalmer,Vegetables,All season,Garlic,Garlic
+12,Rajasthan,Jodhpur,Jodhpur,Dairy products,Milk products,Ghee,Pure Ghee
+12,Rajasthan,Jaipur,Jaipur,Fruits,All season,Grapes,Gulabi Grape
+12,Rajasthan,Kota,Kota,Fruits,All season,Grapes,Sonaka Grape
+12,Rajasthan,Kota,Kota,Fruits,All season,Guava,Allahabad Safeda Guava
+12,Rajasthan,Jaipur,Jaipur,Flowers,Red flowers,Hibiscus,Hibiscus rosa
+12,Rajasthan,Udaipur,Udaipur,Flowers,Red flowers,Hibiscus,Hibiscus rosa
+12,Rajasthan,Ajmer,Ajmer,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+12,Rajasthan,Jodhpur,Jodhpur,Flowers,White flowers,Jasmine,Crepe Jasmine
+12,Rajasthan,Udaipur,Udaipur,Fruits,Citrus Fruits,Kinnow,Kinnow Mandarin
+12,Rajasthan,Kota,Kota,Dairy products,Milk products,Lassi,Lassi
+12,Rajasthan,Jodhpur,Jodhpur,Fruits,Citrus Fruits,Lemon,Italian Lemon
+12,Rajasthan,Kota,Kota,Fruits,Citrus Fruits,Lemon,Sweet Lemon
+12,Rajasthan,Ajmer,Ajmer,Fruits,Seasonal,Mango,Langra Mango
+12,Rajasthan,Jodhpur,Jodhpur,Fruits,Seasonal,Mango,Chausa Mango
+12,Rajasthan,Ajmer,Ajmer,Dairy products,Milk products,Milk,Liquid milk
+12,Rajasthan,Jaipur,Jaipur,Dairy products,Milk products,Milk,Liquid milk
+12,Rajasthan,Jaisalmer,Jaisalmer,Dairy products,Milk products,Milk,Liquid milk
+12,Rajasthan,Jodhpur,Jodhpur,Dairy products,Milk products,Milk,Liquid milk
+12,Rajasthan,Ajmer,Ajmer,Fruits,Citrus Fruits,Mosambi,Mosambi
+12,Rajasthan,Ajmer,Ajmer,Vegetables,Melons and Squash,Musk melon,Musk melon
+12,Rajasthan,Jaipur,Jaipur,Vegetables,Melons and Squash,Musk melon,Musk melon
+12,Rajasthan,Kota,Kota,Vegetables,Melons and Squash,Musk melon,Musk melon
+12,Rajasthan,Kota,Kota,Meat,Red Meat,Mutton,Mutton
+12,Rajasthan,Ajmer,Ajmer,Vegetables,Pods and Seeds,Okra,Lady finger
+12,Rajasthan,Jaipur,Jaipur,Vegetables,Pods and Seeds,Okra,Lady finger
+12,Rajasthan,Ajmer,Ajmer,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+12,Rajasthan,Jodhpur,Jodhpur,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+12,Rajasthan,Udaipur,Udaipur,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+12,Rajasthan,Jaisalmer,Jaisalmer,Fruits,Citrus Fruits,Orange,Mandarin Orange
+12,Rajasthan,Ajmer,Ajmer,Dairy products,Milk products,Paneer,Paneer
+12,Rajasthan,Jaipur,Jaipur,Dairy products,Milk products,Paneer,Paneer
+12,Rajasthan,Jaisalmer,Jaisalmer,Dairy products,Milk products,Paneer,Paneer
+12,Rajasthan,Kota,Kota,Dairy products,Milk products,Paneer,Paneer
+12,Rajasthan,Udaipur,Udaipur,Dairy products,Milk products,Paneer,Paneer
+12,Rajasthan,Udaipur,Udaipur,Vegetables,Pods and Seeds,Peas,Green Peas
+12,Rajasthan,Ajmer,Ajmer,Flowers,Pink flowers,Periwinkle,Periwinkle
+12,Rajasthan,Jaisalmer,Jaisalmer,Fruits,Tropical,Pomegranate,Pomegranate
+12,Rajasthan,Jaisalmer,Jaisalmer,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+12,Rajasthan,Jodhpur,Jodhpur,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+12,Rajasthan,Kota,Kota,Vegetables,Roots and Tubers,Potato,Kufri Chandramukhi Potato
+12,Rajasthan,Kota,Kota,Fish,Seawater,Prawns,Prawns
+12,Rajasthan,Jaisalmer,Jaisalmer,Grocery,Household items,Rice,Basmati Rice
+12,Rajasthan,Jaipur,Jaipur,Flowers,Yellow flowers,Rohira,Rohira
+12,Rajasthan,Jaisalmer,Jaisalmer,Flowers,Yellow flowers,Rohira,Rohira
+12,Rajasthan,Jaipur,Jaipur,Fish,Freshwater,Rohu,Rohu
+12,Rajasthan,Kota,Kota,Flowers,Purple flowers,Sky flower,Sky flower
+12,Rajasthan,Ajmer,Ajmer,Grocery,Beverages,Tea,Tea
+12,Rajasthan,Jaipur,Jaipur,Grocery,Beverages,Tea,Tea
+12,Rajasthan,Jaisalmer,Jaisalmer,Grocery,Beverages,Tea,Tea
+12,Rajasthan,Jodhpur,Jodhpur,Grocery,Beverages,Tea,Tea
+12,Rajasthan,Udaipur,Udaipur,Grocery,Beverages,Tea,Tea
+12,Rajasthan,Jodhpur,Jodhpur,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+12,Rajasthan,Ajmer,Ajmer,Grocery,Household items,Wheat,Wheat
+12,Rajasthan,Jaipur,Jaipur,Grocery,Household items,Wheat,Wheat
+12,Rajasthan,Jodhpur,Jodhpur,Grocery,Household items,Wheat,Wheat
+12,Rajasthan,Kota,Kota,Grocery,Household items,Wheat,Wheat
+12,Rajasthan,Udaipur,Udaipur,Grocery,Household items,Wheat,Wheat
+13,Tripura,North Tripura,Dharmanagar,Fruits,All season,Banana,Sugandhi Banana
+13,Tripura,West Tripura,Agartala,Meat,Red Meat,Beef,Beef
+13,Tripura,North Tripura,Dharmanagar,Vegetables,Seasonal,Beetroot,Detroit Dark Red Beetroot
+13,Tripura,West Tripura,Agartala,Bakery,Baked products,Bread,Bread
+13,Tripura,North Tripura,Dharmanagar,Bakery,Baked products,Bread,Bread
+13,Tripura,North Tripura,Dharmanagar,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+13,Tripura,West Tripura,Agartala,Bakery,Baked products,Brownie,Brownie
+13,Tripura,North Tripura,Dharmanagar,Dairy products,Milk products,Butter,Butter
+13,Tripura,North Tripura,Dharmanagar,Bakery,Pastry products,Cakes,Cakes
+13,Tripura,West Tripura,Agartala,Fish,Seawater,Catflish,Catfish
+13,Tripura,North Tripura,Dharmanagar,Fish,Freshwater,Catla,Catla
+13,Tripura,West Tripura,Agartala,Meat,White Meat,Chicken,Chicken
+13,Tripura,North Tripura,Dharmanagar,Meat,White Meat,Chicken,Chicken
+13,Tripura,West Tripura,Agartala,Grocery,Beverages,Coffee,Coffee
+13,Tripura,West Tripura,Agartala,Bakery,Baked products,Cookies,Cookies
+13,Tripura,North Tripura,Dharmanagar,Bakery,Baked products,Cookies,Cookies
+13,Tripura,West Tripura,Agartala,Bakery,Pastry products,Cup-cakes,Cup-cakes
+13,Tripura,West Tripura,Agartala,Dairy products,Milk products,Curd,Dahi
+13,Tripura,North Tripura,Dharmanagar,Dairy products,Milk products,Curd,Dahi
+13,Tripura,West Tripura,Agartala,Flowers,Pink flowers,Dahlia,Pink Sylvia Dahlia
+13,Tripura,North Tripura,Dharmanagar,Flowers,Pink flowers,Dahlia,Pink Sylvia Dahlia
+13,Tripura,North Tripura,Dharmanagar,Flowers,Red flowers,Daisy,Gerbera Daisy
+13,Tripura,West Tripura,Agartala,Grocery,Household items,Dal,Chana Dal
+13,Tripura,North Tripura,Dharmanagar,Grocery,Household items,Dal,Arhar Dal
+13,Tripura,West Tripura,Agartala,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+13,Tripura,West Tripura,Agartala,Vegetables,Melons and Squash,Gourd,Ash Gourd
+13,Tripura,North Tripura,Dharmanagar,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+13,Tripura,North Tripura,Dharmanagar,Fruits,Seasonal,Jackfruit,Honey Gold Jackfruit
+13,Tripura,West Tripura,Agartala,Fruits,Tropical,Litchi,Shahi Litchi
+13,Tripura,West Tripura,Agartala,Fruits,Seasonal,Mango,Amrapali Mango
+13,Tripura,North Tripura,Dharmanagar,Fruits,Seasonal,Mango,Kesar Mango
+13,Tripura,North Tripura,Dharmanagar,Flowers,Orange flowers,Marigold,French Marigold
+13,Tripura,West Tripura,Agartala,Dairy products,Milk products,Milk,Liquid milk
+13,Tripura,North Tripura,Dharmanagar,Dairy products,Milk products,Milk,Liquid milk
+13,Tripura,West Tripura,Agartala,Meat,Red Meat,Mutton,Mutton
+13,Tripura,North Tripura,Dharmanagar,Meat,Red Meat,Mutton,Mutton
+13,Tripura,West Tripura,Agartala,Fish,Freshwater,Olive Barb,Olive Barb
+13,Tripura,North Tripura,Dharmanagar,Fish,Freshwater,Olive Barb,Olive Barb
+13,Tripura,West Tripura,Agartala,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+13,Tripura,West Tripura,Agartala,Fruits,Citrus Fruits,Orange,Navel Orange
+13,Tripura,West Tripura,Agartala,Flowers,Purple flowers,Orchid,Dendrobium Orchid
+13,Tripura,West Tripura,Agartala,Dairy products,Milk products,Paneer,Paneer
+13,Tripura,West Tripura,Agartala,Vegetables,Pods and Seeds,Peas,Green Peas
+13,Tripura,North Tripura,Dharmanagar,Vegetables,Pods and Seeds,Peas,Green Peas
+13,Tripura,West Tripura,Agartala,Flowers,Pink flowers,Petunia,Petunia
+13,Tripura,West Tripura,Agartala,Fruits,Tropical,Pineapple,Kew Pineapple
+13,Tripura,North Tripura,Dharmanagar,Fruits,Tropical,Pineapple,Queen Pineapple
+13,Tripura,West Tripura,Agartala,Meat,Red Meat,Pork,Pork
+13,Tripura,North Tripura,Dharmanagar,Meat,Red Meat,Pork,Pork
+13,Tripura,West Tripura,Agartala,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+13,Tripura,North Tripura,Dharmanagar,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+13,Tripura,West Tripura,Agartala,Grocery,Household items,Rice,Pusa Rice
+13,Tripura,North Tripura,Dharmanagar,Grocery,Household items,Rice,Basmati Rice
+13,Tripura,North Tripura,Dharmanagar,Fish,Freshwater,Rohu,Rohu
+13,Tripura,West Tripura,Agartala,Fish,Freshwater,Shidol,Shidol
+13,Tripura,West Tripura,Agartala,Fish,Freshwater,Shidol,Shidol
+13,Tripura,North Tripura,Dharmanagar,Fish,Freshwater,Shidol,Shidol
+13,Tripura,West Tripura,Agartala,Grocery,Household items,Tea,Tea
+13,Tripura,North Tripura,Dharmanagar,Grocery,Household items,Tea,Tea
+13,Tripura,North Tripura,Dharmanagar,Grocery,Household items,Wheat,Wheat
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Vegetables,Bamboo,Bamboo shoot,Bamboo shoot
+14,Meghalaya,East Khasi Hills,Shillong,Fruits,All season,Banana,Cavendish Banana
+14,Meghalaya,East Khasi Hills,Shillong,Vegetables,Pods and Seeds,Beans,French Beans
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Meat,Red Meat,Beef,Beef
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Bakery,Baked products,Bread,Bread
+14,Meghalaya,East Khasi Hills,Shillong,Bakery,Baked products,Bread,Bread
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Vegetables,Fruit-vegetables,Brinjal,Pusa Anmol Brinjal
+14,Meghalaya,East Khasi Hills,Shillong,Bakery,Baked products,Brownie,Brownie
+14,Meghalaya,East Khasi Hills,Shillong,Dairy products,Milk products,Butter,Butter
+14,Meghalaya,East Khasi Hills,Shillong,Bakery,Pastry products,Cakes,Cakes
+14,Meghalaya,East Khasi Hills,Shillong,Flowers,Pink flowers,Carnation,Carnation
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fish,Freshwater,Carp,Common Carp
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fish,Freshwater,Carp,Grass Carp
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fish,Freshwater,Carp,Silver Carp
+14,Meghalaya,East Khasi Hills,Shillong,Fish,Freshwater,Carp,Silver Carp
+14,Meghalaya,East Khasi Hills,Shillong,Fish,Seawater,Catfish,Catfish
+14,Meghalaya,East Khasi Hills,Shillong,Fish,Freshwater,Catla,Catla
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Dairy products,Milk products,Cheese,Cheese
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Flowers,Pink flowers,Cherry Blossom,Cherry Blossom
+14,Meghalaya,East Khasi Hills,Shillong,Flowers,Pink flowers,Cherry Blossom,Cherry Blossom
+14,Meghalaya,East Khasi Hills,Shillong,Meat,White Meat,Chicken,Chicken
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Flowers,Yellow flowers,Chrysanthemum,Chrysanthemum
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Grocery,Beverages,Coffee,Coffee
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Bakery,Baked products,Cookies,Cookies
+14,Meghalaya,East Khasi Hills,Shillong,Bakery,Baked products,Cookies,Cookies
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+14,Meghalaya,East Khasi Hills,Shillong,Vegetables,Melons and Squash,Cucumber,Straight Eight Cucumber
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Bakery,Pastry products,Cup-cakes,Cup-cakes
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Dairy products,Milk products,Curd,Dahi
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Flowers,Red flowers,Daisy,Gerbera Daisy
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Grocery,Household items,Dal,Moong Dal
+14,Meghalaya,East Khasi Hills,Shillong,Grocery,Household items,Dal,Masoor Dal
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Meat,White Meat,Duck,Duck
+14,Meghalaya,East Khasi Hills,Shillong,Meat,White Meat,Duck,Duck
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+14,Meghalaya,East Khasi Hills,Shillong,Dairy products,Milk products,Ghee,Pure Ghee
+14,Meghalaya,East Khasi Hills,Shillong,Vegetables,Melons and Squash,Gourd,Bitter Gourd
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Vegetables,Greens,Green leafy,Spinach
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fruits,All season,Guava,Sardar Guava
+14,Meghalaya,East Khasi Hills,Shillong,Fruits,Citrus Fruits,Lemon,Assam Lemon
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fish,Freshwater,Mahseer,Golden Mahseer
+14,Meghalaya,East Khasi Hills,Shillong,Fish,Freshwater,Mahseer,Golden Mahseer
+14,Meghalaya,East Khasi Hills,Shillong,Flowers,Yellow flowers,Marigold,African Marigold
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Dairy products,Milk products,Milk,Liquid milk
+14,Meghalaya,East Khasi Hills,Shillong,Dairy products,Milk products,Milk,Liquid milk
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Meat,Red Meat,Mutton,Mutton
+14,Meghalaya,East Khasi Hills,Shillong,Meat,Red Meat,Mutton,Mutton
+14,Meghalaya,East Khasi Hills,Shillong,Fruits,Citrus Fruits,Orange,Navel Orange
+14,Meghalaya,East Khasi Hills,Shillong,Flowers,Purple flowers,Orchid,Foxtail Orchid
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Flowers,White flowers,Orchid,Cymbidium Orchid
+14,Meghalaya,East Khasi Hills,Shillong,Dairy products,Milk products,Paneer,Paneer
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fruits,Seasonal,Pear,Comice Pear
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fruits,Tropical,Pineapple,Kew Pineapple
+14,Meghalaya,East Khasi Hills,Shillong,Fruits,Tropical,Pineapple,Mauritius Pineapple
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Fruits,Stone Fruits,Plums,Plums
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Meat,Red Meat,Pork,Pork
+14,Meghalaya,East Khasi Hills,Shillong,Meat,Red Meat,Pork,Pork
+14,Meghalaya,East Khasi Hills,Shillong,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Grocery,Household items,Rice,Basmati Rice
+14,Meghalaya,East Khasi Hills,Shillong,Grocery,Household items,Rice,Pusa Rice
+14,Meghalaya,East Khasi Hills,Cherrapunjee,Grocery,Beverages,Tea,Tea
+14,Meghalaya,East Khasi Hills,Shillong,Grocery,Beverages,Tea,Tea
+14,Meghalaya,East Khasi Hills,Shillong,Grocery,Household items,Wheat,Wheat
+15,Manipur,Bishnupur,Bishnupur,Fruits,All season,Banana,Cheeni Champa Banana
+15,Manipur,Imphal,Imphal,Fruits,All season,Banana,Cavendish Banana
+15,Manipur,Bishnupur,Bishnupur,Meat,Red Meat,Beef,Beef
+15,Manipur,Imphal,Imphal,Meat,Red Meat,Beef,Beef
+15,Manipur,Bishnupur,Bishnupur,Bakery,Baked products,Bread,Bread
+15,Manipur,Imphal,Imphal,Bakery,Baked products,Bread,Bread
+15,Manipur,Imphal,Imphal,Bakery,Baked products,Brownie,Brownie
+15,Manipur,Imphal,Imphal,Dairy products,Milk products,Butter,Butter
+15,Manipur,Bishnupur,Bishnupur,Flowers,Yellow flowers,Buttercup,Bulbous Buttercup
+15,Manipur,Imphal,Imphal,Bakery,Pastry products,Cakes,Cakes
+15,Manipur,Bishnupur,Bishnupur,Fish,Freshwater,Carp,Common Carp
+15,Manipur,Bishnupur,Bishnupur,Fish,Freshwater,Carp,Pengba Carp
+15,Manipur,Imphal,Imphal,Fish,Freshwater,Carp,Common Carp
+15,Manipur,Imphal,Imphal,Fish,Freshwater,Carp,Pengba Carp
+15,Manipur,Imphal,Imphal,Fish,Freshwater,Carp,Silver Carp
+15,Manipur,Bishnupur,Bishnupur,Fish,Seawater,Catfish,Catfish
+15,Manipur,Bishnupur,Bishnupur,Meat,White Meat,Chicken,Chicken
+15,Manipur,Imphal,Imphal,Meat,White Meat,Chicken,Chicken
+15,Manipur,Bishnupur,Bishnupur,Grocery,Beverages,Coffee,Coffee
+15,Manipur,Bishnupur,Bishnupur,Bakery,Baked products,Cookies,Cookies
+15,Manipur,Imphal,Imphal,Bakery,Baked products,Cookies,Cookies
+15,Manipur,Bishnupur,Bishnupur,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+15,Manipur,Imphal,Imphal,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+15,Manipur,Imphal,Imphal,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+15,Manipur,Bishnupur,Bishnupur,Bakery,Pastry products,Cup-cakes,Cup-cakes
+15,Manipur,Bishnupur,Bishnupur,Dairy products,Milk products,Curd,Dahi
+15,Manipur,Bishnupur,Bishnupur,Grocery,Household items,Dal,Moong Dal
+15,Manipur,Imphal,Imphal,Grocery,Household items,Dal,Masoor Dal
+15,Manipur,Bishnupur,Bishnupur,Meat,White Meat,Duck,Duck
+15,Manipur,Bishnupur,Bishnupur,Fish,Freshwater,Fermented Fish,Ngari Fish
+15,Manipur,Imphal,Imphal,Fish,Freshwater,Fermented Fish,Ngari Fish
+15,Manipur,Imphal,Imphal,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+15,Manipur,Bishnupur,Bishnupur,Dairy products,Milk products,Ghee,Pure Ghee
+15,Manipur,Imphal,Imphal,Fruits,All season,Guava,Allahabad Safeda Guava
+15,Manipur,Bishnupur,Bishnupur,Flowers,Red flowers,Hibiscus,Hibiscus rosa
+15,Manipur,Imphal,Imphal,Flowers,Red flowers,Hibiscus,Hibiscus rosa
+15,Manipur,Bishnupur,Bishnupur,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+15,Manipur,Bishnupur,Bishnupur,Fruits,Citrus Fruits,Lemon,Italian Lemon
+15,Manipur,Bishnupur,Bishnupur,Flowers,Pink flowers,Lily,Shirui Lily
+15,Manipur,Imphal,Imphal,Flowers,Pink flowers,Lily,Shirui Lily
+15,Manipur,Bishnupur,Bishnupur,Dairy products,Milk products,Milk,Liquid milk
+15,Manipur,Imphal,Imphal,Dairy products,Milk products,Milk,Liquid milk
+15,Manipur,Imphal,Imphal,Meat,Red Meat,Mutton,Mutton
+15,Manipur,Bishnupur,Bishnupur,Vegetables,Pods and Seeds,Okra,Lady finger
+15,Manipur,Bishnupur,Bishnupur,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+15,Manipur,Bishnupur,Bishnupur,Fruits,Citrus Fruits,Orange,Navel Orange
+15,Manipur,Imphal,Imphal,Fruits,Citrus Fruits,Orange,Mandarin Orange
+15,Manipur,Imphal,Imphal,Dairy products,Milk products,Paneer,Paneer
+15,Manipur,Bishnupur,Bishnupur,Fruits,Tropical,Papaya,Honeydew Papaya
+15,Manipur,Bishnupur,Bishnupur,Vegetables,Pods and Seeds,Peas,Green Peas
+15,Manipur,Imphal,Imphal,Vegetables,Pods and Seeds,Peas,Green Peas
+15,Manipur,Imphal,Imphal,Fruits,Tropical,Pineapple,Queen Pineapple
+15,Manipur,Bishnupur,Bishnupur,Meat,Red Meat,Pork,Pork
+15,Manipur,Imphal,Imphal,Meat,Red Meat,Pork,Pork
+15,Manipur,Bishnupur,Bishnupur,Grocery,Household items,Rice,Basmati Rice
+15,Manipur,Imphal,Imphal,Grocery,Household items,Rice,Black Rice
+15,Manipur,Bishnupur,Bishnupur,Grocery,Beverages,Tea,Tea
+15,Manipur,Imphal,Imphal,Grocery,Beverages,Tea,Tea
+15,Manipur,Imphal,Imphal,Vegetables,Fruit-vegetables,Tomato,Sona Cherry Tomato
+15,Manipur,Imphal,Imphal,Flowers,Blue flowers,Water Lily,Blue water Lily
+15,Manipur,Imphal,Imphal,Flowers,Pink flowers,Water Lily,Pink water Lily
+15,Manipur,Bishnupur,Bishnupur,Flowers,White flowers,Water Lily,White water Lily
+15,Manipur,Imphal,Imphal,Grocery,Household items,Wheat,Wheat
+16,Mizoram,Aizawl,Aizawl,Flowers,Red flowers,Anthurium,Red Anthurium
+16,Mizoram,Aizawl,Aizawl,Fruits,All season,Banana,Jahaji Banana
+16,Mizoram,Champhai,Champhai,Fruits,All season,Banana,Cheeni Champa Banana
+16,Mizoram,Aizawl,Aizawl,Meat,Red Meat,Beef,Beef
+16,Mizoram,Aizawl,Aizawl,Bakery,Baked products,Bread,Bread
+16,Mizoram,Champhai,Champhai,Bakery,Baked products,Bread,Bread
+16,Mizoram,Champhai,Champhai,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+16,Mizoram,Champhai,Champhai,Bakery,Baked products,Brownie,Brownie
+16,Mizoram,Aizawl,Aizawl,Dairy products,Milk products,Butter,Butter
+16,Mizoram,Aizawl,Aizawl,Bakery,Pastry products,Cakes,Cakes
+16,Mizoram,Aizawl,Aizawl,Fish,Seawater,Catfish,Catfish
+16,Mizoram,Aizawl,Aizawl,Fish,Freshwater,Catla,Catla
+16,Mizoram,Champhai,Champhai,Dairy products,Milk products,Cheese,Cheese
+16,Mizoram,Aizawl,Aizawl,Meat,White Meat,Chicken,Chicken
+16,Mizoram,Champhai,Champhai,Meat,White Meat,Chicken,Chicken
+16,Mizoram,Champhai,Champhai,Grocery,Beverages,Coffee,Coffee
+16,Mizoram,Aizawl,Aizawl,Bakery,Baked products,Cookies,Cookies
+16,Mizoram,Aizawl,Aizawl,Bakery,Baked products,Cookies,Cookies
+16,Mizoram,Champhai,Champhai,Bakery,Pastry products,Cup-cakes,Cup-cakes
+16,Mizoram,Aizawl,Aizawl,Dairy products,Milk products,Curd,Dahi
+16,Mizoram,Champhai,Champhai,Flowers,Pink flowers,Dahlia,Pink Sylvia Dahlia
+16,Mizoram,Champhai,Champhai,Flowers,Red flowers,Daisy,Gerbera Daisy
+16,Mizoram,Aizawl,Aizawl,Grocery,Household items,Dal,Moong Dal
+16,Mizoram,Champhai,Champhai,Grocery,Household items,Dal,Masoor Dal
+16,Mizoram,Champhai,Champhai,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+16,Mizoram,Champhai,Champhai,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+16,Mizoram,Aizawl,Aizawl,Vegetables,All season,Ginger,Ginger
+16,Mizoram,Champhai,Champhai,Vegetables,All season,Ginger,Ginger
+16,Mizoram,Champhai,Champhai,Vegetables,Melons and Squash,Gourd,Ash Gourd
+16,Mizoram,Champhai,Champhai,Vegetables,Melons and Squash,Gourd,Bitter Gourd
+16,Mizoram,Champhai,Champhai,Fish,Freshwater,Hilsa,Ilish
+16,Mizoram,Aizawl,Aizawl,Fish,Seawater,Kingfish,Burmese Kingfish
+16,Mizoram,Champhai,Champhai,Fish,Seawater,Kingfish,Burmese Kingfish
+16,Mizoram,Aizawl,Aizawl,Fruits,Citrus Fruits,Lemon,Assam Lemon
+16,Mizoram,Champhai,Champhai,Fish,Seawater,Mackerel,King Mackerel
+16,Mizoram,Aizawl,Aizawl,Dairy products,Milk products,Milk,Liquid milk
+16,Mizoram,Champhai,Champhai,Dairy products,Milk products,Milk,Liquid milk
+16,Mizoram,Champhai,Champhai,Meat,Red Meat,Mutton,Mutton
+16,Mizoram,Champhai,Champhai,Fruits,Seasonal,Oil Palm,African Oil Palm
+16,Mizoram,Aizawl,Aizawl,Vegetables,Pods and Seeds,Okra,Lady finger
+16,Mizoram,Champhai,Champhai,Fruits,Citrus Fruits,Orange,Mandarin Orange
+16,Mizoram,Aizawl,Aizawl,Dairy products,Milk products,Paneer,Paneer
+16,Mizoram,Aizawl,Aizawl,Fruits,Tropical,Passion fruit,Mizo Passion fruit
+16,Mizoram,Champhai,Champhai,Fruits,Tropical,Passion fruit,Mizo Passion fruit
+16,Mizoram,Aizawl,Aizawl,Vegetables,Pods and Seeds,Peas,Green Peas
+16,Mizoram,Aizawl,Aizawl,Fruits,Tropical,Pineapple,Mauritius Pineapple
+16,Mizoram,Aizawl,Aizawl,Meat,Red Meat,Pork,Pork
+16,Mizoram,Champhai,Champhai,Meat,Red Meat,Pork,Pork
+16,Mizoram,Aizawl,Aizawl,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+16,Mizoram,Aizawl,Aizawl,Grocery,Household items,Rice,Pusa Rice
+16,Mizoram,Champhai,Champhai,Grocery,Household items,Rice,Bora Saul Rice
+16,Mizoram,Aizawl,Aizawl,Flowers,Red flowers,Senhri,Red Senhri
+16,Mizoram,Champhai,Champhai,Flowers,Red flowers,Senhri,Red Senhri
+16,Mizoram,Aizawl,Aizawl,Flowers,Yellow flowers,Sunflower,Sunflower
+16,Mizoram,Aizawl,Aizawl,Grocery,Household items,Tea,Tea
+16,Mizoram,Champhai,Champhai,Grocery,Household items,Tea,Tea
+16,Mizoram,Aizawl,Aizawl,Grocery,Household items,Wheat,Wheat
+17,Nagaland,Dimapur,Dimapur,Fruits,All season,Apple,Naga Apple
+17,Nagaland,Dimapur,Dimapur,Fruits,All season,Apple,Naga Apple
+17,Nagaland,Kohima,Kohima,Vegetables,Bamboo,Bamboo shoot,Bamboo shoot
+17,Nagaland,Kohima,Kohima,Vegetables,Pods and Seeds,Beans,French Beans
+17,Nagaland,Dimapur,Dimapur,Meat,Red Meat,Beef,Beef
+17,Nagaland,Kohima,Kohima,Bakery,Baked products,Bread,Bread
+17,Nagaland,Kohima,Kohima,Meat,Red Meat,Buffalo,Buffalo
+17,Nagaland,Dimapur,Dimapur,Dairy products,Milk products,Butter,Butter
+17,Nagaland,Kohima,Kohima,Bakery,Pastry products,Cakes,Cakes
+17,Nagaland,Dimapur,Dimapur,Bakery,Pastry products,Cakes,Cakes
+17,Nagaland,Kohima,Kohima,Fish,Freshwater,Carp,Mrigal Carp
+17,Nagaland,Dimapur,Dimapur,Fish,Freshwater,Carp,Grass Carp
+17,Nagaland,Kohima,Kohima,Vegetables,Roots and Tubers,Carrot,Red Carrot
+17,Nagaland,Dimapur,Dimapur,Vegetables,Roots and Tubers,Carrot,Red Carrot
+17,Nagaland,Kohima,Kohima,Fish,Seawater,Catfish,Catfish
+17,Nagaland,Dimapur,Dimapur,Fish,Seawater,Catfish,Catfish
+17,Nagaland,Kohima,Kohima,Meat,White Meat,Chicken,Chicken
+17,Nagaland,Dimapur,Dimapur,Grocery,Beverages,Coffee,Coffee
+17,Nagaland,Kohima,Kohima,Bakery,Baked products,Cookies,Cookies
+17,Nagaland,Dimapur,Dimapur,Bakery,Baked products,Cookies,Cookies
+17,Nagaland,Dimapur,Dimapur,Bakery,Pastry products,Cup-cakes,Cup-cakes
+17,Nagaland,Kohima,Kohima,Dairy products,Milk products,Curd,Dahi
+17,Nagaland,Kohima,Kohima,Grocery,Household items,Dal,Masoor Dal
+17,Nagaland,Dimapur,Dimapur,Grocery,Household items,Dal,Urad Dal
+17,Nagaland,Kohima,Kohima,Meat,White Meat,Duck,Duck
+17,Nagaland,Dimapur,Dimapur,Vegetables,All season,Garlic,Garlic
+17,Nagaland,Dimapur,Dimapur,Dairy products,Milk products,Ghee,Pure Ghee
+17,Nagaland,Dimapur,Dimapur,Dairy products,Milk products,Ghee,Pure Ghee
+17,Nagaland,Kohima,Kohima,Vegetables,Greens,Green leafy,Spinach
+17,Nagaland,Dimapur,Dimapur,Vegetables,Greens,Green leafy,Spinach
+17,Nagaland,Kohima,Kohima,Fruits,All season,Guava,Sardar Guava
+17,Nagaland,Kohima,Kohima,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+17,Nagaland,Kohima,Kohima,Flowers,White flowers,Jasmine,Coral Jasmine
+17,Nagaland,Kohima,Kohima,Fruits,Citrus Fruits,Lemon,Assam Lemon
+17,Nagaland,Kohima,Kohima,Fish,Freshwater,Mahseer,Chocolate Mahseer
+17,Nagaland,Dimapur,Dimapur,Fish,Freshwater,Mahseer,Chocolate Mahseer
+17,Nagaland,Kohima,Kohima,Dairy products,Milk products,Milk,Liquid milk
+17,Nagaland,Dimapur,Dimapur,Dairy products,Milk products,Milk,Liquid milk
+17,Nagaland,Kohima,Kohima,Fish,Freshwater,Murrel,Snakehead Murrel
+17,Nagaland,Dimapur,Dimapur,Meat,Red Meat,Mutton,Mutton
+17,Nagaland,Kohima,Kohima,Flowers,Pink flowers,Orchid,Foxtail Orchid
+17,Nagaland,Dimapur,Dimapur,Flowers,Pink flowers,Orchid,Foxtail Orchid
+17,Nagaland,Kohima,Kohima,Dairy products,Milk products,Paneer,Paneer
+17,Nagaland,Dimapur,Dimapur,Fruits,Stone Fruits,Peach,Peach
+17,Nagaland,Kohima,Kohima,Fruits,Seasonal,Pear,Bartlett Pear
+17,Nagaland,Kohima,Kohima,Fruits,Tropical,Pineapple,Kew Pineapple
+17,Nagaland,Dimapur,Dimapur,Fruits,Tropical,Pineapple,Queen Pineapple
+17,Nagaland,Kohima,Kohima,Meat,Red Meat,Pork,Pork
+17,Nagaland,Dimapur,Dimapur,Meat,Red Meat,Pork,Pork
+17,Nagaland,Dimapur,Dimapur,Vegetables,Roots and Tubers,Potato,Kufri Chandramukhi Potato
+17,Nagaland,Kohima,Kohima,Flowers,Purple flowers,Rhododendron,Rhododendron
+17,Nagaland,Dimapur,Dimapur,Flowers,Purple flowers,Rhododendron,Rhododendron
+17,Nagaland,Kohima,Kohima,Grocery,Household items,Rice,Bao Dhaan Rice
+17,Nagaland,Dimapur,Dimapur,Grocery,Household items,Rice,Black Rice
+17,Nagaland,Dimapur,Dimapur,Flowers,Red flowers,Rose,Red Rose
+17,Nagaland,Kohima,Kohima,Grocery,Household items,Tea,Tea
+17,Nagaland,Dimapur,Dimapur,Grocery,Household items,Tea,Tea
+17,Nagaland,Kohima,Kohima,Grocery,Household items,Wheat,Wheat
+18,Jammu & Kashmir,Jammu,Jammu,Fruits,All season,Apple,Kashmiri Apple
+18,Jammu & Kashmir,Srinagar,Srinagar,Fruits,All season,Apple,Kashmiri Apple
+18,Jammu & Kashmir,Rajouri,Rajouri,Fruits,All season,Apple,Kashmiri Apple
+18,Jammu & Kashmir,Pulwama,Pulwama,Fruits,All season,Apple,Kashmiri Apple
+18,Jammu & Kashmir,Anantnag,Anantnag,Fruits,Stone Fruits,Apricot,Kashmiri Apricot
+18,Jammu & Kashmir,Pulwama,Pulwama,Fruits,Stone Fruits,Apricot,Kashmiri Apricot
+18,Jammu & Kashmir,Jammu,Jammu,Vegetables,Pods and Seeds,Beans,French Beans
+18,Jammu & Kashmir,Jammu,Jammu,Meat,Red Meat,Beef,Beef
+18,Jammu & Kashmir,Srinagar,Srinagar,Meat,Red Meat,Beef,Beef
+18,Jammu & Kashmir,Rajouri,Rajouri,Meat,Red Meat,Beef,Beef
+18,Jammu & Kashmir,Pulwama,Pulwama,Meat,Red Meat,Beef,Beef
+18,Jammu & Kashmir,Jammu,Jammu,Bakery,Baked products,Bread,Bread
+18,Jammu & Kashmir,Rajouri,Rajouri,Bakery,Baked products,Bread,Bread
+18,Jammu & Kashmir,Anantnag,Anantnag,Bakery,Baked products,Bread,Bread
+18,Jammu & Kashmir,Rajouri,Rajouri,Bakery,Baked products,Brownie,Brownie
+18,Jammu & Kashmir,Pulwama,Pulwama,Bakery,Baked products,Brownie,Brownie
+18,Jammu & Kashmir,Jammu,Jammu,Dairy products,Milk products,Butter,Butter
+18,Jammu & Kashmir,Anantnag,Anantnag,Dairy products,Milk products,Butter,Butter
+18,Jammu & Kashmir,Srinagar,Srinagar,Bakery,Pastry products,Cakes,Cakes
+18,Jammu & Kashmir,Rajouri,Rajouri,Flowers,Pink flowers,Carnation,Carnation
+18,Jammu & Kashmir,Jammu,Jammu,Fish,Freshwater,Carp,Grass Carp
+18,Jammu & Kashmir,Rajouri,Rajouri,Fish,Freshwater,Carp,Silver Carp
+18,Jammu & Kashmir,Pulwama,Pulwama,Fish,Freshwater,Carp,Common Carp
+18,Jammu & Kashmir,Srinagar,Srinagar,Fish,Freshwater,Catla,Catla
+18,Jammu & Kashmir,Pulwama,Pulwama,Dairy products,Milk products,Cheese,Cheese
+18,Jammu & Kashmir,Jammu,Jammu,Meat,White Meat,Chicken,Chicken
+18,Jammu & Kashmir,Rajouri,Rajouri,Meat,White Meat,Chicken,Chicken
+18,Jammu & Kashmir,Anantnag,Anantnag,Meat,White Meat,Chicken,Chicken
+18,Jammu & Kashmir,Pulwama,Pulwama,Meat,White Meat,Chicken,Chicken
+18,Jammu & Kashmir,Rajouri,Rajouri,Grocery,Beverages,Coffee,Coffee
+18,Jammu & Kashmir,Anantnag,Anantnag,Grocery,Beverages,Coffee,Coffee
+18,Jammu & Kashmir,Jammu,Jammu,Bakery,Baked products,Cookies,Cookies
+18,Jammu & Kashmir,Pulwama,Pulwama,Bakery,Baked products,Cookies,Cookies
+18,Jammu & Kashmir,Anantnag,Anantnag,Bakery,Baked products,Cookies,Cookies
+18,Jammu & Kashmir,Jammu,Jammu,Flowers,Purple flowers,Crocus,Saffron Crocus
+18,Jammu & Kashmir,Pulwama,Pulwama,Flowers,Purple flowers,Crocus,Saffron Crocus
+18,Jammu & Kashmir,Jammu,Jammu,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+18,Jammu & Kashmir,Srinagar,Srinagar,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+18,Jammu & Kashmir,Rajouri,Rajouri,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+18,Jammu & Kashmir,Anantnag,Anantnag,Vegetables,Brassica,Cruciferous vegetables,Broccoli
+18,Jammu & Kashmir,Anantnag,Anantnag,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+18,Jammu & Kashmir,Srinagar,Srinagar,Bakery,Pastry products,Cup-cakes,Cup-cakes
+18,Jammu & Kashmir,Rajouri,Rajouri,Dairy products,Milk products,Curd,Dahi
+18,Jammu & Kashmir,Jammu,Jammu,Grocery,Household items,Dal,Moong Dal
+18,Jammu & Kashmir,Srinagar,Srinagar,Grocery,Household items,Dal,Arhar Dal
+18,Jammu & Kashmir,Rajouri,Rajouri,Grocery,Household items,Dal,Urad Dal
+18,Jammu & Kashmir,Pulwama,Pulwama,Grocery,Household items,Dal,Moong Dal
+18,Jammu & Kashmir,Rajouri,Rajouri,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+18,Jammu & Kashmir,Anantnag,Anantnag,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+18,Jammu & Kashmir,Pulwama,Pulwama,Vegetables,All season,Garlic,Garlic
+18,Jammu & Kashmir,Srinagar,Srinagar,Dairy products,Milk products,Ghee,Pure Ghee
+18,Jammu & Kashmir,Rajouri,Rajouri,Dairy products,Milk products,Ghee,Pure Ghee
+18,Jammu & Kashmir,Jammu,Jammu,Fruits,All season,Guava,Lalit Guava
+18,Jammu & Kashmir,Pulwama,Pulwama,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+18,Jammu & Kashmir,Anantnag,Anantnag,Dairy products,Milk products,Lassi,Lassi
+18,Jammu & Kashmir,Anantnag,Anantnag,Fruits,Citrus Fruits,Lemon,Sweet Lemon
+18,Jammu & Kashmir,Srinagar,Srinagar,Fruits,Tropical,Litchi,Shahi Litchi
+18,Jammu & Kashmir,Jammu,Jammu,Flowers,Pink flowers,Lotus,Indian Lotus
+18,Jammu & Kashmir,Anantnag,Anantnag,Flowers,Pink flowers,Lotus,Indian Lotus
+18,Jammu & Kashmir,Anantnag,Anantnag,Fish,Freshwater,Mahseer,Golden Mahseer
+18,Jammu & Kashmir,Jammu,Jammu,Fruits,Seasonal,Mango,Alphonso Mango
+18,Jammu & Kashmir,Pulwama,Pulwama,Fruits,Seasonal,Mango,Alphonso Mango
+18,Jammu & Kashmir,Jammu,Jammu,Dairy products,Milk products,Milk,Liquid milk
+18,Jammu & Kashmir,Srinagar,Srinagar,Dairy products,Milk products,Milk,Liquid milk
+18,Jammu & Kashmir,Pulwama,Pulwama,Dairy products,Milk products,Milk,Liquid milk
+18,Jammu & Kashmir,Jammu,Jammu,Meat,Red Meat,Mutton,Mutton
+18,Jammu & Kashmir,Srinagar,Srinagar,Meat,Red Meat,Mutton,Mutton
+18,Jammu & Kashmir,Rajouri,Rajouri,Meat,Red Meat,Mutton,Mutton
+18,Jammu & Kashmir,Anantnag,Anantnag,Meat,Red Meat,Mutton,Mutton
+18,Jammu & Kashmir,Pulwama,Pulwama,Meat,Red Meat,Mutton,Mutton
+18,Jammu & Kashmir,Srinagar,Srinagar,Vegetables,Pods and Seeds,Okra,Lady finger
+18,Jammu & Kashmir,Srinagar,Srinagar,Vegetables,Pods and Seeds,Okra,Lady finger
+18,Jammu & Kashmir,Pulwama,Pulwama,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+18,Jammu & Kashmir,Srinagar,Srinagar,Fruits,Citrus Fruits,Orange,Mandarin Orange
+18,Jammu & Kashmir,Jammu,Jammu,Dairy products,Milk products,Paneer,Paneer
+18,Jammu & Kashmir,Srinagar,Srinagar,Dairy products,Milk products,Paneer,Paneer
+18,Jammu & Kashmir,Rajouri,Rajouri,Fruits,Stone Fruits,Peach,Peach
+18,Jammu & Kashmir,Rajouri,Rajouri,Fruits,Seasonal,Pear,Asian Pear
+18,Jammu & Kashmir,Anantnag,Anantnag,Fruits,Stone Fruits,Plums,Plums
+18,Jammu & Kashmir,Srinagar,Srinagar,Meat,Red Meat,Pork,Pork
+18,Jammu & Kashmir,Anantnag,Anantnag,Meat,Red Meat,Pork,Pork
+18,Jammu & Kashmir,Jammu,Jammu,Vegetables,Roots and Tubers,Potato,Kufri Chandramukhi Potato
+18,Jammu & Kashmir,Anantnag,Anantnag,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+18,Jammu & Kashmir,Pulwama,Pulwama,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+18,Jammu & Kashmir,Srinagar,Srinagar,Grocery,Household items,Rice,Shalimar Rice
+18,Jammu & Kashmir,Rajouri,Rajouri,Grocery,Household items,Rice,Basmati Rice
+18,Jammu & Kashmir,Anantnag,Anantnag,Grocery,Household items,Rice,Shalimar Rice
+18,Jammu & Kashmir,Pulwama,Pulwama,Grocery,Household items,Rice,Basmati Rice
+18,Jammu & Kashmir,Jammu,Jammu,Fish,Freshwater,Rohu,Rohu
+18,Jammu & Kashmir,Anantnag,Anantnag,Fish,Freshwater,Rohu,Rohu
+18,Jammu & Kashmir,Srinagar,Srinagar,Flowers,Pink flowers,Rose,Kashmiri Rose
+18,Jammu & Kashmir,Anantnag,Anantnag,Flowers,Pink flowers,Rose,Kashmiri Rose
+18,Jammu & Kashmir,Rajouri,Rajouri,Fish,Seawater,Salmon,Indian Salmon
+18,Jammu & Kashmir,Jammu,Jammu,Grocery,Beverages,Tea,Tea
+18,Jammu & Kashmir,Srinagar,Srinagar,Grocery,Beverages,Tea,Tea
+18,Jammu & Kashmir,Pulwama,Pulwama,Grocery,Beverages,Tea,Tea
+18,Jammu & Kashmir,Rajouri,Rajouri,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+18,Jammu & Kashmir,Rajouri,Rajouri,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+18,Jammu & Kashmir,Srinagar,Srinagar,Fish,Freshwater,Trout,Snow Trout
+18,Jammu & Kashmir,Pulwama,Pulwama,Fish,Freshwater,Trout,Brown Trout
+18,Jammu & Kashmir,Rajouri,Rajouri,Flowers,Pink flowers,Tulip,Pink Tulip
+18,Jammu & Kashmir,Pulwama,Pulwama,Flowers,Red flowers,Tulip,Red Tulip
+18,Jammu & Kashmir,Srinagar,Srinagar,Flowers,Yellow flowers,Tulip,Yellow Tulip
+18,Jammu & Kashmir,Jammu,Jammu,Grocery,Household items,Wheat,Wheat
+18,Jammu & Kashmir,Anantnag,Anantnag,Grocery,Household items,Wheat,Wheat
+19,Himachal Pradesh,Shimla,Shimla,Fruits,All season,Apple,Royal Delicious Apple
+19,Himachal Pradesh,Hamirpur,Hamirpur,Fruits,All season,Apple,Royal Delicious Apple
+19,Himachal Pradesh,Mandi,Mandi,Fruits,Stone Fruits,Apricot,Kashmiri Apricot
+19,Himachal Pradesh,Kullu,Manali,Fruits,Stone Fruits,Apricot,Kashmiri Apricot
+19,Himachal Pradesh,Hamirpur,Hamirpur,Fish,Freshwater,Aquarium Fish,Barilius
+19,Himachal Pradesh,Kangra,Dharamshala,Fruits,Seasonal,Berry,Strawberry
+19,Himachal Pradesh,Kangra,Dharamshala,Fruits,Seasonal,Berry,Kafal
+19,Himachal Pradesh,Mandi,Mandi,Fruits,Seasonal,Berry,Heartleaf Raspberry
+19,Himachal Pradesh,Shimla,Shimla,Fruits,Seasonal,Berry,Kafal
+19,Himachal Pradesh,Shimla,Shimla,Fruits,Seasonal,Berry,Strawberry
+19,Himachal Pradesh,Hamirpur,Hamirpur,Fruits,Seasonal,Berry,Heartleaf Raspberry
+19,Himachal Pradesh,Hamirpur,Hamirpur,Fruits,Seasonal,Berry,Kafal
+19,Himachal Pradesh,Kangra,Dharamshala,Bakery,Baked products,Bread,Bread
+19,Himachal Pradesh,Mandi,Mandi,Bakery,Baked products,Bread,Bread
+19,Himachal Pradesh,Hamirpur,Hamirpur,Bakery,Baked products,Bread,Bread
+19,Himachal Pradesh,Shimla,Shimla,Bakery,Baked products,Brownie,Brownie
+19,Himachal Pradesh,Kullu,Manali,Bakery,Baked products,Brownie,Brownie
+19,Himachal Pradesh,Shimla,Shimla,Dairy products,Milk products,Butter,Butter
+19,Himachal Pradesh,Hamirpur,Hamirpur,Dairy products,Milk products,Butter,Butter
+19,Himachal Pradesh,Mandi,Mandi,Bakery,Pastry products,Cakes,Cakes
+19,Himachal Pradesh,Hamirpur,Hamirpur,Bakery,Pastry products,Cakes,Cakes
+19,Himachal Pradesh,Mandi,Mandi,Flowers,Pink flowers,Carnation,Carnation
+19,Himachal Pradesh,Kullu,Manali,Flowers,Pink flowers,Carnation,Carnation
+19,Himachal Pradesh,Shimla,Shimla,Fish,Freshwater,Carp,Mrigal Carp
+19,Himachal Pradesh,Kullu,Manali,Dairy products,Milk products,Cheese,Cheese
+19,Himachal Pradesh,Kangra,Dharamshala,Meat,White Meat,Chicken,Chicken
+19,Himachal Pradesh,Shimla,Shimla,Meat,White Meat,Chicken,Chicken
+19,Himachal Pradesh,Hamirpur,Hamirpur,Vegetables,Nightshade vegetables,Chillies,Capsicum
+19,Himachal Pradesh,Shimla,Shimla,Grocery,Beverages,Coffee,Coffee
+19,Himachal Pradesh,Kangra,Dharamshala,Bakery,Baked products,Cookies,Cookies
+19,Himachal Pradesh,Kangra,Dharamshala,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+19,Himachal Pradesh,Kangra,Dharamshala,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+19,Himachal Pradesh,Mandi,Mandi,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+19,Himachal Pradesh,Shimla,Shimla,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+19,Himachal Pradesh,Hamirpur,Hamirpur,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+19,Himachal Pradesh,Kullu,Manali,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+19,Himachal Pradesh,Kullu,Manali,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+19,Himachal Pradesh,Shimla,Shimla,Bakery,Pastry products,Cup-cakes,Cup-cakes
+19,Himachal Pradesh,Kullu,Manali,Bakery,Pastry products,Cup-cakes,Cup-cakes
+19,Himachal Pradesh,Kangra,Dharamshala,Dairy products,Milk products,Curd,Dahi
+19,Himachal Pradesh,Shimla,Shimla,Flowers,Red flowers,Daisy,Gerbera Daisy
+19,Himachal Pradesh,Shimla,Shimla,Grocery,Household items,Dal,Arhar Dal
+19,Himachal Pradesh,Hamirpur,Hamirpur,Grocery,Household items,Dal,Masoor Dal
+19,Himachal Pradesh,Kullu,Manali,Grocery,Household items,Dal,Arhar Dal
+19,Himachal Pradesh,Mandi,Mandi,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+19,Himachal Pradesh,Hamirpur,Hamirpur,Dairy products,Milk products,Ghee,Pure Ghee
+19,Himachal Pradesh,Hamirpur,Hamirpur,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+19,Himachal Pradesh,Mandi,Mandi,Dairy products,Milk products,Lassi,Lassi
+19,Himachal Pradesh,Kangra,Dharamshala,Flowers,Purple flowers,Lily,Gladiolus
+19,Himachal Pradesh,Hamirpur,Hamirpur,Flowers,Purple flowers,Lily,Gladiolus
+19,Himachal Pradesh,Mandi,Mandi,Flowers,White flowers,Lily,Madonna Lily
+19,Himachal Pradesh,Kangra,Dharamshala,Fish,Freshwater,Mahseer,Tor Mahseer
+19,Himachal Pradesh,Mandi,Mandi,Fish,Freshwater,Mahseer,Golden Mahseer
+19,Himachal Pradesh,Shimla,Shimla,Fish,Freshwater,Mahseer,Tor Mahseer
+19,Himachal Pradesh,Kullu,Manali,Fish,Freshwater,Mahseer,Tor Mahseer
+19,Himachal Pradesh,Kangra,Dharamshala,Flowers,Orange flowers,Marigold,French Marigold
+19,Himachal Pradesh,Shimla,Shimla,Flowers,Yellow flowers,Marigold,African Marigold
+19,Himachal Pradesh,Kangra,Dharamshala,Dairy products,Milk products,Milk,Liquid milk
+19,Himachal Pradesh,Shimla,Shimla,Dairy products,Milk products,Milk,Liquid milk
+19,Himachal Pradesh,Kullu,Manali,Dairy products,Milk products,Milk,Liquid milk
+19,Himachal Pradesh,Kangra,Dharamshala,Meat,Red Meat,Mutton,Mutton
+19,Himachal Pradesh,Mandi,Shimla,Meat,Red Meat,Mutton,Mutton
+19,Himachal Pradesh,Shimla,Hamirpur,Meat,Red Meat,Mutton,Mutton
+19,Himachal Pradesh,Hamirpur,Manali,Meat,Red Meat,Mutton,Mutton
+19,Himachal Pradesh,Mandi,Mandi,Fish,Freshwater,Nemacheilus,Nemacheilus
+19,Himachal Pradesh,Hamirpur,Hamirpur,Fish,Freshwater,Nemacheilus,Nemacheilus
+19,Himachal Pradesh,Kangra,Dharamshala,Dairy products,Milk products,Paneer,Paneer
+19,Himachal Pradesh,Mandi,Mandi,Dairy products,Milk products,Paneer,Paneer
+19,Himachal Pradesh,Shimla,Shimla,Dairy products,Milk products,Paneer,Paneer
+19,Himachal Pradesh,Kullu,Manali,Dairy products,Milk products,Paneer,Paneer
+19,Himachal Pradesh,Mandi,Mandi,Fruits,Stone Fruits,Peach,Peach
+19,Himachal Pradesh,Kullu,Manali,Fruits,Stone Fruits,Peach,Peach
+19,Himachal Pradesh,Shimla,Shimla,Vegetables,Pods and Seeds,Peas,Green Peas
+19,Himachal Pradesh,Kullu,Manali,Vegetables,Pods and Seeds,Peas,Green Peas
+19,Himachal Pradesh,Kangra,Dharamshala,Fruits,Tropical,Pomegranate,Pomegranate
+19,Himachal Pradesh,Kullu,Manali,Fruits,Tropical,Pomegranate,Pomegranate
+19,Himachal Pradesh,Mandi,Mandi,Meat,Red Meat,Pork,Pork
+19,Himachal Pradesh,Mandi,Mandi,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+19,Himachal Pradesh,Hamirpur,Hamirpur,Flowers,Pink flowers,Rhododendron,Rhododendron
+19,Himachal Pradesh,Kullu,Manali,Flowers,Pink flowers,Rhododendron,Rhododendron
+19,Himachal Pradesh,Kangra,Dharamshala,Grocery,Household items,Rice,Desi Dhan Rice
+19,Himachal Pradesh,Mandi,Mandi,Grocery,Household items,Rice,Red Rice
+19,Himachal Pradesh,Shimla,Shimla,Grocery,Household items,Rice,Red Rice
+19,Himachal Pradesh,Kullu,Manali,Grocery,Household items,Rice,Desi Dhan Rice
+19,Himachal Pradesh,Kangra,Dharamshala,Grocery,Beverages,Tea,Tea
+19,Himachal Pradesh,Mandi,Mandi,Grocery,Beverages,Tea,Tea
+19,Himachal Pradesh,Hamirpur,Hamirpur,Grocery,Beverages,Tea,Tea
+19,Himachal Pradesh,Kullu,Manali,Grocery,Beverages,Tea,Tea
+19,Himachal Pradesh,Kangra,Dharamshala,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+19,Himachal Pradesh,Mandi,Mandi,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+19,Himachal Pradesh,Shimla,Shimla,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+19,Himachal Pradesh,Hamirpur,Hamirpur,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+19,Himachal Pradesh,Kangra,Dharamshala,Fish,Freshwater,Trout,Brown Trout
+19,Himachal Pradesh,Kullu,Manali,Fish,Freshwater,Trout,Snow Trout
+19,Himachal Pradesh,Kangra,Dharamshala,Grocery,Household items,Wheat,Wheat
+19,Himachal Pradesh,Mandi,Mandi,Grocery,Household items,Wheat,Wheat
+19,Himachal Pradesh,Hamirpur,Hamirpur,Grocery,Household items,Wheat,Wheat
+20,Uttarakhand,Dehradun,Dehradun,Fruits,Stone Fruits,Apricot,Wild Apricot
+20,Uttarakhand,Haridwar,Haridwar,Fruits,Seasonal,Berry,Strawberry
+20,Uttarakhand,Haridwar,Haridwar,Fruits,Seasonal,Berry,Raspberry
+20,Uttarakhand,Dehradun,Dehradun,Fruits,Seasonal,Berry,Kafal
+20,Uttarakhand,Dehradun,Dehradun,Fruits,Seasonal,Berry,Hisalu
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Fruits,Seasonal,Berry,Raspberry
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Fruits,Seasonal,Berry,Strawberry
+20,Uttarakhand,Nainital,Haldwani,Fruits,Seasonal,Berry,Raspberry
+20,Uttarakhand,Nainital,Haldwani,Fruits,Seasonal,Berry,Kafal
+20,Uttarakhand,Almora,Rishikesh,Fruits,Seasonal,Berry,Strawberry
+20,Uttarakhand,Haridwar,Haridwar,Bakery,Baked products,Bread,Bread
+20,Uttarakhand,Dehradun,Dehradun,Bakery,Baked products,Bread,Bread
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Bakery,Baked products,Bread,Bread
+20,Uttarakhand,Almora,Rishikesh,Bakery,Baked products,Bread,Bread
+20,Uttarakhand,Dehradun,Dehradun,Bakery,Baked products,Brownie,Brownie
+20,Uttarakhand,Haridwar,Haridwar,Dairy products,Milk products,Butter,Butter
+20,Uttarakhand,Almora,Rishikesh,Dairy products,Milk products,Butter,Butter
+20,Uttarakhand,Nainital,Haldwani,Bakery,Pastry products,Cakes,Cakes
+20,Uttarakhand,Dehradun,Dehradun,Fish,Freshwater,Carp,Common Carp
+20,Uttarakhand,Nainital,Haldwani,Fish,Freshwater,Carp,Silver Carp
+20,Uttarakhand,Almora,Rishikesh,Fish,Freshwater,Carp,Common Carp
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Fish,Freshwater,Catla,Catla
+20,Uttarakhand,Nainital,Haldwani,Fish,Freshwater,Catla,Catla
+20,Uttarakhand,Dehradun,Dehradun,Dairy products,Milk products,Cheese,Cheese
+20,Uttarakhand,Haridwar,Haridwar,Meat,White Meat,Chicken,Chicken
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Meat,White Meat,Chicken,Chicken
+20,Uttarakhand,Almora,Rishikesh,Meat,White Meat,Chicken,Chicken
+20,Uttarakhand,Dehradun,Dehradun,Vegetables,Nightshade vegetables,Chillies,Capsicum
+20,Uttarakhand,Nainital,Haldwani,Vegetables,Nightshade vegetables,Chillies,Capsicum
+20,Uttarakhand,Dehradun,Dehradun,Grocery,Beverages,Coffee,Coffee
+20,Uttarakhand,Haridwar,Haridwar,Bakery,Baked products,Cookies,Cookies
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Bakery,Baked products,Cookies,Cookies
+20,Uttarakhand,Nainital,Haldwani,Bakery,Baked products,Cookies,Cookies
+20,Uttarakhand,Dehradun,Dehradun,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+20,Uttarakhand,Dehradun,Dehradun,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+20,Uttarakhand,Almora,Rishikesh,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+20,Uttarakhand,Almora,Rishikesh,Bakery,Pastry products,Cup-cakes,Cup-cakes
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Dairy products,Milk products,Curd,Dahi
+20,Uttarakhand,Almora,Rishikesh,Dairy products,Milk products,Curd,Dahi
+20,Uttarakhand,Haridwar,Haridwar,Grocery,Household items,Dal,Arhar Dal
+20,Uttarakhand,Nainital,Haldwani,Grocery,Household items,Dal,Urad Dal
+20,Uttarakhand,Almora,Rishikesh,Grocery,Household items,Dal,Moong Dal
+20,Uttarakhand,Dehradun,Dehradun,Meat,White Meat,Duck,Duck
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+20,Uttarakhand,Nainital,Haldwani,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+20,Uttarakhand,Dehradun,Dehradun,Dairy products,Milk products,Ghee,Pure Ghee
+20,Uttarakhand,Almora,Rishikesh,Fruits,All season,Guava,Sardar Guava
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+20,Uttarakhand,Almora,Rishikesh,Dairy products,Milk products,Lassi,Lassi
+20,Uttarakhand,Haridwar,Haridwar,Flowers,Brown flowers,Lily,Himalayan Cobra Lily
+20,Uttarakhand,Almora,Rishikesh,Flowers,Brown flowers,Lily,Himalayan Cobra Lily
+20,Uttarakhand,Nainital,Haldwani,Fruits,Tropical,Litchi,Bombaiya Litchi
+20,Uttarakhand,Haridwar,Haridwar,Flowers,White flowers,Lotus,Brahma Kamal
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Flowers,White flowers,Lotus,Brahma Kamal
+20,Uttarakhand,Almora,Rishikesh,Flowers,White flowers,Lotus,Brahma Kamal
+20,Uttarakhand,Haridwar,Haridwar,Fish,Freshwater,Mahseer,Golden Mahseer
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Fish,Freshwater,Mahseer,Golden Mahseer
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Fruits,Seasonal,Mango,Alphonso Mango
+20,Uttarakhand,Nainital,Haldwani,Flowers,Yellow flowers,Marigold,African Marigold
+20,Uttarakhand,Haridwar,Haridwar,Dairy products,Milk products,Milk,Liquid milk
+20,Uttarakhand,Dehradun,Dehradun,Dairy products,Milk products,Milk,Liquid milk
+20,Uttarakhand,Nainital,Haldwani,Dairy products,Milk products,Milk,Liquid milk
+20,Uttarakhand,Haridwar,Haridwar,Meat,Red Meat,Mutton,Mutton
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Meat,Red Meat,Mutton,Mutton
+20,Uttarakhand,Nainital,Haldwani,Meat,Red Meat,Mutton,Mutton
+20,Uttarakhand,Almora,Rishikesh,Meat,Red Meat,Mutton,Mutton
+20,Uttarakhand,Nainital,Haldwani,Flowers,White flowers,Orchid,Cymbidium Orchid
+20,Uttarakhand,Haridwar,Haridwar,Dairy products,Milk products,Paneer,Paneer
+20,Uttarakhand,Nainital,Haldwani,Dairy products,Milk products,Paneer,Paneer
+20,Uttarakhand,Haridwar,Haridwar,Vegetables,Pods and Seeds,Peas,Green Peas
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Vegetables,Pods and Seeds,Peas,Green Peas
+20,Uttarakhand,Almora,Rishikesh,Vegetables,Pods and Seeds,Peas,Green Peas
+20,Uttarakhand,Haridwar,Haridwar,Fruits,Stone Fruits,Plums,Plums
+20,Uttarakhand,Almora,Rishikesh,Fruits,Stone Fruits,Plums,Plums
+20,Uttarakhand,Dehradun,Dehradun,Flowers,Orange flowers,Poppy,Poppy
+20,Uttarakhand,Dehradun,Dehradun,Meat,Red Meat,Pork,Pork
+20,Uttarakhand,Nainital,Haldwani,Meat,Red Meat,Pork,Pork
+20,Uttarakhand,Haridwar,Haridwar,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+20,Uttarakhand,Nainital,Haldwani,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+20,Uttarakhand,Dehradun,Dehradun,Flowers,Pink flowers,Rhododendron,Buransh Rhododendron
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Flowers,Pink flowers,Rhododendron,Buransh Rhododendron
+20,Uttarakhand,Haridwar,Haridwar,Grocery,Household items,Rice,Basmati Rice
+20,Uttarakhand,Dehradun,Dehradun,Grocery,Household items,Rice,Basmati Rice
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Grocery,Household items,Rice,Pant Sugandh Dhan Rice
+20,Uttarakhand,Nainital,Haldwani,Grocery,Household items,Rice,Pusa Rice
+20,Uttarakhand,Almora,Rishikesh,Grocery,Household items,Rice,Pusa Rice
+20,Uttarakhand,Dehradun,Dehradun,Fish,Freshwater,Rohu,Rohu
+20,Uttarakhand,Haridwar,Haridwar,Grocery,Beverages,Tea,Tea
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Grocery,Beverages,Tea,Tea
+20,Uttarakhand,Almora,Rishikesh,Grocery,Beverages,Tea,Tea
+20,Uttarakhand,Haridwar,Haridwar,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+20,Uttarakhand,Nainital,Haldwani,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+20,Uttarakhand,Almora,Rishikesh,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+20,Uttarakhand,Haridwar,Haridwar,Fish,Freshwater,Trout,Snow Trout
+20,Uttarakhand,Almora,Rishikesh,Fish,Freshwater,Trout,Brown Trout
+20,Uttarakhand,Dehradun,Dehradun,Grocery,Household items,Wheat,Wheat
+20,Uttarakhand,Udham Singh Nagar,Rudrapur,Grocery,Household items,Wheat,Wheat
+20,Uttarakhand,Nainital,Haldwani,Grocery,Household items,Wheat,Wheat
+21,Uttar Pradesh,Lucknow,Lucknow,Fruits,All season,Banana,Rasthali Banana
+21,Uttar Pradesh,Agra,Agra,Fruits,All season,Banana,Cavendish Banana
+21,Uttar Pradesh,Lucknow,Lucknow,Fruits,Seasonal,Berry,Strawberry
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Fruits,Seasonal,Berry,Jujube Berry
+21,Uttar Pradesh,Bareilly,Bareilly,Fruits,Seasonal,Berry,Gooseberry
+21,Uttar Pradesh,Agra,Agra,Fruits,Seasonal,Berry,Jujube Berry
+21,Uttar Pradesh,Allahabad,Pragyaraj,Bakery,Baked products,Bread,Bread
+21,Uttar Pradesh,Agra,Agra,Bakery,Baked products,Bread,Bread
+21,Uttar Pradesh,Lucknow,Lucknow,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+21,Uttar Pradesh,Allahabad,Pragyaraj,Bakery,Baked products,Brownie,Brownie
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Bakery,Baked products,Brownie,Brownie
+21,Uttar Pradesh,Bareilly,Bareilly,Bakery,Baked products,Brownie,Brownie
+21,Uttar Pradesh,Lucknow,Lucknow,Meat,Red Meat,Buffalo,Buffalo
+21,Uttar Pradesh,Lucknow,Lucknow,Dairy products,Milk products,Butter,Butter
+21,Uttar Pradesh,Bareilly,Bareilly,Dairy products,Milk products,Butter,Butter
+21,Uttar Pradesh,Lucknow,Lucknow,Bakery,Pastry products,Cakes,Cakes
+21,Uttar Pradesh,Meerut,Meerut,Bakery,Pastry products,Cakes,Cakes
+21,Uttar Pradesh,Bareilly,Bareilly,Fish,Freshwater,Catla,Catla
+21,Uttar Pradesh,Allahabad,Pragyaraj,Meat,White Meat,Chicken,Chicken
+21,Uttar Pradesh,Lucknow,Lucknow,Meat,White Meat,Chicken,Chicken
+21,Uttar Pradesh,Bareilly,Bareilly,Meat,White Meat,Chicken,Chicken
+21,Uttar Pradesh,Agra,Agra,Meat,White Meat,Chicken,Chicken
+21,Uttar Pradesh,Meerut,Meerut,Meat,White Meat,Chicken,Chicken
+21,Uttar Pradesh,Allahabad,Pragyaraj,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+21,Uttar Pradesh,Meerut,Meerut,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+21,Uttar Pradesh,Allahabad,Pragyaraj,Fish,Freshwater,Chital,Chital
+21,Uttar Pradesh,Bareilly,Bareilly,Fish,Freshwater,Chital,Chital
+21,Uttar Pradesh,Meerut,Meerut,Fish,Freshwater,Chital,Chital
+21,Uttar Pradesh,Lucknow,Lucknow,Grocery,Beverages,Coffee,Coffee
+21,Uttar Pradesh,Agra,Agra,Grocery,Beverages,Coffee,Coffee
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Bakery,Baked products,Cookies,Cookies
+21,Uttar Pradesh,Agra,Agra,Bakery,Baked products,Cookies,Cookies
+21,Uttar Pradesh,Meerut,Meerut,Bakery,Baked products,Cookies,Cookies
+21,Uttar Pradesh,Bareilly,Bareilly,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+21,Uttar Pradesh,Bareilly,Bareilly,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+21,Uttar Pradesh,Lucknow,Lucknow,Bakery,Pastry products,Cup-cakes,Cup-cakes
+21,Uttar Pradesh,Bareilly,Bareilly,Bakery,Pastry products,Cup-cakes,Cup-cakes
+21,Uttar Pradesh,Allahabad,Pragyaraj,Dairy products,Milk products,Curd,Dahi
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Dairy products,Milk products,Curd,Dahi
+21,Uttar Pradesh,Agra,Agra,Dairy products,Milk products,Curd,Dahi
+21,Uttar Pradesh,Lucknow,Lucknow,Flowers,Red flowers,Daisy,Gerbera Daisy
+21,Uttar Pradesh,Lucknow,Lucknow,Grocery,Household items,Dal,Chana Dal
+21,Uttar Pradesh,Bareilly,Bareilly,Grocery,Household items,Dal,Masoor Dal
+21,Uttar Pradesh,Agra,Agra,Grocery,Household items,Dal,Moong Dal
+21,Uttar Pradesh,Meerut,Meerut,Grocery,Household items,Dal,Chana Dal
+21,Uttar Pradesh,Lucknow,Lucknow,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+21,Uttar Pradesh,Meerut,Meerut,Dairy products,Milk products,Ghee,Pure Ghee
+21,Uttar Pradesh,Meerut,Meerut,Dairy products,Milk products,Ghee,Pure Ghee
+21,Uttar Pradesh,Bareilly,Bareilly,Vegetables,Greens,Green leafy,Spinach
+21,Uttar Pradesh,Meerut,Meerut,Vegetables,Greens,Green leafy,Spinach
+21,Uttar Pradesh,Allahabad,Pragyaraj,Fruits,All season,Guava,Allahabad Safeda Guava
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Fruits,All season,Guava,Allahabad Safeda Guava
+21,Uttar Pradesh,Meerut,Meerut,Fruits,All season,Guava,Sardar Guava
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Fish,Freshwater,Hilsa,Ilish
+21,Uttar Pradesh,Bareilly,Bareilly,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+21,Uttar Pradesh,Lucknow,Lucknow,Fruits,Seasonal,Jackfruit,Lemon Gold Jackfruit
+21,Uttar Pradesh,Agra,Agra,Fruits,Seasonal,Jackfruit,Lemon Gold Jackfruit
+21,Uttar Pradesh,Bareilly,Bareilly,Flowers,White flowers,Jasmine,Crepe Jasmine
+21,Uttar Pradesh,Agra,Agra,Flowers,White flowers,Jasmine,Crepe Jasmine
+21,Uttar Pradesh,Bareilly,Bareilly,Dairy products,Milk products,Lassi,Lassi
+21,Uttar Pradesh,Meerut,Meerut,Dairy products,Milk products,Lassi,Lassi
+21,Uttar Pradesh,Allahabad,Pragyaraj,Flowers,Pink flowers,Lotus,Indian Lotus
+21,Uttar Pradesh,Lucknow,Lucknow,Fish,Seawater,Mackerel,King Mackerel
+21,Uttar Pradesh,Agra,Agra,Fish,Seawater,Mackerel,King Mackerel
+21,Uttar Pradesh,Allahabad,Pragyaraj,Fruits,Seasonal,Mango,Gulab Khas Mango
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Fruits,Seasonal,Mango,Gulab Khas Mango
+21,Uttar Pradesh,Meerut,Meerut,Fruits,Seasonal,Mango,Gulab Khas Mango
+21,Uttar Pradesh,Lucknow,Lucknow,Flowers,Orange flowers,Marigold,French Marigold
+21,Uttar Pradesh,Allahabad,Pragyaraj,Dairy products,Milk products,Milk,Liquid milk
+21,Uttar Pradesh,Lucknow,Lucknow,Dairy products,Milk products,Milk,Liquid milk
+21,Uttar Pradesh,Agra,Agra,Dairy products,Milk products,Milk,Liquid milk
+21,Uttar Pradesh,Allahabad,Pragyaraj,Meat,Red Meat,Mutton,Mutton
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Meat,Red Meat,Mutton,Mutton
+21,Uttar Pradesh,Bareilly,Bareilly,Meat,Red Meat,Mutton,Mutton
+21,Uttar Pradesh,Meerut,Meerut,Meat,Red Meat,Mutton,Mutton
+21,Uttar Pradesh,Lucknow,Lucknow,Vegetables,Pods and Seeds,Okra,Lady finger
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Vegetables,Pods and Seeds,Okra,Lady finger
+21,Uttar Pradesh,Agra,Agra,Vegetables,Pods and Seeds,Okra,Lady finger
+21,Uttar Pradesh,Bareilly,Bareilly,Fruits,Citrus Fruits,Orange,Mandarin Orange
+21,Uttar Pradesh,Bareilly,Bareilly,Fruits,Citrus Fruits,Orange,Mandarin Orange
+21,Uttar Pradesh,Allahabad,Pragyaraj,Flowers,Orange flowers,Palash,Palash
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Flowers,Orange flowers,Palash,Palash
+21,Uttar Pradesh,Meerut,Meerut,Flowers,Orange flowers,Palash,Palash
+21,Uttar Pradesh,Allahabad,Pragyaraj,Dairy products,Milk products,Paneer,Paneer
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Dairy products,Milk products,Paneer,Paneer
+21,Uttar Pradesh,Agra,Agra,Dairy products,Milk products,Paneer,Paneer
+21,Uttar Pradesh,Allahabad,Pragyaraj,Fruits,Tropical,Papaya,Honeydew Papaya
+21,Uttar Pradesh,Meerut,Meerut,Fruits,Tropical,Papaya,Honeydew Papaya
+21,Uttar Pradesh,Allahabad,Pragyaraj,Vegetables,Pods and Seeds,Peas,Green Peas
+21,Uttar Pradesh,Meerut,Meerut,Vegetables,Pods and Seeds,Peas,Green Peas
+21,Uttar Pradesh,Lucknow,Lucknow,Fish,Freshwater,Perch,Pink Perch
+21,Uttar Pradesh,Agra,Agra,Fish,Freshwater,Perch,Pink Perch
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Meat,Red Meat,Pork,Pork
+21,Uttar Pradesh,Agra,Agra,Meat,Red Meat,Pork,Pork
+21,Uttar Pradesh,Allahabad,Pragyaraj,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+21,Uttar Pradesh,Agra,Agra,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Flowers,Pink flowers,Rhododendron,Rhododendron
+21,Uttar Pradesh,Agra,Agra,Flowers,Purple flowers,Rhododendron,Rhododendron
+21,Uttar Pradesh,Allahabad,Pragyaraj,Grocery,Household items,Rice,Basmati Rice
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Grocery,Household items,Rice,Basmati Rice
+21,Uttar Pradesh,Bareilly,Bareilly,Grocery,Household items,Rice,Kasturi Rice
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Fish,Freshwater,Rohu,Rohu
+21,Uttar Pradesh,Allahabad,Pragyaraj,Fish,Seawater,Salmon,Indian Salmon
+21,Uttar Pradesh,Meerut,Meerut,Fish,Seawater,Salmon,Indian Salmon
+21,Uttar Pradesh,Meerut,Meerut,Flowers,Yellow flowers,Sunflower,Sunflower
+21,Uttar Pradesh,Allahabad,Pragyaraj,Grocery,Beverages,Tea,Tea
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Grocery,Beverages,Tea,Tea
+21,Uttar Pradesh,Bareilly,Bareilly,Grocery,Beverages,Tea,Tea
+21,Uttar Pradesh,Meerut,Meerut,Grocery,Beverages,Tea,Tea
+21,Uttar Pradesh,Lucknow,Lucknow,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+21,Uttar Pradesh,Agra,Agra,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+21,Uttar Pradesh,Bareilly,Bareilly,Flowers,White flowers,Water Lily,White water Lily
+21,Uttar Pradesh,Allahabad,Pragyaraj,Grocery,Household items,Wheat,Wheat
+21,Uttar Pradesh,Lucknow,Lucknow,Grocery,Household items,Wheat,Wheat
+21,Uttar Pradesh,Kanpur Nagar,Kanpur,Grocery,Household items,Wheat,Wheat
+21,Uttar Pradesh,Agra,Agra,Grocery,Household items,Wheat,Wheat
+21,Uttar Pradesh,Meerut,Meerut,Grocery,Household items,Wheat,Wheat
+22,West Bengal,South Twenty Four Parganas,Durgapur,Fruits,All season,Banana,Cavendish Banana
+22,West Bengal,Kolkata,Kolkata,Fruits,All season,Banana,Cavendish Banana
+22,West Bengal,Jalpaiguri,Siliguri,Fruits,All season,Banana,Cheeni Champa Banana
+22,West Bengal,South Twenty Four Parganas,Durgapur,Meat,Red Meat,Beef,Beef
+22,West Bengal,Kolkata,Kolkata,Meat,Red Meat,Beef,Beef
+22,West Bengal,Kolkata,Kolkata,Fruits,Seasonal,Berry,Strawberry
+22,West Bengal,South Twenty Four Parganas,Durgapur,Bakery,Baked products,Bread,Bread
+22,West Bengal,Darjeeling,Darjeeling,Bakery,Baked products,Bread,Bread
+22,West Bengal,South Twenty Four Parganas,Durgapur,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+22,West Bengal,Jalpaiguri,Siliguri,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+22,West Bengal,Jalpaiguri,Siliguri,Bakery,Baked products,Brownie,Brownie
+22,West Bengal,Darjeeling,Darjeeling,Meat,Red Meat,Buffalo,Buffalo
+22,West Bengal,Darjeeling,Darjeeling,Dairy products,Milk products,Butter,Butter
+22,West Bengal,Kolkata,Kolkata,Dairy products,Milk products,Butter,Butter
+22,West Bengal,Darjeeling,Darjeeling,Bakery,Pastry products,Cakes,Cakes
+22,West Bengal,Kolkata,Kolkata,Bakery,Pastry products,Cakes,Cakes
+22,West Bengal,Darjeeling,Darjeeling,Fish,Freshwater,Catla,Catla
+22,West Bengal,Kolkata,Kolkata,Fish,Freshwater,Catla,Catla
+22,West Bengal,Kolkata,Kolkata,Dairy products,Milk products,Cheese,Cheese
+22,West Bengal,South Twenty Four Parganas,Durgapur,Meat,White Meat,Chicken,Chicken
+22,West Bengal,Paschim Medinipur,Kharagpur,Meat,White Meat,Chicken,Chicken
+22,West Bengal,Kolkata,Kolkata,Meat,White Meat,Chicken,Chicken
+22,West Bengal,Jalpaiguri,Siliguri,Meat,White Meat,Chicken,Chicken
+22,West Bengal,South Twenty Four Parganas,Durgapur,Fish,Freshwater,Chital,Chital
+22,West Bengal,Paschim Medinipur,Kharagpur,Fish,Freshwater,Chital,Chital
+22,West Bengal,Jalpaiguri,Siliguri,Fish,Freshwater,Chital,Chital
+22,West Bengal,Paschim Medinipur,Kharagpur,Grocery,Beverages,Coffee,Coffee
+22,West Bengal,South Twenty Four Parganas,Durgapur,Bakery,Baked products,Cookies,Cookies
+22,West Bengal,Paschim Medinipur,Kharagpur,Bakery,Baked products,Cookies,Cookies
+22,West Bengal,Kolkata,Kolkata,Bakery,Baked products,Cookies,Cookies
+22,West Bengal,South Twenty Four Parganas,Durgapur,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+22,West Bengal,Paschim Medinipur,Kharagpur,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+22,West Bengal,Jalpaiguri,Siliguri,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+22,West Bengal,Darjeeling,Darjeeling,Vegetables,Melons and Squash,Cucumber,Chandrasankar Cucumber
+22,West Bengal,Kolkata,Kolkata,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+22,West Bengal,Paschim Medinipur,Kharagpur,Bakery,Pastry products,Cup-cakes,Cup-cakes
+22,West Bengal,Jalpaiguri,Siliguri,Bakery,Pastry products,Cup-cakes,Cup-cakes
+22,West Bengal,South Twenty Four Parganas,Durgapur,Dairy products,Milk products,Curd,Dahi
+22,West Bengal,South Twenty Four Parganas,Durgapur,Grocery,Household items,Dal,Masoor Dal
+22,West Bengal,Darjeeling,Darjeeling,Grocery,Household items,Dal,Moong Dal
+22,West Bengal,Paschim Medinipur,Kharagpur,Grocery,Household items,Dal,Arhar Dal
+22,West Bengal,Jalpaiguri,Siliguri,Grocery,Household items,Dal,Masoor Dal
+22,West Bengal,Paschim Medinipur,Kharagpur,Meat,White Meat,Duck,Duck
+22,West Bengal,Darjeeling,Darjeeling,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+22,West Bengal,Darjeeling,Darjeeling,Dairy products,Milk products,Ghee,Pure Ghee
+22,West Bengal,Paschim Medinipur,Kharagpur,Dairy products,Milk products,Ghee,Pure Ghee
+22,West Bengal,Jalpaiguri,Siliguri,Dairy products,Milk products,Ghee,Pure Ghee
+22,West Bengal,Paschim Medinipur,Kharagpur,Vegetables,Melons and Squash,Gourd,Bitter Gourd
+22,West Bengal,Jalpaiguri,Siliguri,Vegetables,Melons and Squash,Gourd,Snake Gourd
+22,West Bengal,Darjeeling,Darjeeling,Fruits,All season,Guava,Allahabad Safeda Guava
+22,West Bengal,Jalpaiguri,Siliguri,Fruits,All season,Guava,Sardar Guava
+22,West Bengal,South Twenty Four Parganas,Durgapur,Fish,Freshwater,Hilsa,Ilish
+22,West Bengal,Paschim Medinipur,Kharagpur,Fish,Freshwater,Hilsa,Ilish
+22,West Bengal,Paschim Medinipur,Kharagpur,Fish,Freshwater,Hilsa,Ilish
+22,West Bengal,Jalpaiguri,Siliguri,Fish,Freshwater,Hilsa,Ilish
+22,West Bengal,Paschim Medinipur,Kharagpur,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+22,West Bengal,Kolkata,Kolkata,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+22,West Bengal,South Twenty Four Parganas,Durgapur,Flowers,White flowers,Jasmine,Night-blooming Jasmine
+22,West Bengal,Paschim Medinipur,Kharagpur,Flowers,White flowers,Jasmine,Night-blooming Jasmine
+22,West Bengal,Jalpaiguri,Siliguri,Flowers,White flowers,Jasmine,Mogra
+22,West Bengal,Jalpaiguri,Siliguri,Flowers,White flowers,Jasmine,Night-blooming Jasmine
+22,West Bengal,Darjeeling,Darjeeling,Fruits,Tropical,Litchi,China Litchi
+22,West Bengal,South Twenty Four Parganas,Durgapur,Fruits,Seasonal,Mango,Himsagar Mango
+22,West Bengal,Paschim Medinipur,Kharagpur,Fruits,Seasonal,Mango,Kishan Bhog Mango
+22,West Bengal,Kolkata,Kolkata,Fruits,Seasonal,Mango,Himsagar Mango
+22,West Bengal,Jalpaiguri,Siliguri,Fruits,Seasonal,Mango,Alphonso Mango
+22,West Bengal,Kolkata,Kolkata,Flowers,Yellow flowers,Marigold,African Marigold
+22,West Bengal,South Twenty Four Parganas,Durgapur,Dairy products,Milk products,Milk,Liquid milk
+22,West Bengal,Paschim Medinipur,Kharagpur,Dairy products,Milk products,Milk,Liquid milk
+22,West Bengal,Jalpaiguri,Siliguri,Dairy products,Milk products,Milk,Liquid milk
+22,West Bengal,South Twenty Four Parganas,Durgapur,Meat,Red Meat,Mutton,Mutton
+22,West Bengal,Darjeeling,Darjeeling,Meat,Red Meat,Mutton,Mutton
+22,West Bengal,Kolkata,Kolkata,Meat,Red Meat,Mutton,Mutton
+22,West Bengal,Darjeeling,Darjeeling,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+22,West Bengal,Darjeeling,Darjeeling,Fruits,Citrus Fruits,Orange,Darjeeling Orange
+22,West Bengal,Paschim Medinipur,Kharagpur,Fruits,Citrus Fruits,Orange,Nagpur Orange
+22,West Bengal,South Twenty Four Parganas,Durgapur,Dairy products,Milk products,Paneer,Paneer
+22,West Bengal,Jalpaiguri,Siliguri,Dairy products,Milk products,Paneer,Paneer
+22,West Bengal,Paschim Medinipur,Kharagpur,Fruits,Tropical,Papaya,Honeydew Papaya
+22,West Bengal,Darjeeling,Darjeeling,Flowers,Purple flowers,Passion Flower,Krishnakamal
+22,West Bengal,South Twenty Four Parganas,Durgapur,Fruits,Tropical,Pineapple,Giant Kew Pineapple
+22,West Bengal,Kolkata,Kolkata,Fruits,Tropical,Pineapple,Queen Pineapple
+22,West Bengal,South Twenty Four Parganas,Durgapur,Flowers,White flowers,Plumeria,Champa
+22,West Bengal,Kolkata,Kolkata,Flowers,White flowers,Plumeria,Champa
+22,West Bengal,South Twenty Four Parganas,Durgapur,Fish,Seawater,Pomfret,Pomfret
+22,West Bengal,Darjeeling,Darjeeling,Meat,Red Meat,Pork,Pork
+22,West Bengal,Paschim Medinipur,Kharagpur,Meat,Red Meat,Pork,Pork
+22,West Bengal,Jalpaiguri,Siliguri,Meat,Red Meat,Pork,Pork
+22,West Bengal,Jalpaiguri,Siliguri,Meat,Red Meat,Pork,Pork
+22,West Bengal,Darjeeling,Darjeeling,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+22,West Bengal,Darjeeling,Darjeeling,Fish,Seawater,Prawns,Prawns
+22,West Bengal,Paschim Medinipur,Kharagpur,Vegetables,Roots and Tubers,Radish,Rapid Red White Tipped Radish
+22,West Bengal,Kolkata,Kolkata,Vegetables,Roots and Tubers,Radish,Scarlet Globe Radish
+22,West Bengal,South Twenty Four Parganas,Durgapur,Grocery,Household items,Rice,Jasmine Rice
+22,West Bengal,Darjeeling,Darjeeling,Grocery,Household items,Rice,Basmati Rice
+22,West Bengal,Paschim Medinipur,Kharagpur,Grocery,Household items,Rice,Pusa Rice
+22,West Bengal,Kolkata,Kolkata,Grocery,Household items,Rice,Jasmine Rice
+22,West Bengal,Jalpaiguri,Siliguri,Grocery,Household items,Rice,Basmati Rice
+22,West Bengal,Darjeeling,Darjeeling,Fish,Freshwater,Rohu,Rohu
+22,West Bengal,Kolkata,Kolkata,Fish,Freshwater,Rohu,Rohu
+22,West Bengal,Darjeeling,Darjeeling,Flowers,Red flowers,Rose,Red Rose
+22,West Bengal,Paschim Medinipur,Kharagpur,Flowers,Yellow flowers,Sunflower,Sunflower
+22,West Bengal,Darjeeling,Darjeeling,Grocery,Beverages,Tea,Tea
+22,West Bengal,Kolkata,Kolkata,Grocery,Beverages,Tea,Tea
+22,West Bengal,Jalpaiguri,Siliguri,Grocery,Beverages,Tea,Tea
+22,West Bengal,Kolkata,Kolkata,Fish,Freshwater,Tilapia,Tilapia
+22,West Bengal,Jalpaiguri,Siliguri,Fish,Freshwater,Tilapia,Tilapia
+22,West Bengal,South Twenty Four Parganas,Durgapur,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+22,West Bengal,Kolkata,Kolkata,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+22,West Bengal,South Twenty Four Parganas,Durgapur,Grocery,Household items,Wheat,Wheat
+22,West Bengal,Kolkata,Kolkata,Grocery,Household items,Wheat,Wheat
+23,Jharkhand,Dhanbad,Dhanbad,Fruits,All season,Banana,Malbhog Banana
+23,Jharkhand,Deoghar,Deoghar,Fruits,All season,Banana,Cheeni Champa Banana
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Vegetables,Pods and Seeds,Beans,French Beans
+23,Jharkhand,Dhanbad,Dhanbad,Meat,Red Meat,Beef,Beef
+23,Jharkhand,Deoghar,Deoghar,Meat,Red Meat,Beef,Beef
+23,Jharkhand,Ranchi,Ranchi,Bakery,Baked products,Bread,Bread
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Bakery,Baked products,Bread,Bread
+23,Jharkhand,Dhanbad,Dhanbad,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+23,Jharkhand,Bokaro,Bokaro Steel City,Vegetables,Fruit-vegetables,Brinjal,Pusa Anmol Brinjal
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Bakery,Baked products,Brownie,Brownie
+23,Jharkhand,Dhanbad,Dhanbad,Meat,Red Meat,Buffalo,Buffalo
+23,Jharkhand,Bokaro,Bokaro Steel City,Dairy products,Milk products,Butter,Butter
+23,Jharkhand,Dhanbad,Dhanbad,Bakery,Pastry products,Cakes,Cakes
+23,Jharkhand,Bokaro,Bokaro Steel City,Bakery,Pastry products,Cakes,Cakes
+23,Jharkhand,Dhanbad,Dhanbad,Flowers,Pink flowers,Carnation,Carnation
+23,Jharkhand,Bokaro,Bokaro Steel City,Flowers,Pink flowers,Carnation,Carnation
+23,Jharkhand,Dhanbad,Dhanbad,Fish,Freshwater,Carp,Mrigal Carp
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Fish,Freshwater,Carp,Silver Carp
+23,Jharkhand,Deoghar,Deoghar,Fish,Freshwater,Carp,Mrigal Carp
+23,Jharkhand,Dhanbad,Dhanbad,Fish,Seawater,Catfish,Catfish
+23,Jharkhand,Ranchi,Ranchi,Fish,Freshwater,Catla,Catla
+23,Jharkhand,Bokaro,Bokaro Steel City,Fish,Freshwater,Catla,Catla
+23,Jharkhand,Ranchi,Ranchi,Dairy products,Milk products,Cheese,Cheese
+23,Jharkhand,Ranchi,Ranchi,Meat,White Meat,Chicken,Chicken
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Meat,White Meat,Chicken,Chicken
+23,Jharkhand,Bokaro,Bokaro Steel City,Meat,White Meat,Chicken,Chicken
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Grocery,Beverages,Coffee,Coffee
+23,Jharkhand,Deoghar,Deoghar,Grocery,Beverages,Coffee,Coffee
+23,Jharkhand,Ranchi,Ranchi,Bakery,Baked products,Cookies,Cookies
+23,Jharkhand,Bokaro,Bokaro Steel City,Bakery,Baked products,Cookies,Cookies
+23,Jharkhand,Deoghar,Deoghar,Bakery,Baked products,Cookies,Cookies
+23,Jharkhand,Dhanbad,Dhanbad,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+23,Jharkhand,Bokaro,Bokaro Steel City,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+23,Jharkhand,Dhanbad,Dhanbad,Bakery,Pastry products,Cup-cakes,Cup-cakes
+23,Jharkhand,Deoghar,Deoghar,Bakery,Pastry products,Cup-cakes,Cup-cakes
+23,Jharkhand,Dhanbad,Dhanbad,Dairy products,Milk products,Curd,Dahi
+23,Jharkhand,Ranchi,Ranchi,Grocery,Household items,Dal,Arhar Dal
+23,Jharkhand,Dhanbad,Dhanbad,Grocery,Household items,Dal,Urad Dal
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Grocery,Household items,Dal,Chana Dal
+23,Jharkhand,Dhanbad,Dhanbad,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+23,Jharkhand,Bokaro,Bokaro Steel City,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Dairy products,Milk products,Ghee,Pure Ghee
+23,Jharkhand,Deoghar,Deoghar,Dairy products,Milk products,Ghee,Pure Ghee
+23,Jharkhand,Ranchi,Ranchi,Fruits,All season,Guava,Allahabad Safeda Guava
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Fruits,All season,Guava,Sardar Guava
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Fruits,Seasonal,Jackfruit,Honey Gold Jackfruit
+23,Jharkhand,Deoghar,Deoghar,Fruits,Seasonal,Jackfruit,Lemon Gold Jackfruit
+23,Jharkhand,Bokaro,Bokaro Steel City,Flowers,White flowers,Jasmine,Mogra
+23,Jharkhand,Dhanbad,Dhanbad,Dairy products,Milk products,Lassi,Lassi
+23,Jharkhand,Dhanbad,Dhanbad,Fruits,Citrus Fruits,Lemon,Kagzi Lemon
+23,Jharkhand,Bokaro,Bokaro Steel City,Fruits,Citrus Fruits,Lemon,Italian Lemon
+23,Jharkhand,Ranchi,Ranchi,Fruits,Tropical,Litchi,Bombaiya Litchi
+23,Jharkhand,Bokaro,Bokaro Steel City,Fruits,Tropical,Litchi,Shahi Litchi
+23,Jharkhand,Ranchi,Ranchi,Fruits,Seasonal,Mango,Himsagar Mango
+23,Jharkhand,Bokaro,Bokaro Steel City,Fruits,Seasonal,Mango,Dashari Mango
+23,Jharkhand,Deoghar,Deoghar,Fruits,Seasonal,Mango,Langra Mango
+23,Jharkhand,Ranchi,Ranchi,Dairy products,Milk products,Milk,Liquid milk
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Dairy products,Milk products,Milk,Liquid milk
+23,Jharkhand,Deoghar,Deoghar,Dairy products,Milk products,Milk,Liquid milk
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Fish,Freshwater,Murrel,Snakehead Murrel
+23,Jharkhand,Ranchi,Ranchi,Meat,Red Meat,Mutton,Mutton
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Meat,Red Meat,Mutton,Mutton
+23,Jharkhand,Bokaro,Bokaro Steel City,Meat,Red Meat,Mutton,Mutton
+23,Jharkhand,Deoghar,Deoghar,Meat,Red Meat,Mutton,Mutton
+23,Jharkhand,Ranchi,Ranchi,Vegetables,Pods and Seeds,Okra,Lady finger
+23,Jharkhand,Deoghar,Deoghar,Vegetables,Pods and Seeds,Okra,Lady finger
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Fruits,Citrus Fruits,Orange,Mandarin Orange
+23,Jharkhand,Ranchi,Ranchi,Flowers,Orange flowers,Palash,Palash
+23,Jharkhand,Deoghar,Deoghar,Flowers,Orange flowers,Palash,Palash
+23,Jharkhand,Ranchi,Ranchi,Dairy products,Milk products,Paneer,Paneer
+23,Jharkhand,Bokaro,Bokaro Steel City,Dairy products,Milk products,Paneer,Paneer
+23,Jharkhand,Deoghar,Deoghar,Dairy products,Milk products,Paneer,Paneer
+23,Jharkhand,Dhanbad,Dhanbad,Fruits,Tropical,Papaya,Honeydew Papaya
+23,Jharkhand,Dhanbad,Dhanbad,Vegetables,Pods and Seeds,Peas,Green Peas
+23,Jharkhand,Deoghar,Deoghar,Vegetables,Pods and Seeds,Peas,Green Peas
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Flowers,Orange flowers,Poppy,Poppy
+23,Jharkhand,Ranchi,Ranchi,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Vegetables,Roots and Tubers,Potato,Kufri Sinduri Potato
+23,Jharkhand,Deoghar,Deoghar,Vegetables,Roots and Tubers,Potato,Kufri Jyoti Potato
+23,Jharkhand,Deoghar,Deoghar,Fish,Seawater,Prawns,Prawns
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Flowers,Pink flowers,Rhododendron,Buransh Rhododendron
+23,Jharkhand,Ranchi,Ranchi,Grocery,Household items,Rice,Joha Rice
+23,Jharkhand,Bokaro,Bokaro Steel City,Grocery,Household items,Rice,Basmati Rice
+23,Jharkhand,Ranchi,Ranchi,Fish,Freshwater,Rohu,Rohu
+23,Jharkhand,Bokaro,Bokaro Steel City,Fish,Freshwater,Rohu,Rohu
+23,Jharkhand,Dhanbad,Dhanbad,Flowers,Red flowers,Rose,Red Rose
+23,Jharkhand,Deoghar,Deoghar,Flowers,Red flowers,Rose,Red Rose
+23,Jharkhand,Ranchi,Ranchi,Flowers,Yellow flowers,Sunflower,Sunflower
+23,Jharkhand,Dhanbad,Dhanbad,Grocery,Beverages,Tea,Tea
+23,Jharkhand,Bokaro,Bokaro Steel City,Grocery,Beverages,Tea,Tea
+23,Jharkhand,Deoghar,Deoghar,Grocery,Beverages,Tea,Tea
+23,Jharkhand,Ranchi,Ranchi,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+23,Jharkhand,Bokaro,Bokaro Steel City,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+23,Jharkhand,Ranchi,Ranchi,Grocery,Household items,Wheat,Wheat
+23,Jharkhand,Dhanbad,Dhanbad,Grocery,Household items,Wheat,Wheat
+23,Jharkhand,Purbi Singhbhum,Jamshedpur,Grocery,Household items,Wheat,Wheat
+23,Jharkhand,Bokaro,Bokaro Steel City,Grocery,Household items,Wheat,Wheat
+23,Jharkhand,Deoghar,Deoghar,Grocery,Household items,Wheat,Wheat
+24,Orissa,Cuttack,Cuttack,Flowers,Orange flowers,Ashoka Flower,Ashoka Flower
+24,Orissa,Bhadrak,Bhadrak,Flowers,Orange flowers,Ashoka Flower,Ashoka Flower
+24,Orissa,Sambalpur,Bhubaneswar ,Flowers,Orange flowers,Ashoka Flower,Ashoka Flower
+24,Orissa,Cuttack,Cuttack,Fruits,All season,Banana,Cheeni Champa Banana
+24,Orissa,Sundargarh,Rourkela,Fruits,All season,Banana,Dakhina Sagar Banana
+24,Orissa,Sambalpur,Bhubaneswar ,Fruits,All season,Banana,Dakhina Sagar Banana
+24,Orissa,Cuttack,Cuttack,Bakery,Baked products,Bread,Bread
+24,Orissa,Puri,Puri,Bakery,Baked products,Bread,Bread
+24,Orissa,Cuttack,Cuttack,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+24,Orissa,Sundargarh,Rourkela,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+24,Orissa,Puri,Puri,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+24,Orissa,Sambalpur,Bhubaneswar ,Vegetables,Fruit-vegetables,Brinjal,Pusa Purple Brinjal
+24,Orissa,Puri,Puri,Bakery,Baked products,Brownie,Brownie
+24,Orissa,Sambalpur,Bhubaneswar ,Bakery,Baked products,Brownie,Brownie
+24,Orissa,Puri,Puri,Dairy products,Milk products,Butter,Butter
+24,Orissa,Bhadrak,Bhadrak,Dairy products,Milk products,Butter,Butter
+24,Orissa,Sundargarh,Rourkela,Bakery,Pastry products,Cakes,Cakes
+24,Orissa,Sundargarh,Rourkela,Fish,Freshwater,Catla,Catla
+24,Orissa,Bhadrak,Bhadrak,Dairy products,Milk products,Cheese,Cheese
+24,Orissa,Sambalpur,Bhubaneswar ,Dairy products,Milk products,Cheese,Cheese
+24,Orissa,Cuttack,Cuttack,Meat,White Meat,Chicken,Chicken
+24,Orissa,Puri,Puri,Meat,White Meat,Chicken,Chicken
+24,Orissa,Bhadrak,Bhadrak,Meat,White Meat,Chicken,Chicken
+24,Orissa,Sambalpur,Bhubaneswar ,Meat,White Meat,Chicken,Chicken
+24,Orissa,Sundargarh,Rourkela,Grocery,Beverages,Coffee,Coffee
+24,Orissa,Bhadrak,Bhadrak,Grocery,Beverages,Coffee,Coffee
+24,Orissa,Cuttack,Cuttack,Bakery,Baked products,Cookies,Cookies
+24,Orissa,Bhadrak,Bhadrak,Bakery,Baked products,Cookies,Cookies
+24,Orissa,Sambalpur,Bhubaneswar ,Bakery,Baked products,Cookies,Cookies
+24,Orissa,Cuttack,Cuttack,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+24,Orissa,Puri,Puri,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+24,Orissa,Bhadrak,Bhadrak,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+24,Orissa,Sundargarh,Rourkela,Bakery,Pastry products,Cup-cakes,Cup-cakes
+24,Orissa,Bhadrak,Bhadrak,Bakery,Pastry products,Cup-cakes,Cup-cakes
+24,Orissa,Sundargarh,Rourkela,Dairy products,Milk products,Curd,Dahi
+24,Orissa,Cuttack,Cuttack,Grocery,Household items,Dal,Moong Dal
+24,Orissa,Puri,Puri,Grocery,Household items,Dal,Masoor Dal
+24,Orissa,Bhadrak,Bhadrak,Grocery,Household items,Dal,Urad Dal
+24,Orissa,Sundargarh,Rourkela,Meat,White Meat,Duck,Duck
+24,Orissa,Sambalpur,Bhubaneswar ,Meat,White Meat,Duck,Duck
+24,Orissa,Puri,Puri,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+24,Orissa,Sambalpur,Bhubaneswar ,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+24,Orissa,Cuttack,Cuttack,Dairy products,Milk products,Ghee,Pure Ghee
+24,Orissa,Cuttack,Cuttack,Fish,Freshwater,Hilsa,Ilish
+24,Orissa,Bhadrak,Bhadrak,Fish,Freshwater,Hilsa,Ilish
+24,Orissa,Sundargarh,Rourkela,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+24,Orissa,Cuttack,Cuttack,Fruits,Seasonal,Jackfruit,Lemon Gold Jackfruit
+24,Orissa,Bhadrak,Bhadrak,Fruits,Seasonal,Jackfruit,Black Gold Jackfruit
+24,Orissa,Puri,Puri,Flowers,White flowers,Jasmine,Coral Jasmine
+24,Orissa,Sundargarh,Rourkela,Dairy products,Milk products,Lassi,Lassi
+24,Orissa,Sundargarh,Rourkela,Fruits,Tropical,Litchi,Bombaiya Litchi
+24,Orissa,Bhadrak,Bhadrak,Fruits,Tropical,Litchi,China Litchi
+24,Orissa,Cuttack,Cuttack,Fish,Freshwater,Mahseer,Mahanadi Mahseer
+24,Orissa,Sambalpur,Bhubaneswar ,Fish,Freshwater,Mahseer,Mahanadi Mahseer
+24,Orissa,Cuttack,Cuttack,Fruits,Seasonal,Mango,Amrapali Mango
+24,Orissa,Puri,Puri,Fruits,Seasonal,Mango,Dashari Mango
+24,Orissa,Bhadrak,Bhadrak,Fruits,Seasonal,Mango,Kesar Mango
+24,Orissa,Sambalpur,Bhubaneswar ,Fruits,Seasonal,Mango,Amrapali Mango
+24,Orissa,Cuttack,Cuttack,Dairy products,Milk products,Milk,Liquid milk
+24,Orissa,Puri,Puri,Dairy products,Milk products,Milk,Liquid milk
+24,Orissa,Sambalpur,Bhubaneswar ,Dairy products,Milk products,Milk,Liquid milk
+24,Orissa,Cuttack,Cuttack,Meat,Red Meat,Mutton,Mutton
+24,Orissa,Puri,Puri,Meat,Red Meat,Mutton,Mutton
+24,Orissa,Bhadrak,Bhadrak,Meat,Red Meat,Mutton,Mutton
+24,Orissa,Sundargarh,Rourkela,Vegetables,Pods and Seeds,Okra,Lady finger
+24,Orissa,Sambalpur,Bhubaneswar ,Vegetables,Pods and Seeds,Okra,Lady finger
+24,Orissa,Sundargarh,Rourkela,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+24,Orissa,Bhadrak,Bhadrak,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+24,Orissa,Sundargarh,Rourkela,Fruits,Citrus Fruits,Orange,Mandarin Orange
+24,Orissa,Sambalpur,Bhubaneswar ,Fruits,Citrus Fruits,Orange,Mandarin Orange
+24,Orissa,Cuttack,Cuttack,Flowers,Pink flowers,Orchid,Bauhinia Orchid
+24,Orissa,Bhadrak,Bhadrak,Flowers,Pink flowers,Orchid,Bauhinia Orchid
+24,Orissa,Cuttack,Cuttack,Dairy products,Milk products,Paneer,Paneer
+24,Orissa,Bhadrak,Bhadrak,Dairy products,Milk products,Paneer,Paneer
+24,Orissa,Puri,Puri,Fruits,Tropical,Papaya,Washington Papaya
+24,Orissa,Bhadrak,Bhadrak,Fish,Freshwater,Perch,Pink Perch
+24,Orissa,Sundargarh,Rourkela,Flowers,Pink flowers,Periwinkle,Periwinkle
+24,Orissa,Sambalpur,Bhubaneswar ,Flowers,Purple flowers,Periwinkle,Periwinkle
+24,Orissa,Puri,Puri,Fruits,Tropical,Pineapple,Queen Pineapple
+24,Orissa,Sundargarh,Rourkela,Flowers,White flowers,Plumeria,Champa
+24,Orissa,Sundargarh,Rourkela,Meat,Red Meat,Pork,Pork
+24,Orissa,Bhadrak,Bhadrak,Vegetables,Roots and Tubers,Potato,Sweet Potato
+24,Orissa,Sundargarh,Rourkela,Fish,Freshwater,Pulasa,Godavari Pulasa
+24,Orissa,Puri,Puri,Fish,Freshwater,Pulasa,Godavari Pulasa
+24,Orissa,Bhadrak,Bhadrak,Fish,Freshwater,Pulasa,Godavari Pulasa
+24,Orissa,Sundargarh,Rourkela,Grocery,Household items,Rice,Black Rice
+24,Orissa,Sambalpur,Bhubaneswar ,Grocery,Household items,Rice,Pusa Rice
+24,Orissa,Sambalpur,Bhubaneswar ,Fish,Freshwater,Rohu,Rohu
+24,Orissa,Puri,Puri,Flowers,Red flowers,Rose,Red Rose
+24,Orissa,Cuttack,Cuttack,Grocery,Beverages,Tea,Tea
+24,Orissa,Puri,Puri,Grocery,Beverages,Tea,Tea
+24,Orissa,Sambalpur,Bhubaneswar ,Grocery,Beverages,Tea,Tea
+24,Orissa,Puri,Puri,Fish,Freshwater,Tilapia,Tilapia
+24,Orissa,Sambalpur,Bhubaneswar ,Fish,Freshwater,Tilapia,Tilapia
+24,Orissa,Cuttack,Cuttack,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+24,Orissa,Puri,Puri,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+24,Orissa,Sambalpur,Bhubaneswar ,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+24,Orissa,Cuttack,Cuttack,Grocery,Household items,Wheat,Wheat
+24,Orissa,Sundargarh,Rourkela,Grocery,Household items,Wheat,Wheat
+24,Orissa,Puri,Puri,Grocery,Household items,Wheat,Wheat
+24,Orissa,Bhadrak,Bhadrak,Grocery,Household items,Wheat,Wheat
+24,Orissa,Sambalpur,Bhubaneswar ,Grocery,Household items,Wheat,Wheat
+25,Madhya Pradesh,Indore,Indore,Fruits,Stone Fruits,Apricot,Kashmiri Apricot
+25,Madhya Pradesh,Gwalior,Gwalior,Fruits,Stone Fruits,Apricot,Wild Apricot
+25,Madhya Pradesh,Indore,Indore,Fish,Freshwater,Aquarium Fish,Zebra Fish
+25,Madhya Pradesh,Bhopal,Bhopal,Fish,Freshwater,Aquarium Fish,Zebra Fish
+25,Madhya Pradesh,Indore,Indore,Bakery,Baked products,Bread,Bread
+25,Madhya Pradesh,Bhopal,Bhopal,Bakery,Baked products,Bread,Bread
+25,Madhya Pradesh,Ujjain,Ujjain,Bakery,Baked products,Bread,Bread
+25,Madhya Pradesh,Gwalior,Gwalior,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+25,Madhya Pradesh,Gwalior,Gwalior,Bakery,Baked products,Brownie,Brownie
+25,Madhya Pradesh,Indore,Indore,Dairy products,Milk products,Butter,Butter
+25,Madhya Pradesh,Ujjain,Ujjain,Dairy products,Milk products,Butter,Butter
+25,Madhya Pradesh,Jabalpur,Jabalpur,Bakery,Pastry products,Cakes,Cakes
+25,Madhya Pradesh,Gwalior,Gwalior,Bakery,Pastry products,Cakes,Cakes
+25,Madhya Pradesh,Ujjain,Ujjain,Flowers,Pink flowers,Carnation,Carnation
+25,Madhya Pradesh,Bhopal,Bhopal,Fish,Freshwater,Catla,Catla
+25,Madhya Pradesh,Ujjain,Ujjain,Fish,Freshwater,Catla,Catla
+25,Madhya Pradesh,Jabalpur,Jabalpur,Fruits,Stone Fruits,Cherry,Sunburst Cherry
+25,Madhya Pradesh,Gwalior,Gwalior,Fruits,Stone Fruits,Cherry,Sunburst Cherry
+25,Madhya Pradesh,Indore,Indore,Meat,White Meat,Chicken,Chicken
+25,Madhya Pradesh,Bhopal,Bhopal,Meat,White Meat,Chicken,Chicken
+25,Madhya Pradesh,Gwalior,Gwalior,Meat,White Meat,Chicken,Chicken
+25,Madhya Pradesh,Ujjain,Ujjain,Meat,White Meat,Chicken,Chicken
+25,Madhya Pradesh,Bhopal,Bhopal,Grocery,Beverages,Coffee,Coffee
+25,Madhya Pradesh,Ujjain,Ujjain,Grocery,Beverages,Coffee,Coffee
+25,Madhya Pradesh,Indore,Indore,Bakery,Baked products,Cookies,Cookies
+25,Madhya Pradesh,Bhopal,Bhopal,Bakery,Baked products,Cookies,Cookies
+25,Madhya Pradesh,Ujjain,Ujjain,Bakery,Baked products,Cookies,Cookies
+25,Madhya Pradesh,Indore,Indore,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+25,Madhya Pradesh,Gwalior,Gwalior,Vegetables,Brassica,Cruciferous vegetables,Cauliflower
+25,Madhya Pradesh,Jabalpur,Jabalpur,Bakery,Pastry products,Cup-cakes,Cup-cakes
+25,Madhya Pradesh,Jabalpur,Jabalpur,Dairy products,Milk products,Curd,Dahi
+25,Madhya Pradesh,Gwalior,Gwalior,Dairy products,Milk products,Curd,Dahi
+25,Madhya Pradesh,Indore,Indore,Grocery,Household items,Dal,Arhar Dal
+25,Madhya Pradesh,Jabalpur,Jabalpur,Grocery,Household items,Dal,Moong Dal
+25,Madhya Pradesh,Bhopal,Bhopal,Grocery,Household items,Dal,Masoor Dal
+25,Madhya Pradesh,Jabalpur,Jabalpur,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+25,Madhya Pradesh,Ujjain,Ujjain,Dairy products,Milk products,Ghee,Pure Ghee
+25,Madhya Pradesh,Bhopal,Bhopal,Vegetables,Melons and Squash,Gourd,Ash Gourd
+25,Madhya Pradesh,Bhopal,Bhopal,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+25,Madhya Pradesh,Bhopal,Bhopal,Flowers,White flowers,Jasmine,Crepe Jasmine
+25,Madhya Pradesh,Jabalpur,Jabalpur,Fruits,Seasonal,Kiwi,Chinese Gooseberry Kiwi
+25,Madhya Pradesh,Ujjain,Ujjain,Fruits,Seasonal,Kiwi,Chinese Gooseberry Kiwi
+25,Madhya Pradesh,Gwalior,Gwalior,Dairy products,Milk products,Lassi,Lassi
+25,Madhya Pradesh,Indore,Indore,Flowers,White flowers,Lily,Madonna Lily
+25,Madhya Pradesh,Jabalpur,Jabalpur,Flowers,White flowers,Lily,Madonna Lily
+25,Madhya Pradesh,Gwalior,Gwalior,Flowers,White flowers,Lily,Madonna Lily
+25,Madhya Pradesh,Jabalpur,Jabalpur,Flowers,Pink flowers,Lotus,Indian Lotus
+25,Madhya Pradesh,Indore,Indore,Fish,Freshwater,Mahseer,Mahseer Baudas
+25,Madhya Pradesh,Gwalior,Gwalior,Fish,Freshwater,Mahseer,Mahseer Baudas
+25,Madhya Pradesh,Ujjain,Ujjain,Fish,Freshwater,Mahseer,Mahseer Baudas
+25,Madhya Pradesh,Indore,Indore,Fruits,Seasonal,Mango,Alphonso Mango
+25,Madhya Pradesh,Jabalpur,Jabalpur,Fruits,Seasonal,Mango,Alphonso Mango
+25,Madhya Pradesh,Bhopal,Bhopal,Fruits,Seasonal,Mango,Kesar Mango
+25,Madhya Pradesh,Ujjain,Ujjain,Fruits,Seasonal,Mango,Langra Mango
+25,Madhya Pradesh,Bhopal,Bhopal,Flowers,Orange flowers,Marigold,French Marigold
+25,Madhya Pradesh,Indore,Indore,Dairy products,Milk products,Milk,Liquid milk
+25,Madhya Pradesh,Jabalpur,Jabalpur,Dairy products,Milk products,Milk,Liquid milk
+25,Madhya Pradesh,Bhopal,Bhopal,Dairy products,Milk products,Milk,Liquid milk
+25,Madhya Pradesh,Ujjain,Ujjain,Dairy products,Milk products,Milk,Liquid milk
+25,Madhya Pradesh,Indore,Indore,Meat,Red Meat,Mutton,Mutton
+25,Madhya Pradesh,Jabalpur,Jabalpur,Meat,Red Meat,Mutton,Mutton
+25,Madhya Pradesh,Gwalior,Gwalior,Meat,Red Meat,Mutton,Mutton
+25,Madhya Pradesh,Ujjain,Ujjain,Meat,Red Meat,Mutton,Mutton
+25,Madhya Pradesh,Indore,Indore,Vegetables,Pods and Seeds,Okra,Lady finger
+25,Madhya Pradesh,Ujjain,Ujjain,Vegetables,Pods and Seeds,Okra,Lady finger
+25,Madhya Pradesh,Bhopal,Bhopal,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+25,Madhya Pradesh,Gwalior,Gwalior,Fruits,Citrus Fruits,Orange,Mandarin Orange
+25,Madhya Pradesh,Indore,Indore,Flowers,Orange flowers,Palash,Palash
+25,Madhya Pradesh,Gwalior,Gwalior,Flowers,Orange flowers,Palash,Palash
+25,Madhya Pradesh,Ujjain,Ujjain,Flowers,Orange flowers,Palash,Palash
+25,Madhya Pradesh,Indore,Indore,Dairy products,Milk products,Paneer,Paneer
+25,Madhya Pradesh,Bhopal,Bhopal,Dairy products,Milk products,Paneer,Paneer
+25,Madhya Pradesh,Gwalior,Gwalior,Dairy products,Milk products,Paneer,Paneer
+25,Madhya Pradesh,Indore,Indore,Vegetables,Pods and Seeds,Peas,Green Peas
+25,Madhya Pradesh,Jabalpur,Jabalpur,Vegetables,Pods and Seeds,Peas,Green Peas
+25,Madhya Pradesh,Gwalior,Gwalior,Vegetables,Pods and Seeds,Peas,Green Peas
+25,Madhya Pradesh,Ujjain,Ujjain,Vegetables,Pods and Seeds,Peas,Green Peas
+25,Madhya Pradesh,Gwalior,Gwalior,Fish,Freshwater,Perch,Pink Perch
+25,Madhya Pradesh,Indore,Indore,Fruits,Tropical,Pomegranate,Pomegranate
+25,Madhya Pradesh,Bhopal,Bhopal,Fruits,Tropical,Pomegranate,Pomegranate
+25,Madhya Pradesh,Ujjain,Ujjain,Fruits,Tropical,Pomegranate,Pomegranate
+25,Madhya Pradesh,Jabalpur,Jabalpur,Meat,Red Meat,Pork,Pork
+25,Madhya Pradesh,Bhopal,Bhopal,Meat,Red Meat,Pork,Pork
+25,Madhya Pradesh,Jabalpur,Jabalpur,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+25,Madhya Pradesh,Bhopal,Bhopal,Vegetables,Roots and Tubers,Potato,Sweet Potato
+25,Madhya Pradesh,Indore,Indore,Grocery,Household items,Rice,Basmati Rice
+25,Madhya Pradesh,Gwalior,Gwalior,Grocery,Household items,Rice,Pusa Rice
+25,Madhya Pradesh,Jabalpur,Jabalpur,Fish,Freshwater,Rohu,Rohu
+25,Madhya Pradesh,Jabalpur,Jabalpur,Fish,Seawater,Salmon,Indian Salmon
+25,Madhya Pradesh,Bhopal,Bhopal,Fruits,Citrus Fruits,Sweet lime,Mosambi
+25,Madhya Pradesh,Jabalpur,Jabalpur,Grocery,Beverages,Tea,Tea
+25,Madhya Pradesh,Gwalior,Gwalior,Grocery,Beverages,Tea,Tea
+25,Madhya Pradesh,Ujjain,Ujjain,Grocery,Beverages,Tea,Tea
+25,Madhya Pradesh,Jabalpur,Jabalpur,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+25,Madhya Pradesh,Ujjain,Ujjain,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+25,Madhya Pradesh,Indore,Indore,Grocery,Household items,Wheat,Wheat
+25,Madhya Pradesh,Jabalpur,Jabalpur,Grocery,Household items,Wheat,Wheat
+25,Madhya Pradesh,Bhopal,Bhopal,Grocery,Household items,Wheat,Wheat
+25,Madhya Pradesh,Gwalior,Gwalior,Grocery,Household items,Wheat,Wheat
+25,Madhya Pradesh,Ujjain,Ujjain,Grocery,Household items,Wheat,Wheat
+26,Maharashtra,Mumbai,Mumbai,Fruits,Seasonal,Apple,Custard Apple
+26,Maharashtra,Pune,Pune,Fruits,All season,Banana,Cavendish Banana
+26,Maharashtra,Nagpur,Nagpur,Fruits,All season,Banana,Cheeni Champa Banana
+26,Maharashtra,Nashik,Nashik,Vegetables,Pods and Seeds,Beans,French Beans
+26,Maharashtra,Pune,Pune,Meat,Red Meat,Beef,Beef
+26,Maharashtra,Mumbai,Mumbai,Meat,Red Meat,Beef,Beef
+26,Maharashtra,Pune,Pune,Flowers,Pink flowers,Bougainvillea,Bougainvillea
+26,Maharashtra,Mumbai,Mumbai,Flowers,Pink flowers,Bougainvillea,Bougainvillea
+26,Maharashtra,Thane,Thane,Bakery,Baked products,Bread,Bread
+26,Maharashtra,Nashik,Nashik,Bakery,Baked products,Bread,Bread
+26,Maharashtra,Mumbai Suburban,Bandra,Bakery,Baked products,Bread,Bread
+26,Maharashtra,Nashik,Nashik,Bakery,Baked products,Brownie,Brownie
+26,Maharashtra,Nagpur,Nagpur,Bakery,Baked products,Brownie,Brownie
+26,Maharashtra,Nashik,Nashik,Meat,Red Meat,Buffalo,Buffalo
+26,Maharashtra,Nashik,Nashik,Dairy products,Milk products,Butter,Butter
+26,Maharashtra,Mumbai Suburban,Bandra,Dairy products,Milk products,Butter,Butter
+26,Maharashtra,Pune,Pune,Bakery,Pastry products,Cakes,Cakes
+26,Maharashtra,Mumbai,Mumbai,Bakery,Pastry products,Cakes,Cakes
+26,Maharashtra,Mumbai Suburban,Bandra,Bakery,Pastry products,Cakes,Cakes
+26,Maharashtra,Pune,Pune,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+26,Maharashtra,Nashik,Nashik,Vegetables,Roots and Tubers,Carrot,Red Carrot
+26,Maharashtra,Mumbai Suburban,Bandra,Vegetables,Roots and Tubers,Carrot,Karud Kesari Carrot
+26,Maharashtra,Nagpur,Nagpur,Fish,Freshwater,Catla,Catla
+26,Maharashtra,Nashik,Nashik,Dairy products,Milk products,Cheese,Cheese
+26,Maharashtra,Nagpur,Nagpur,Dairy products,Milk products,Cheese,Cheese
+26,Maharashtra,Thane,Thane,Meat,White Meat,Chicken,Chicken
+26,Maharashtra,Nashik,Nashik,Meat,White Meat,Chicken,Chicken
+26,Maharashtra,Nagpur,Nagpur,Meat,White Meat,Chicken,Chicken
+26,Maharashtra,Mumbai Suburban,Bandra,Meat,White Meat,Chicken,Chicken
+26,Maharashtra,Nashik,Nashik,Fruits,Seasonal,Chikoo,Chikoo
+26,Maharashtra,Nagpur,Nagpur,Fruits,Seasonal,Chikoo,Chikoo
+26,Maharashtra,Mumbai,Mumbai,Grocery,Beverages,Coffee,Coffee
+26,Maharashtra,Nagpur,Nagpur,Grocery,Beverages,Coffee,Coffee
+26,Maharashtra,Thane,Thane,Bakery,Baked products,Cookies,Cookies
+26,Maharashtra,Mumbai,Mumbai,Bakery,Baked products,Cookies,Cookies
+26,Maharashtra,Nagpur,Nagpur,Bakery,Baked products,Cookies,Cookies
+26,Maharashtra,Mumbai,Mumbai,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+26,Maharashtra,Pune,Pune,Bakery,Pastry products,Cup-cakes,Cup-cakes
+26,Maharashtra,Pune,Pune,Dairy products,Milk products,Curd,Dahi
+26,Maharashtra,Nagpur,Nagpur,Dairy products,Milk products,Curd,Dahi
+26,Maharashtra,Mumbai Suburban,Bandra,Dairy products,Milk products,Curd,Dahi
+26,Maharashtra,Thane,Thane,Grocery,Household items,Dal,Arhar Dal
+26,Maharashtra,Pune,Pune,Grocery,Household items,Dal,Masoor Dal
+26,Maharashtra,Nashik,Nashik,Grocery,Household items,Dal,Chana Dal
+26,Maharashtra,Nagpur,Nagpur,Grocery,Household items,Dal,Chana Dal
+26,Maharashtra,Mumbai Suburban,Bandra,Grocery,Household items,Dal,Moong Dal
+26,Maharashtra,Thane,Thane,Meat,White Meat,Duck,Duck
+26,Maharashtra,Nagpur,Nagpur,Meat,White Meat,Duck,Duck
+26,Maharashtra,Pune,Pune,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+26,Maharashtra,Thane,Thane,Vegetables,All season,Garlic,Garlic
+26,Maharashtra,Nagpur,Nagpur,Vegetables,All season,Garlic,Garlic
+26,Maharashtra,Mumbai,Mumbai,Dairy products,Milk products,Ghee,Pure Ghee
+26,Maharashtra,Mumbai Suburban,Bandra,Dairy products,Milk products,Ghee,Pure Ghee
+26,Maharashtra,Pune,Pune,Fruits,All season,Grapes,Burmese Grape
+26,Maharashtra,Mumbai,Mumbai,Fruits,All season,Grapes,Burmese Grape
+26,Maharashtra,Mumbai,Mumbai,Vegetables,Greens,Green leafy,Spinach
+26,Maharashtra,Nashik,Nashik,Fruits,All season,Guava,Allahabad Safeda Guava
+26,Maharashtra,Mumbai Suburban,Bandra,Fruits,All season,Guava,Sardar Guava
+26,Maharashtra,Thane,Thane,Flowers,Red flowers,Hibiscus,Hibiscus rosa
+26,Maharashtra,Nagpur,Nagpur,Flowers,Red flowers,Hibiscus,Hibiscus rosa
+26,Maharashtra,Thane,Thane,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+26,Maharashtra,Mumbai,Mumbai,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+26,Maharashtra,Nashik,Nashik,Flowers,White flowers,Jasmine,Coral Jasmine
+26,Maharashtra,Pune,Pune,Dairy products,Milk products,Lassi,Lassi
+26,Maharashtra,Pune,Pune,Fish,Seawater,Mackerel,King Mackerel
+26,Maharashtra,Mumbai Suburban,Bandra,Fish,Seawater,Mackerel,King Mackerel
+26,Maharashtra,Thane,Thane,Fish,Freshwater,Mahseer,Golden Mahseer
+26,Maharashtra,Nashik,Nashik,Fish,Freshwater,Mahseer,Golden Mahseer
+26,Maharashtra,Mumbai Suburban,Bandra,Fish,Freshwater,Mahseer,Golden Mahseer
+26,Maharashtra,Thane,Thane,Fruits,Seasonal,Mango,Mankurad Mango
+26,Maharashtra,Nashik,Nashik,Fruits,Seasonal,Mango,Alphonso Mango
+26,Maharashtra,Mumbai Suburban,Bandra,Fruits,Seasonal,Mango,Alphonso Mango
+26,Maharashtra,Thane,Thane,Dairy products,Milk products,Milk,Liquid milk
+26,Maharashtra,Nashik,Nashik,Dairy products,Milk products,Milk,Liquid milk
+26,Maharashtra,Nagpur,Nagpur,Dairy products,Milk products,Milk,Liquid milk
+26,Maharashtra,Pune,Pune,Flowers,Purple flowers,Morning Glory,Neelkalmi
+26,Maharashtra,Mumbai Suburban,Bandra,Flowers,Purple flowers,Morning Glory,Neelkalmi
+26,Maharashtra,Mumbai,Mumbai,Meat,Red Meat,Mutton,Mutton
+26,Maharashtra,Mumbai Suburban,Bandra,Meat,Red Meat,Mutton,Mutton
+26,Maharashtra,Thane,Thane,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+26,Maharashtra,Nashik,Nashik,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+26,Maharashtra,Mumbai Suburban,Bandra,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+26,Maharashtra,Thane,Thane,Fruits,Citrus Fruits,Orange,Mandarin Orange
+26,Maharashtra,Nagpur,Nagpur,Fruits,Citrus Fruits,Orange,Mandarin Orange
+26,Maharashtra,Thane,Thane,Dairy products,Milk products,Paneer,Paneer
+26,Maharashtra,Mumbai,Mumbai,Dairy products,Milk products,Paneer,Paneer
+26,Maharashtra,Pune,Pune,Vegetables,Pods and Seeds,Peas,Green Peas
+26,Maharashtra,Nagpur,Nagpur,Vegetables,Pods and Seeds,Peas,Green Peas
+26,Maharashtra,Mumbai,Mumbai,Fish,Freshwater,Perch,Pink Perch
+26,Maharashtra,Pune,Pune,Fruits,Tropical,Pineapple,Mauritius Pineapple
+26,Maharashtra,Thane,Thane,Fruits,Tropical,Pomegranate,Pomegranate
+26,Maharashtra,Mumbai,Mumbai,Fruits,Tropical,Pomegranate,Pomegranate
+26,Maharashtra,Mumbai Suburban,Bandra,Fruits,Tropical,Pomegranate,Pomegranate
+26,Maharashtra,Pune,Pune,Fish,Seawater,Pomfret,Pomfret
+26,Maharashtra,Nagpur,Nagpur,Fish,Seawater,Pomfret,Pomfret
+26,Maharashtra,Pune,Pune,Meat,Red Meat,Pork,Pork
+26,Maharashtra,Thane,Thane,Flowers,Purple flowers,Queen Crape ,Mota-Bondara
+26,Maharashtra,Nagpur,Nagpur,Flowers,Purple flowers,Queen Crape ,Mota-Bondara
+26,Maharashtra,Mumbai Suburban,Bandra,Flowers,Purple flowers,Queen Crape ,Mota-Bondara
+26,Maharashtra,Pune,Pune,Vegetables,Roots and Tubers,Radish,Rapid Red White Tipped Radish
+26,Maharashtra,Nagpur,Nagpur,Vegetables,Roots and Tubers,Radish,Scarlet Globe Radish
+26,Maharashtra,Pune,Pune,Grocery,Household items,Rice,Basmati Rice
+26,Maharashtra,Mumbai,Mumbai,Grocery,Household items,Rice,Pusa Rice
+26,Maharashtra,Nashik,Nashik,Fish,Freshwater,Rohu,Rohu
+26,Maharashtra,Nashik,Nashik,Flowers,White flowers,Rose,Tuberose
+26,Maharashtra,Thane,Thane,Fish,Seawater,Salmon,Indian Salmon
+26,Maharashtra,Mumbai,Mumbai,Fish,Seawater,Salmon,Indian Salmon
+26,Maharashtra,Mumbai,Mumbai,Flowers,Yellow flowers,Sunflower,Sunflower
+26,Maharashtra,Thane,Thane,Grocery,Beverages,Tea,Tea
+26,Maharashtra,Nashik,Nashik,Grocery,Beverages,Tea,Tea
+26,Maharashtra,Mumbai,Mumbai,Grocery,Beverages,Tea,Tea
+26,Maharashtra,Mumbai Suburban,Bandra,Grocery,Beverages,Tea,Tea
+26,Maharashtra,Thane,Thane,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+26,Maharashtra,Mumbai,Mumbai,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+26,Maharashtra,Mumbai Suburban,Bandra,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+26,Maharashtra,Thane,Thane,Grocery,Household items,Wheat,Wheat
+26,Maharashtra,Pune,Pune,Grocery,Household items,Wheat,Wheat
+26,Maharashtra,Nashik,Nashik,Grocery,Household items,Wheat,Wheat
+26,Maharashtra,Nagpur,Nagpur,Grocery,Household items,Wheat,Wheat
+26,Maharashtra,Mumbai Suburban,Bandra,Grocery,Household items,Wheat,Wheat
+27,Telangana,Nizamabad,Nizamabad,Meat,Red Meat,Beef,Beef
+27,Telangana,Hyderabad,Hyderabad,Bakery,Baked products,Bread,Bread
+27,Telangana,Warangal ,Warangal ,Bakery,Baked products,Bread,Bread
+27,Telangana,Warangal ,Warangal ,Vegetables,Fruit-vegetables,Brinjal,Aruna Brinjal
+27,Telangana,Warangal ,Warangal ,Bakery,Baked products,Brownie,Brownie
+27,Telangana,Medchal Malkajgiri,Shamirpet,Dairy products,Milk products,Butter,Butter
+27,Telangana,Nizamabad,Nizamabad,Dairy products,Milk products,Butter,Butter
+27,Telangana,Sangareddy,Sangareddy,Dairy products,Milk products,Butter,Butter
+27,Telangana,Medchal Malkajgiri,Shamirpet,Bakery,Pastry products,Cakes,Cakes
+27,Telangana,Sangareddy,Sangareddy,Bakery,Pastry products,Cakes,Cakes
+27,Telangana,Warangal ,Warangal ,Fish,Freshwater,Carp,Carnatic Carp
+27,Telangana,Nizamabad,Nizamabad,Fish,Freshwater,Carp,Mrigal Carp
+27,Telangana,Sangareddy,Sangareddy,Fish,Freshwater,Carp,Common Carp
+27,Telangana,Medchal Malkajgiri,Shamirpet,Dairy products,Milk products,Cheese,Cheese
+27,Telangana,Hyderabad,Hyderabad,Meat,White Meat,Chicken,Chicken
+27,Telangana,Medchal Malkajgiri,Shamirpet,Meat,White Meat,Chicken,Chicken
+27,Telangana,Sangareddy,Sangareddy,Meat,White Meat,Chicken,Chicken
+27,Telangana,Hyderabad,Hyderabad,Meat,White Meat,Chicken,Chicken
+27,Telangana,Hyderabad,Hyderabad,Fruits,Seasonal,Chikoo,Chikoo
+27,Telangana,Nizamabad,Nizamabad,Fruits,Seasonal,Chikoo,Chikoo
+27,Telangana,Medchal Malkajgiri,Shamirpet,Vegetables,Nightshade vegetables,Chillies,Green Chilli
+27,Telangana,Sangareddy,Sangareddy,Vegetables,Nightshade vegetables,Chillies,Green Chilli
+27,Telangana,Warangal ,Warangal ,Grocery,Beverages,Coffee,Coffee
+27,Telangana,Hyderabad,Hyderabad,Bakery,Baked products,Cookies,Cookies
+27,Telangana,Nizamabad,Nizamabad,Bakery,Baked products,Cookies,Cookies
+27,Telangana,Sangareddy,Sangareddy,Bakery,Baked products,Cookies,Cookies
+27,Telangana,Medchal Malkajgiri,Shamirpet,Bakery,Pastry products,Cup-cakes,Cup-cakes
+27,Telangana,Nizamabad,Nizamabad,Bakery,Pastry products,Cup-cakes,Cup-cakes
+27,Telangana,Nizamabad,Nizamabad,Dairy products,Milk products,Curd,Dahi
+27,Telangana,Hyderabad,Hyderabad,Grocery,Household items,Dal,Masoor Dal
+27,Telangana,Medchal Malkajgiri,Shamirpet,Grocery,Household items,Dal,Arhar Dal
+27,Telangana,Sangareddy,Sangareddy,Grocery,Household items,Dal,Moong Dal
+27,Telangana,Hyderabad,Hyderabad,Fish,Freshwater,Eel,Indian Mottled Eel
+27,Telangana,Warangal ,Warangal ,Fish,Freshwater,Eel,Indian Mottled Eel
+27,Telangana,Warangal ,Warangal ,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+27,Telangana,Hyderabad,Hyderabad,Dairy products,Milk products,Ghee,Pure Ghee
+27,Telangana,Sangareddy,Sangareddy,Dairy products,Milk products,Ghee,Pure Ghee
+27,Telangana,Medchal Malkajgiri,Shamirpet,Vegetables,Melons and Squash,Gourd,Ridge Gourd
+27,Telangana,Nizamabad,Nizamabad,Vegetables,Melons and Squash,Gourd,Bitter Gourd
+27,Telangana,Nizamabad,Nizamabad,Vegetables,Greens,Green leafy,Spinach
+27,Telangana,Hyderabad,Hyderabad,Fruits,All season,Guava,Allahabad Safeda Guava
+27,Telangana,Warangal ,Warangal ,Fruits,All season,Guava,Sardar Guava
+27,Telangana,Sangareddy,Sangareddy,Fruits,All season,Guava,Sardar Guava
+27,Telangana,Medchal Malkajgiri,Shamirpet,Fish,Freshwater,Hilsa,Ilish
+27,Telangana,Sangareddy,Sangareddy,Fish,Freshwater,Hilsa,Ilish
+27,Telangana,Medchal Malkajgiri,Shamirpet,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+27,Telangana,Nizamabad,Nizamabad,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+27,Telangana,Hyderabad,Hyderabad,Flowers,White flowers,Jasmine,Coral Jasmine
+27,Telangana,Nizamabad,Nizamabad,Flowers,White flowers,Jasmine,Crepe Jasmine
+27,Telangana,Hyderabad,Hyderabad,Meat,Red Meat,Lamb,Lamb
+27,Telangana,Warangal ,Warangal ,Meat,Red Meat,Lamb,Lamb
+27,Telangana,Sangareddy,Sangareddy,Meat,Red Meat,Lamb,Lamb
+27,Telangana,Sangareddy,Sangareddy,Meat,Red Meat,Lamb,Lamb
+27,Telangana,Warangal ,Warangal ,Dairy products,Milk products,Lassi,Lassi
+27,Telangana,Nizamabad,Nizamabad,Fruits,Citrus Fruits,Lime,Acid Lime
+27,Telangana,Hyderabad,Hyderabad,Fruits,Seasonal,Mango,Kesar Mango
+27,Telangana,Warangal ,Warangal ,Fruits,Seasonal,Mango,Himayat Mango
+27,Telangana,Sangareddy,Sangareddy,Fruits,Seasonal,Mango,Pedda Rasalu Mango
+27,Telangana,Hyderabad,Hyderabad,Dairy products,Milk products,Milk,Liquid milk
+27,Telangana,Warangal ,Warangal ,Dairy products,Milk products,Milk,Liquid milk
+27,Telangana,Sangareddy,Sangareddy,Dairy products,Milk products,Milk,Liquid milk
+27,Telangana,Hyderabad,Hyderabad,Fish,Freshwater,Murrel,Snakehead Murrel
+27,Telangana,Medchal Malkajgiri,Shamirpet,Fish,Freshwater,Murrel,Snakehead Murrel
+27,Telangana,Nizamabad,Nizamabad,Fish,Freshwater,Murrel,Snakehead Murrel
+27,Telangana,Nizamabad,Nizamabad,Fruits,Melons,Musk melon,Musk melon
+27,Telangana,Medchal Malkajgiri,Shamirpet,Meat,Red Meat,Mutton,Mutton
+27,Telangana,Warangal ,Warangal ,Meat,Red Meat,Mutton,Mutton
+27,Telangana,Hyderabad,Hyderabad,Vegetables,Pods and Seeds,Okra,Lady finger
+27,Telangana,Medchal Malkajgiri,Shamirpet,Flowers,Pink flowers,Oleander,Ganneru Flower
+27,Telangana,Warangal ,Warangal ,Flowers,Pink flowers,Oleander,Ganneru Flower
+27,Telangana,Hyderabad,Hyderabad,Vegetables,Roots and Tubers,Onion,Pusa Ratnar Onion
+27,Telangana,Warangal ,Warangal ,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+27,Telangana,Sangareddy,Sangareddy,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+27,Telangana,Medchal Malkajgiri,Shamirpet,Fruits,Citrus Fruits,Orange,Sweet Orange
+27,Telangana,Hyderabad,Hyderabad,Dairy products,Milk products,Paneer,Paneer
+27,Telangana,Medchal Malkajgiri,Shamirpet,Fruits,Tropical,Papaya,Washington Papaya
+27,Telangana,Sangareddy,Sangareddy,Fruits,Tropical,Papaya,Pusa Delicious Papaya
+27,Telangana,Nizamabad,Nizamabad,Meat,Red Meat,Pork,Pork
+27,Telangana,Medchal Malkajgiri,Shamirpet,Vegetables,Roots and Tubers,Potato,Kufri Jawahar Potato
+27,Telangana,Nizamabad,Nizamabad,Vegetables,Roots and Tubers,Potato,Kufri Chandramukhi Potato
+27,Telangana,Hyderabad,Hyderabad,Grocery,Household items,Rice,Sona Masoori Rice
+27,Telangana,Medchal Malkajgiri,Shamirpet,Grocery,Household items,Rice,Sona Masoori Rice
+27,Telangana,Warangal ,Warangal ,Grocery,Household items,Rice,Chitti Muthyalu Rice
+27,Telangana,Nizamabad,Nizamabad,Grocery,Household items,Rice,Chitti Muthyalu Rice
+27,Telangana,Sangareddy,Sangareddy,Grocery,Household items,Rice,Sona Masoori Rice
+27,Telangana,Medchal Malkajgiri,Shamirpet,Flowers,Red flowers,Rose,Red Rose
+27,Telangana,Sangareddy,Sangareddy,Flowers,Red flowers,Rose,Red Rose
+27,Telangana,Warangal ,Warangal ,Flowers,White flowers,Rose,Tuberose
+27,Telangana,Hyderabad,Hyderabad,Flowers,Yellow flowers,Tanner's Cassia,Tangedu Flower
+27,Telangana,Nizamabad,Nizamabad,Flowers,Yellow flowers,Tanner's Cassia,Tangedu Flower
+27,Telangana,Sangareddy,Sangareddy,Flowers,Yellow flowers,Tanner's Cassia,Tangedu Flower
+27,Telangana,Hyderabad,Hyderabad,Grocery,Beverages,Tea,Tea
+27,Telangana,Medchal Malkajgiri,Shamirpet,Grocery,Beverages,Tea,Tea
+27,Telangana,Warangal ,Warangal ,Grocery,Beverages,Tea,Tea
+27,Telangana,Nizamabad,Nizamabad,Grocery,Beverages,Tea,Tea
+27,Telangana,Hyderabad,Hyderabad,Vegetables,Fruit-vegetables,Tomato,Pusa Hybrid Tomato
+27,Telangana,Warangal ,Warangal ,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+27,Telangana,Sangareddy,Sangareddy,Vegetables,Fruit-vegetables,Tomato,Pusa Hybrid Tomato
+27,Telangana,Medchal Malkajgiri,Shamirpet,Fruits,Melons,Water melon,Water melon
+27,Telangana,Warangal ,Warangal ,Fruits,Melons,Water melon,Water melon
+27,Telangana,Nizamabad,Nizamabad,Grocery,Household items,Wheat,Wheat
+27,Telangana,Sangareddy,Sangareddy,Grocery,Household items,Wheat,Wheat
+28,Kerala,Kozhikode,Kozhikode,Fruits,Seasonal,Apple,Custard Apple
+28,Kerala,Malappuram,Malappuram,Fruits,All season,Banana,Red Banana
+28,Kerala,Kozhikode,Kozhikode,Fruits,All season,Banana,Morris Banana
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Meat,Red Meat,Beef,Beef
+28,Kerala,Ernakulam,Kochi,Meat,Red Meat,Beef,Beef
+28,Kerala,Kozhikode,Kozhikode,Fish,Seawater,Bonito Fish,Pacific Bonito Fish
+28,Kerala,Malappuram,Malappuram,Bakery,Baked products,Bread,Bread
+28,Kerala,Ernakulam,Kochi,Bakery,Baked products,Bread,Bread
+28,Kerala,Ernakulam,Kochi,Bakery,Baked products,Brownie,Brownie
+28,Kerala,Kollam,Kollam,Bakery,Baked products,Brownie,Brownie
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Meat,Red Meat,Buffalo,Buffalo
+28,Kerala,Ernakulam,Kochi,Dairy products,Milk products,Butter,Butter
+28,Kerala,Kollam,Kollam,Dairy products,Milk products,Butter,Butter
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Bakery,Pastry products,Cakes,Cakes
+28,Kerala,Malappuram,Malappuram,Dairy products,Milk products,Cheese,Cheese
+28,Kerala,Kollam,Kollam,Dairy products,Milk products,Cheese,Cheese
+28,Kerala,Kollam,Kollam,Dairy products,Milk products,Cheese,Cheese
+28,Kerala,Malappuram,Malappuram,Meat,White Meat,Chicken,Chicken
+28,Kerala,Ernakulam,Kochi,Meat,White Meat,Chicken,Chicken
+28,Kerala,Kozhikode,Kozhikode,Meat,White Meat,Chicken,Chicken
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Fruits,Seasonal,Chikoo,Chikoo
+28,Kerala,Malappuram,Malappuram,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+28,Kerala,Kollam,Kollam,Vegetables,Nightshade vegetables,Chillies,Green Chilli
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Fruits,All season,Coconut,Indian Coconut
+28,Kerala,Kollam,Kollam,Fruits,All season,Coconut,Indian Coconut
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Grocery,Beverages,Coffee,Coffee
+28,Kerala,Kozhikode,Kozhikode,Grocery,Beverages,Coffee,Coffee
+28,Kerala,Malappuram,Malappuram,Bakery,Baked products,Cookies,Cookies
+28,Kerala,Kozhikode,Kozhikode,Bakery,Baked products,Cookies,Cookies
+28,Kerala,Kollam,Kollam,Bakery,Baked products,Cookies,Cookies
+28,Kerala,Ernakulam,Kochi,Vegetables,Melons and Squash,Cucumber,Straight Eight Cucumber
+28,Kerala,Kozhikode,Kozhikode,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Bakery,Pastry products,Cup-cakes,Cup-cakes
+28,Kerala,Kozhikode,Kozhikode,Bakery,Pastry products,Cup-cakes,Cup-cakes
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Dairy products,Milk products,Curd,Dahi
+28,Kerala,Malappuram,Malappuram,Grocery,Household items,Dal,Urad Dal
+28,Kerala,Ernakulam,Kochi,Grocery,Household items,Dal,Moong Dal
+28,Kerala,Kollam,Kollam,Grocery,Household items,Dal,Masoor Dal
+28,Kerala,Kollam,Kollam,Meat,White Meat,Duck,Duck
+28,Kerala,Ernakulam,Kochi,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+28,Kerala,Kozhikode,Kozhikode,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+28,Kerala,Kozhikode,Kozhikode,Dairy products,Milk products,Ghee,Pure Ghee
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Vegetables,Melons and Squash,Gourd,Bitter Gourd
+28,Kerala,Kozhikode,Kozhikode,Vegetables,Melons and Squash,Gourd,Bitter Gourd
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+28,Kerala,Ernakulam,Kochi,Flowers,Green flowers,Indian Hemp,Dog-bane Flower
+28,Kerala,Malappuram,Malappuram,Fruits,Seasonal,Jackfruit,Srilanka Jackfruit
+28,Kerala,Ernakulam,Kochi,Fruits,Seasonal,Jackfruit,Sindoor Jackfruit
+28,Kerala,Kollam,Kollam,Fruits,Seasonal,Jackfruit,Muttom varikka Jackfruit
+28,Kerala,Ernakulam,Kochi,Fruits,Seasonal,Kiwi,Indian Gooseberry Kiwi
+28,Kerala,Kozhikode,Kozhikode,Fruits,Seasonal,Kiwi,Indian Gooseberry Kiwi
+28,Kerala,Malappuram,Malappuram,Flowers,Purple flowers,Kurinji Flower,Neelakurinji Flower
+28,Kerala,Ernakulam,Kochi,Flowers,Purple flowers,Kurinji Flower,Neelakurinji Flower
+28,Kerala,Kollam,Kollam,Flowers,Purple flowers,Kurinji Flower,Neelakurinji Flower
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Meat,Red Meat,Lamb,Lamb
+28,Kerala,Kozhikode,Kozhikode,Meat,Red Meat,Lamb,Lamb
+28,Kerala,Ernakulam,Kochi,Dairy products,Milk products,Lassi,Lassi
+28,Kerala,Malappuram,Malappuram,Fish,Seawater,Mackerel,King Mackerel
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Fish,Seawater,Mackerel,King Mackerel
+28,Kerala,Kollam,Kollam,Fish,Seawater,Mackerel,King Mackerel
+28,Kerala,Malappuram,Malappuram,Fruits,Seasonal,Mango,Alphonso Mango
+28,Kerala,Ernakulam,Kochi,Fruits,Seasonal,Mango,Bennet Alphonso Mango
+28,Kerala,Kollam,Kollam,Fruits,Seasonal,Mango,Banganapalli Mango
+28,Kerala,Malappuram,Malappuram,Dairy products,Milk products,Milk,Liquid milk
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Dairy products,Milk products,Milk,Liquid milk
+28,Kerala,Kozhikode,Kozhikode,Dairy products,Milk products,Milk,Liquid milk
+28,Kerala,Malappuram,Malappuram,Meat,Red Meat,Mutton,Mutton
+28,Kerala,Ernakulam,Kochi,Meat,Red Meat,Mutton,Mutton
+28,Kerala,Kollam,Kollam,Meat,Red Meat,Mutton,Mutton
+28,Kerala,Malappuram,Malappuram,Vegetables,Pods and Seeds,Okra,Lady finger
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Vegetables,Pods and Seeds,Okra,Lady finger
+28,Kerala,Kollam,Kollam,Vegetables,Pods and Seeds,Okra,Lady finger
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Flowers,Pink flowers,Oleander,Nerium Flower
+28,Kerala,Kozhikode,Kozhikode,Flowers,Red flowers,Pagoda Flower,Pagoda Flower
+28,Kerala,Malappuram,Malappuram,Dairy products,Milk products,Paneer,Paneer
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Fruits,Tropical,Papaya,Honeydew Papaya
+28,Kerala,Malappuram,Malappuram,Fish,Freshwater,Pearl Fish,Pearlspot Karimeen Fish
+28,Kerala,Ernakulam,Kochi,Fish,Freshwater,Pearl Fish,Pearlspot Karimeen Fish
+28,Kerala,Kozhikode,Kozhikode,Fish,Freshwater,Pearl Fish,Pearlspot Karimeen Fish
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Fish,Seawater,Pomfret,Black Pomfret
+28,Kerala,Kozhikode,Kozhikode,Fish,Seawater,Pomfret,Silver Pomfret
+28,Kerala,Malappuram,Malappuram,Meat,Red Meat,Pork,Pork
+28,Kerala,Kozhikode,Kozhikode,Meat,Red Meat,Pork,Pork
+28,Kerala,Kollam,Kollam,Meat,Red Meat,Pork,Pork
+28,Kerala,Kozhikode,Kozhikode,Vegetables,Melons and Squash,Pumpkin,Pumpkin
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Vegetables,Roots and Tubers,Radish,Scarlet Globe Radish
+28,Kerala,Ernakulam,Kochi,Vegetables,Roots and Tubers,Radish,Scarlet Globe Radish
+28,Kerala,Malappuram,Malappuram,Grocery,Household items,Rice,Palakkad Matta Rice
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Grocery,Household items,Rice,Palakkad Matta Rice
+28,Kerala,Ernakulam,Kochi,Grocery,Household items,Rice,Basmati Rice
+28,Kerala,Kozhikode,Kozhikode,Grocery,Household items,Rice,Red Rice
+28,Kerala,Kollam,Kollam,Grocery,Household items,Rice,Kollam Rice
+28,Kerala,Kollam,Kollam,Fish,Freshwater,Rohu,Rohu
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Flowers,Pink flowers,Rose,South Sea Rose
+28,Kerala,Kozhikode,Kozhikode,Flowers,Purple flowers,Rose,South Sea Rose
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Fish,Seawater,Sardine Fish,Goldstripe Sardinella Fish
+28,Kerala,Ernakulam,Kochi,Fish,Seawater,Sardine Fish,Indian Oil Sardine Fish
+28,Kerala,Kollam,Kollam,Fish,Seawater,Sardine Fish,Goldstripe Sardinella Fish
+28,Kerala,Ernakulam,Kochi,Fish,Seawater,Seer Fish,Seer Fish
+28,Kerala,Malappuram,Malappuram,Grocery,Beverages,Tea,Tea
+28,Kerala,Ernakulam,Kochi,Grocery,Beverages,Tea,Tea
+28,Kerala,Kozhikode,Kozhikode,Grocery,Beverages,Tea,Tea
+28,Kerala,Kollam,Kollam,Grocery,Beverages,Tea,Tea
+28,Kerala,Malappuram,Malappuram,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+28,Kerala,Ernakulam,Kochi,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+28,Kerala,Kollam,Kollam,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+28,Kerala,Kollam,Kollam,Flowers,Pink flowers,Water Lily,Pink water Lily
+28,Kerala,Malappuram,Malappuram,Flowers,White flowers,Water Lily,White water Lily
+28,Kerala,Thiruvananthapuram,Thiruvananthapuram,Grocery,Household items,Wheat,Wheat
+29,Karnataka,Bangalore,Bengaluru,Fruits,All season,Apple,Indian crab Apple
+29,Karnataka,Mysore,Mysore,Fruits,All season,Apple,Indian crab Apple
+29,Karnataka,Dakshina Kannada,Mangalore,Fruits,All season,Apple,Ben Davis Apple
+29,Karnataka,Belgaum,Belgaum,Fruits,Seasonal,Apple,Custard Apple
+29,Karnataka,Dakshina Kannada,Mangalore,Fruits,Seasonal,Avocado,Avocado
+29,Karnataka,Bangalore,Bengaluru,Vegetables,Pods and Seeds,Beans,French Beans
+29,Karnataka,Dakshina Kannada,Mangalore,Vegetables,Pods and Seeds,Beans,French Beans
+29,Karnataka,Mysore,Mysore,Meat,Red Meat,Beef,Beef
+29,Karnataka,Dakshina Kannada,Mangalore,Meat,Red Meat,Beef,Beef
+29,Karnataka,Dakshina Kannada,Mangalore,Fish,Seawater,Bonito Fish,Pacific Bonito Fish
+29,Karnataka,Bangalore,Bengaluru,Bakery,Baked products,Bread,Bread
+29,Karnataka,Mysore,Mysore,Bakery,Baked products,Bread,Bread
+29,Karnataka,Mysore,Mysore,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+29,Karnataka,Mysore,Mysore,Bakery,Baked products,Brownie,Brownie
+29,Karnataka,Dakshina Kannada,Mangalore,Bakery,Baked products,Brownie,Brownie
+29,Karnataka,Mysore,Mysore,Meat,Red Meat,Buffalo,Buffalo
+29,Karnataka,Bangalore,Bengaluru,Dairy products,Milk products,Butter,Butter
+29,Karnataka,Dakshina Kannada,Mangalore,Dairy products,Milk products,Butter,Butter
+29,Karnataka,Dakshina Kannada,Mangalore,Dairy products,Milk products,Butter,Butter
+29,Karnataka,Belgaum,Belgaum,Bakery,Pastry products,Cakes,Cakes
+29,Karnataka,Bangalore,Bengaluru,Meat,White Meat,Chicken,Chicken
+29,Karnataka,Dharwad,Hubli-Dharwad ,Meat,White Meat,Chicken,Chicken
+29,Karnataka,Belgaum,Belgaum,Fruits,Seasonal,Chikoo,Chikoo
+29,Karnataka,Dharwad,Hubli-Dharwad ,Fruits,Seasonal,Chikoo,Chikoo
+29,Karnataka,Belgaum,Belgaum,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+29,Karnataka,Dharwad,Hubli-Dharwad ,Vegetables,Nightshade vegetables,Chillies,Byadgi Chilli
+29,Karnataka,Mysore,Mysore,Grocery,Beverages,Coffee,Coffee
+29,Karnataka,Bangalore,Bengaluru,Bakery,Baked products,Cookies,Cookies
+29,Karnataka,Dharwad,Hubli-Dharwad ,Bakery,Baked products,Cookies,Cookies
+29,Karnataka,Dakshina Kannada,Mangalore,Bakery,Baked products,Cookies,Cookies
+29,Karnataka,Bangalore,Bengaluru,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+29,Karnataka,Dakshina Kannada,Mangalore,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+29,Karnataka,Belgaum,Belgaum,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+29,Karnataka,Dharwad,Hubli-Dharwad ,Vegetables,Melons and Squash,Cucumber,Chandrasankar Cucumber
+29,Karnataka,Belgaum,Belgaum,Bakery,Pastry products,Cup-cakes,Cup-cakes
+29,Karnataka,Dharwad,Hubli-Dharwad ,Bakery,Pastry products,Cup-cakes,Cup-cakes
+29,Karnataka,Belgaum,Belgaum,Dairy products,Milk products,Curd,Dahi
+29,Karnataka,Dharwad,Hubli-Dharwad ,Dairy products,Milk products,Curd,Dahi
+29,Karnataka,Bangalore,Bengaluru,Grocery,Household items,Dal,Masoor Dal
+29,Karnataka,Belgaum,Belgaum,Grocery,Household items,Dal,Arhar Dal
+29,Karnataka,Dakshina Kannada,Mangalore,Grocery,Household items,Dal,Moong Dal
+29,Karnataka,Belgaum,Belgaum,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+29,Karnataka,Belgaum,Belgaum,Fruits,All season,Grapes,Burmese Grape
+29,Karnataka,Dharwad,Hubli-Dharwad ,Fruits,All season,Grapes,Gulabi Grape
+29,Karnataka,Mysore,Mysore,Fruits,All season,Guava,Allahabad Safeda Guava
+29,Karnataka,Mysore,Mysore,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+29,Karnataka,Bangalore,Bengaluru,Flowers,White flowers,Jasmine,Coral Jasmine
+29,Karnataka,Dharwad,Hubli-Dharwad ,Flowers,White flowers,Jasmine,Crepe Jasmine
+29,Karnataka,Belgaum,Belgaum,Meat,Red Meat,Lamb,Lamb
+29,Karnataka,Dharwad,Hubli-Dharwad ,Dairy products,Milk products,Lassi,Lassi
+29,Karnataka,Bangalore,Bengaluru,Fish,Seawater,Mackerel,King Mackerel
+29,Karnataka,Mysore,Mysore,Fish,Seawater,Mackerel,King Mackerel
+29,Karnataka,Bangalore,Bengaluru,Fruits,Seasonal,Mango,Alphonso Mango
+29,Karnataka,Mysore,Mysore,Fruits,Seasonal,Mango,Bennet Alphonso Mango
+29,Karnataka,Dakshina Kannada,Mangalore,Fruits,Seasonal,Mango,Banganapalli Mango
+29,Karnataka,Bangalore,Bengaluru,Dairy products,Milk products,Milk,Liquid milk
+29,Karnataka,Belgaum,Belgaum,Dairy products,Milk products,Milk,Liquid milk
+29,Karnataka,Mysore,Mysore,Dairy products,Milk products,Milk,Liquid milk
+29,Karnataka,Dakshina Kannada,Mangalore,Dairy products,Milk products,Milk,Liquid milk
+29,Karnataka,Dharwad,Hubli-Dharwad ,Fruits,Melons,Musk melon,Musk melon
+29,Karnataka,Bangalore,Bengaluru,Meat,Red Meat,Mutton,Mutton
+29,Karnataka,Dharwad,Hubli-Dharwad ,Meat,Red Meat,Mutton,Mutton
+29,Karnataka,Mysore,Mysore,Vegetables,Pods and Seeds,Okra,Lady finger
+29,Karnataka,Belgaum,Belgaum,Flowers,Pink flowers,Oleander,Ganneru Flower
+29,Karnataka,Mysore,Mysore,Flowers,Pink flowers,Oleander,Ganneru Flower
+29,Karnataka,Belgaum,Belgaum,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+29,Karnataka,Dharwad,Hubli-Dharwad ,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+29,Karnataka,Bangalore,Bengaluru,Dairy products,Milk products,Paneer,Paneer
+29,Karnataka,Mysore,Mysore,Dairy products,Milk products,Paneer,Paneer
+29,Karnataka,Dharwad,Hubli-Dharwad ,Dairy products,Milk products,Paneer,Paneer
+29,Karnataka,Bangalore,Bengaluru,Fish,Freshwater,Pearl Fish,Pearlspot Karimeen Fish
+29,Karnataka,Dharwad,Hubli-Dharwad ,Fish,Freshwater,Pearl Fish,Pearlspot Karimeen Fish
+29,Karnataka,Dakshina Kannada,Mangalore,Fish,Freshwater,Pearl Fish,Pearlspot Karimeen Fish
+29,Karnataka,Bangalore,Bengaluru,Fruits,Tropical,Pineapple,Mauritius Pineapple
+29,Karnataka,Belgaum,Belgaum,Fish,Seawater,Pomfret,Black Pomfret
+29,Karnataka,Belgaum,Belgaum,Meat,Red Meat,Pork,Pork
+29,Karnataka,Dakshina Kannada,Mangalore,Meat,Red Meat,Pork,Pork
+29,Karnataka,Bangalore,Bengaluru,Grocery,Household items,Rice,Sona Masoori Rice
+29,Karnataka,Belgaum,Belgaum,Grocery,Household items,Rice,Sona Masoori Rice
+29,Karnataka,Mysore,Mysore,Grocery,Household items,Rice,Chitti Muthyalu Rice
+29,Karnataka,Dharwad,Hubli-Dharwad ,Grocery,Household items,Rice,Chitti Muthyalu Rice
+29,Karnataka,Dakshina Kannada,Mangalore,Grocery,Household items,Rice,Sona Masoori Rice
+29,Karnataka,Belgaum,Belgaum,Flowers,Red flowers,Rose,Red Rose
+29,Karnataka,Dakshina Kannada,Mangalore,Flowers,Red flowers,Rose,Red Rose
+29,Karnataka,Mysore,Mysore,Flowers,White flowers,Rose,Tuberose
+29,Karnataka,Belgaum,Belgaum,Fish,Seawater,Sardine Fish,Goldstripe Sardinella Fish
+29,Karnataka,Dharwad,Hubli-Dharwad ,Fish,Seawater,Sardine Fish,Indian Oil Sardine Fish
+29,Karnataka,Mysore,Mysore,Fish,Seawater,Seer Fish,Seer Fish
+29,Karnataka,Bangalore,Bengaluru,Flowers,Yellow flowers,Tanner's Cassia,Tangedu Flower
+29,Karnataka,Dharwad,Hubli-Dharwad ,Flowers,Yellow flowers,Tanner's Cassia,Tangedu Flower
+29,Karnataka,Dakshina Kannada,Mangalore,Flowers,Yellow flowers,Tanner's Cassia,Tangedu Flower
+29,Karnataka,Bangalore,Bengaluru,Grocery,Beverages,Tea,Tea
+29,Karnataka,Belgaum,Belgaum,Grocery,Beverages,Tea,Tea
+29,Karnataka,Mysore,Mysore,Grocery,Beverages,Tea,Tea
+29,Karnataka,Dharwad,Hubli-Dharwad ,Grocery,Beverages,Tea,Tea
+29,Karnataka,Bangalore,Bengaluru,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+29,Karnataka,Mysore,Mysore,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+29,Karnataka,Dakshina Kannada,Mangalore,Vegetables,Fruit-vegetables,Tomato,Rosada Tomato
+29,Karnataka,Dharwad,Hubli-Dharwad ,Grocery,Household items,Wheat,Wheat
+29,Karnataka,Dakshina Kannada,Mangalore,Grocery,Household items,Wheat,Wheat
+30,Tamil Nadu,Chennai,Chennai,Fruits,All season,Apple,Indian crab Apple
+30,Tamil Nadu,Vellore,Vellore,Fruits,All season,Apple,Indian crab Apple
+30,Tamil Nadu,Madurai,Madurai,Fruits,All season,Apple,Ben Davis Apple
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Fruits,Seasonal,Apple,Custard Apple
+30,Tamil Nadu,Coimbatore,Coimbatore,Fruits,Seasonal,Avocado,Avocado
+30,Tamil Nadu,Chennai,Chennai,Vegetables,Pods and Seeds,Beans,French Beans
+30,Tamil Nadu,Madurai,Madurai,Vegetables,Pods and Seeds,Beans,French Beans
+30,Tamil Nadu,Chennai,Chennai,Bakery,Baked products,Bread,Bread
+30,Tamil Nadu,Vellore,Vellore,Vegetables,Fruit-vegetables,Brinjal,Swarna Shobha Brinjal
+30,Tamil Nadu,Vellore,Vellore,Bakery,Baked products,Brownie,Brownie
+30,Tamil Nadu,Madurai,Madurai,Dairy products,Milk products,Butter,Butter
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Bakery,Pastry products,Cakes,Cakes
+30,Tamil Nadu,Vellore,Vellore,Bakery,Pastry products,Cakes,Cakes
+30,Tamil Nadu,Coimbatore,Coimbatore,Bakery,Pastry products,Cakes,Cakes
+30,Tamil Nadu,Vellore,Vellore,Fish,Freshwater,Catla,Catla
+30,Tamil Nadu,Vellore,Vellore,Dairy products,Milk products,Cheese,Cheese
+30,Tamil Nadu,Chennai,Chennai,Meat,White Meat,Chicken,Chicken
+30,Tamil Nadu,Vellore,Vellore,Meat,White Meat,Chicken,Chicken
+30,Tamil Nadu,Chennai,Chennai,Fruits,Seasonal,Chikoo,Chikoo
+30,Tamil Nadu,Coimbatore,Coimbatore,Fruits,Seasonal,Chikoo,Chikoo
+30,Tamil Nadu,Vellore,Vellore,Vegetables,Nightshade vegetables,Chillies,Jwala Chilli
+30,Tamil Nadu,Coimbatore,Coimbatore,Vegetables,Nightshade vegetables,Chillies,Byadgi Chilli
+30,Tamil Nadu,Vellore,Vellore,Grocery,Beverages,Coffee,Coffee
+30,Tamil Nadu,Chennai,Chennai,Bakery,Baked products,Cookies,Cookies
+30,Tamil Nadu,Coimbatore,Coimbatore,Bakery,Baked products,Cookies,Cookies
+30,Tamil Nadu,Madurai,Madurai,Bakery,Baked products,Cookies,Cookies
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+30,Tamil Nadu,Madurai,Madurai,Vegetables,Brassica,Cruciferous vegetables,Cabbage
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Vegetables,Melons and Squash,Cucumber,Long Green Cucumber
+30,Tamil Nadu,Coimbatore,Coimbatore,Vegetables,Melons and Squash,Cucumber,Chandrasankar Cucumber
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Bakery,Pastry products,Cup-cakes,Cup-cakes
+30,Tamil Nadu,Madurai,Madurai,Bakery,Pastry products,Cup-cakes,Cup-cakes
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Dairy products,Milk products,Curd,Dahi
+30,Tamil Nadu,Vellore,Vellore,Dairy products,Milk products,Curd,Dahi
+30,Tamil Nadu,Madurai,Madurai,Dairy products,Milk products,Curd,Dahi
+30,Tamil Nadu,Vellore,Vellore,Grocery,Household items,Dal,Arhar Dal
+30,Tamil Nadu,Coimbatore,Coimbatore,Grocery,Household items,Dal,Masoor Dal
+30,Tamil Nadu,Madurai,Madurai,Grocery,Household items,Dal,Arhar Dal
+30,Tamil Nadu,Vellore,Vellore,Meat,White Meat,Duck,Duck
+30,Tamil Nadu,Madurai,Madurai,Meat,White Meat,Duck,Duck
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+30,Tamil Nadu,Coimbatore,Coimbatore,Dairy products,Frozen desserts,Frozen yoghurt,Yoghurt
+30,Tamil Nadu,Chennai,Chennai,Dairy products,Milk products,Ghee,Pure Ghee
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Fruits,All season,Grapes,Burmese Grape
+30,Tamil Nadu,Coimbatore,Coimbatore,Fruits,All season,Grapes,Gulabi Grape
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Fruits,All season,Guava,Allahabad Safeda Guava
+30,Tamil Nadu,Vellore,Vellore,Dairy products,Frozen desserts,Ice-cream,Ice-cream
+30,Tamil Nadu,Chennai,Chennai,Flowers,White flowers,Jasmine,Night-blooming Jasmine
+30,Tamil Nadu,Vellore,Vellore,Flowers,White flowers,Jasmine,Night-blooming Jasmine
+30,Tamil Nadu,Madurai,Madurai,Flowers,White flowers,Jasmine,Mogra
+30,Tamil Nadu,Chennai,Chennai,Meat,Red Meat,Lamb,Lamb
+30,Tamil Nadu,Vellore,Vellore,Fruits,Seasonal,Mango,Bennet Alphonso Mango
+30,Tamil Nadu,Madurai,Madurai,Fruits,Seasonal,Mango,Banganapalli Mango
+30,Tamil Nadu,Coimbatore,Coimbatore,Flowers,Yellow flowers,Marigold,African Marigold
+30,Tamil Nadu,Chennai,Chennai,Dairy products,Milk products,Milk,Liquid milk
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Dairy products,Milk products,Milk,Liquid milk
+30,Tamil Nadu,Coimbatore,Coimbatore,Dairy products,Milk products,Milk,Liquid milk
+30,Tamil Nadu,Madurai,Madurai,Dairy products,Milk products,Milk,Liquid milk
+30,Tamil Nadu,Vellore,Vellore,Fruits,Melons,Musk melon,Musk melon
+30,Tamil Nadu,Madurai,Madurai,Fruits,Melons,Musk melon,Water melon
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Meat,Red Meat,Mutton,Mutton
+30,Tamil Nadu,Coimbatore,Coimbatore,Meat,Red Meat,Mutton,Mutton
+30,Tamil Nadu,Madurai,Madurai,Meat,Red Meat,Mutton,Mutton
+30,Tamil Nadu,Chennai,Chennai,Vegetables,Pods and Seeds,Okra,Lady finger
+30,Tamil Nadu,Coimbatore,Coimbatore,Vegetables,Pods and Seeds,Okra,Lady finger
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+30,Tamil Nadu,Madurai,Madurai,Vegetables,Roots and Tubers,Onion,Pusa Red Onion
+30,Tamil Nadu,Chennai,Chennai,Dairy products,Milk products,Paneer,Paneer
+30,Tamil Nadu,Coimbatore,Coimbatore,Dairy products,Milk products,Paneer,Paneer
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Flowers,Purple flowers,Passion Flower,Krishnakamal
+30,Tamil Nadu,Chennai,Chennai,Fruits,Tropical,Pineapple,Mauritius Pineapple
+30,Tamil Nadu,Chennai,Chennai,Flowers,White flowers,Plumeria,Champa
+30,Tamil Nadu,Coimbatore,Coimbatore,Flowers,White flowers,Plumeria,Champa
+30,Tamil Nadu,Madurai,Madurai,Flowers,White flowers,Plumeria,Champa
+30,Tamil Nadu,Vellore,Vellore,Fish,Seawater,Pomfret,Pomfret
+30,Tamil Nadu,Madurai,Madurai,Fish,Seawater,Pomfret,Pomfret
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Meat,Red Meat,Pork,Pork
+30,Tamil Nadu,Coimbatore,Coimbatore,Meat,Red Meat,Pork,Pork
+30,Tamil Nadu,Chennai,Chennai,Grocery,Household items,Rice,Desi Dhan Rice
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Grocery,Household items,Rice,Red Rice
+30,Tamil Nadu,Vellore,Vellore,Grocery,Household items,Rice,Red Rice
+30,Tamil Nadu,Madurai,Madurai,Grocery,Household items,Rice,Desi Dhan Rice
+30,Tamil Nadu,Chennai,Chennai,Fish,Freshwater,Rohu,Rohu
+30,Tamil Nadu,Coimbatore,Coimbatore,Fish,Freshwater,Rohu,Rohu
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Flowers,Red flowers,Rose,Red Rose
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Fish,Seawater,Salmon,Indian Salmon
+30,Tamil Nadu,Coimbatore,Coimbatore,Fish,Seawater,Salmon,Indian Salmon
+30,Tamil Nadu,Madurai,Madurai,Fish,Seawater,Salmon,Indian Salmon
+30,Tamil Nadu,Vellore,Vellore,Flowers,Yellow flowers,Sunflower,Sunflower
+30,Tamil Nadu,Chennai,Chennai,Grocery,Beverages,Tea,Tea
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Grocery,Beverages,Tea,Tea
+30,Tamil Nadu,Coimbatore,Coimbatore,Grocery,Beverages,Tea,Tea
+30,Tamil Nadu,Madurai,Madurai,Grocery,Beverages,Tea,Tea
+30,Tamil Nadu,Chennai,Chennai,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+30,Tamil Nadu,Vellore,Vellore,Vegetables,Fruit-vegetables,Tomato,Pusa Ruby Tomato
+30,Tamil Nadu,Chennai,Chennai,Fish,Seawater,Tuna,Tuna
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Fish,Seawater,Tuna,Tuna
+30,Tamil Nadu,Chennai,Chennai,Grocery,Household items,Wheat,Wheat
+30,Tamil Nadu,Kanchipuram,Kanchipuram,Grocery,Household items,Wheat,Wheat
+30,Tamil Nadu,Coimbatore,Coimbatore,Grocery,Household items,Wheat,Wheat
